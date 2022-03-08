@@ -1,7 +1,7 @@
 <template>
-    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 ">
+<!--    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 ">-->
         <p
-            class="text-6xl text-center"
+            class="text-6xl text-center mt-32"
             style="font-family: 'Poppins', sans-serif; font-weight:bold;">
             Portfolio
         </p>
@@ -110,11 +110,23 @@
             </div>
         </div>
 
-        <div class="flex items-center  ">
-            <div class="content pt-8 " style="margin: initial !important;">
+    <p
+        class="text-3xl mt-16 "
+        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+        My Cpastone Project
+    </p>
+
+    <p
+        class="text-md mt-4 "
+        style="font-family: 'Poppins', sans-serif;">
+        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
+    </p>
+
+    <div class="md:flex items-center  ">
+            <div class="  " style="margin: initial !important;">
                 <a href="https://www.tedxuniversityofessex.com/">
                     <div class="content-overlay"></div>
-                    <img :src="esn" alt="Gif" width="550" class=""/>
+                    <img :src="esn" alt="Gif"   class="w-full "/>
                     <div class="content-details fadeIn-bottom">
                         <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
                         <p class="content-text">Web Design & Development</p>
@@ -140,14 +152,14 @@
         </div>
 
 
-    </div>
+<!--    </div>-->
 </template>
 
 <script>
 
 
 import ted from "/images/ted.webp";
-import esn from "/images/mockup.png";
+import esn from "/images/esn2.png";
 import {Swiper, SwiperSlide} from 'swiper/vue';
 import 'swiper/css';
 

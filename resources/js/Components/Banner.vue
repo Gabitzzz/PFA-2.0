@@ -1,5 +1,4 @@
 <template>
-    <div class="w-full px-4  sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40">
 
 
         <div class="flex-none sm:flex align-center items-center">
@@ -64,7 +63,6 @@
 
 
 
-    </div>
 
 </template>
 

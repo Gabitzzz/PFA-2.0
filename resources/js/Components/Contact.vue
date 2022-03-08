@@ -1,7 +1,6 @@
 <template>
-    <div class="w-full px-4  sm:px-8 md:px-16 lg:px-24 xl:px-40 py-8">
         <p
-            class="text-6xl mb-2 flex justify-center "
+            class="text-6xl mb-2 flex justify-center mt-16 "
             style="font-family: 'Poppins', sans-serif; font-weight:bold;">
 
             Contact me
@@ -76,7 +75,6 @@
 
 
         </div>
-    </div>
 
 </template>
 

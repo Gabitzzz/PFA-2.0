@@ -21582,7 +21582,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _images_ted_webp__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../images/ted.webp */ "./public/images/ted.webp");
-/* harmony import */ var _images_mockup_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../images/mockup.png */ "./public/images/mockup.png");
+/* harmony import */ var _images_esn2_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../images/esn2.png */ "./public/images/esn2.png");
 /* harmony import */ var swiper_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! swiper/vue */ "./node_modules/swiper/vue/swiper-vue.js");
 /* harmony import */ var swiper_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! swiper/css */ "./node_modules/swiper/swiper.min.css");
 
@@ -21594,7 +21594,7 @@ __webpack_require__.r(__webpack_exports__);
   data: function data() {
     return {
       ted: _images_ted_webp__WEBPACK_IMPORTED_MODULE_0__["default"],
-      esn: _images_mockup_png__WEBPACK_IMPORTED_MODULE_1__["default"]
+      esn: _images_esn2_png__WEBPACK_IMPORTED_MODULE_1__["default"]
     };
   }
 });
@@ -22177,13 +22177,9 @@ var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-e37b7c5c"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
 
-var _hoisted_1 = {
-  "class": "w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24"
-};
-
-var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-6xl text-center",
+    "class": "text-6xl text-center mt-16",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -22193,15 +22189,15 @@ var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_3 = {
-  "class": "avatar mt-12 md:flex items-center justify-between"
+var _hoisted_2 = {
+  "class": "mt-12 avatar md:flex items-center justify-between"
 };
-var _hoisted_4 = {
+var _hoisted_3 = {
   "class": "flex rounded-full m-8"
 };
-var _hoisted_5 = ["src"];
+var _hoisted_4 = ["src"];
 
-var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "mx-10"
   }, " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam sapiente voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam sapiente voluptatem. ", -1
@@ -22209,7 +22205,19 @@ var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<p class=\"text-3xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Career </p><div class=\"flex justify-center px-4 mt-8\" data-v-e37b7c5c><div class=\"timeline\" data-v-e37b7c5c><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2022</h3><p data-v-e37b7c5c>Essex Social Network</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c> Started Essex Social Network, a Social Media Platform for students from University of Essex </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2021</h3><p data-v-e37b7c5c>Lițcan Nicolae-Gabriel PFA</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c> Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various fields of activity, including architecture, banking, electricity or e-commerce,</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January-March 2021</h3><p data-v-e37b7c5c>Title, Company</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c> Handled school&#39;s hardware(printers, routers, computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and Edus Platform as software. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2020</h3><p data-v-e37b7c5c>Title, Company</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c>Worked on various Projects, including Formula Student, AMY Club or House Price Prediction.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2019</h3><p data-v-e37b7c5c>Title, Company</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c>Started studying Computer Science at University of Essex and moved out to Colchester, UK.</p></div></div></div><!--            &lt;pdf src=&quot;./path/to/static/relativity.pdf&quot;&gt;&lt;/pdf&gt;--></div><p class=\"text-3xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Tech Stalk </p><input type=\"radio\" name=\"rotateAxis\" class=\"hidden\" id=\"axesY\" checked data-v-e37b7c5c>", 4);
+var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "text-3xl mt-8",
+    style: {
+      "font-family": "'Poppins', sans-serif",
+      "font-weight": "bold"
+    }
+  }, " Career ", -1
+  /* HOISTED */
+  );
+});
+
+var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex justify-center px-4 mt-8\" data-v-e37b7c5c><div class=\"timeline\" data-v-e37b7c5c><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2022</h3><p data-v-e37b7c5c>Essex Social Network</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c> Started Essex Social Network, a Social Media Platform for students from University of Essex </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2021</h3><p data-v-e37b7c5c>Lițcan Nicolae-Gabriel PFA</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c> Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various fields of activity, including architecture, banking, electricity or e-commerce,</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January-March 2021</h3><p data-v-e37b7c5c>Title, Company</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c> Handled school&#39;s hardware(printers, routers, computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and Edus Platform as software. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2020</h3><p data-v-e37b7c5c>Title, Company</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c>Worked on various Projects, including <br data-v-e37b7c5c> Formula Student, <br data-v-e37b7c5c> COVID-19 Analysis and Forecasting Program <br data-v-e37b7c5c> AMY Club <br data-v-e37b7c5c> House Price Prediction.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2019</h3><p data-v-e37b7c5c>Title, Company</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-xl\" data-v-e37b7c5c>Started studying Computer Science at University of Essex and moved out to Colchester, UK.</p></div></div></div><!--            &lt;pdf src=&quot;./path/to/static/relativity.pdf&quot;&gt;&lt;/pdf&gt;--></div><p class=\"text-3xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Tech Stalk </p><p class=\"text-md mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;\" data-v-e37b7c5c> Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects. </p><input type=\"radio\" name=\"rotateAxis\" class=\"hidden\" id=\"axesY\" checked data-v-e37b7c5c>", 4);
 
 var _hoisted_11 = {
   "class": "grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center"
@@ -22404,13 +22412,13 @@ var _hoisted_56 = /*#__PURE__*/_withScopeId(function () {
 });
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 \">"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.me,
     alt: "me",
-    "class": "grayscale about w-full hover:scale-110 duration-300 transition ease-in"
+    "class": "grayscale about w-full duration-300 transition ease-in"
   }, null, 8
   /* PROPS */
-  , _hoisted_5)]), _hoisted_6]), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("LARAVEL "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"grid grid-col-2 gap-2  \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_4)]), _hoisted_5]), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    RESUME  "), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("LARAVEL "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"grid grid-col-2 gap-2  \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.laravel,
     "class": "",
     alt: "",
@@ -22450,7 +22458,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_35)])]), _hoisted_36]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            JS      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_37, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"grid grid-col-2 gap-2  \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_38, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_39, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_35)])]), _hoisted_36]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            JS      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_37, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_38, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_39, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.js,
     "class": "",
     alt: "",
@@ -22482,7 +22490,9 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_55)])]), _hoisted_56])])]);
+  , _hoisted_55)])]), _hoisted_56])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -22537,16 +22547,13 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "w-full px-4 sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40"
-};
-var _hoisted_2 = {
   "class": "flex-none sm:flex align-center items-center"
 };
-var _hoisted_3 = {
+var _hoisted_2 = {
   "class": "flex-auto"
 };
 
-var _hoisted_4 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_3 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-3xl mb-2 flex justify-between",
     style: {
@@ -22560,7 +22567,7 @@ var _hoisted_4 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_4 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     id: "text",
     "class": "text-6xl lg:text-8xl"
@@ -22569,7 +22576,7 @@ var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
     "class": "text-4xl",
     style: {
@@ -22581,11 +22588,11 @@ var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_7 = {
+var _hoisted_6 = {
   "class": "flex mt-6"
 };
 
-var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
     "class": "btn btn-outline rounded-full"
   }, "CONTACT ME", -1
@@ -22593,11 +22600,11 @@ var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_8 = ["src"];
 var _hoisted_9 = ["src"];
 var _hoisted_10 = ["src"];
-var _hoisted_11 = ["src"];
 
-var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "invisible md:visible mockup-code zoom-in-out-box pt-8 scale-110 transition duration-300 shadow-xl mx-6 mt-8 transition ease-in"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("pre", {
@@ -22613,12 +22620,18 @@ var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_13 = {
+var _hoisted_12 = {
   "class": "flex-auto -mt-32 md:mt-0"
 };
-var _hoisted_14 = ["src"];
+var _hoisted_13 = ["src"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [_hoisted_4, _hoisted_5, _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [_hoisted_8, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [_hoisted_3, _hoisted_4, _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_6, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+    src: $data.github,
+    "class": "w-12 ml-2 border rounded-full border-current hover:bg-current",
+    alt: ""
+  }, null, 8
+  /* PROPS */
+  , _hoisted_8), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.github,
     "class": "w-12 ml-2 border rounded-full border-current hover:bg-current",
     alt: ""
@@ -22630,19 +22643,13 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     alt: ""
   }, null, 8
   /* PROPS */
-  , _hoisted_10), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.github,
-    "class": "w-12 ml-2 border rounded-full border-current hover:bg-current",
-    alt: ""
-  }, null, 8
-  /* PROPS */
-  , _hoisted_11)]), _hoisted_12, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"floating\""), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                     style=\"height: 50px; width: 50px; background: rgb(200,200,200);\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </div>")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_10)]), _hoisted_11, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"floating\""), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                     style=\"height: 50px; width: 50px; background: rgb(200,200,200);\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </div>")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.gif,
     alt: "Gif",
     width: "550"
   }, null, 8
   /* PROPS */
-  , _hoisted_14)])])]);
+  , _hoisted_13)])]);
 }
 
 /***/ }),
@@ -22719,13 +22726,9 @@ var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-0935e9a5"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
 
-var _hoisted_1 = {
-  "class": "w-full px-4 sm:px-8 md:px-16 lg:px-24 xl:px-40 py-8"
-};
-
-var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-6xl mb-2 flex justify-center",
+    "class": "text-6xl mb-2 flex justify-center mt-16",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -22735,10 +22738,12 @@ var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"grid grid-cols-1 md:grid-cols-2 items-center\" data-v-0935e9a5><div class=\"mx-4 px-8\" data-v-0935e9a5><p class=\"w-full max-w-lg mt-8 text-4xl font-bold\" data-v-0935e9a5> Let&#39;s Get in Touch </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5> Either you have an inquiry about a potential project, a question about programming or whatever pops into your mind, drop me a message and I will get back to you as soon as possible. </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5> ADDRESS: Brănești, Ilfov, România EMAIL: litcangabi@gmail.com PHONE: +40 773 800 815 </p></div><form class=\"w-full max-w-lg mt-8 bg-contact p-8 rounded-2xl\" data-v-0935e9a5><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" for=\"grid-first-name\" data-v-0935e9a5> Name </label><input class=\"appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"grid-first-name\" type=\"text\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" data-v-0935e9a5> E-mail </label><input class=\"appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"email\" type=\"email\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" data-v-0935e9a5> Message </label><textarea class=\"no-resize appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none\" id=\"message\" data-v-0935e9a5></textarea></div></div><div class=\"md:flex md:items-center\" data-v-0935e9a5><div class=\"md:w-1/3\" data-v-0935e9a5><button class=\"shadow bg-teal-400 hover:bg-teal-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded\" type=\"button\" data-v-0935e9a5> Send </button></div><div class=\"md:w-2/3\" data-v-0935e9a5></div></div></form></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"grid grid-cols-1 md:grid-cols-2 items-center\" data-v-0935e9a5><div class=\"mx-4 px-8\" data-v-0935e9a5><p class=\"w-full max-w-lg mt-8 text-4xl font-bold\" data-v-0935e9a5> Let&#39;s Get in Touch </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5> Either you have an inquiry about a potential project, a question about programming or whatever pops into your mind, drop me a message and I will get back to you as soon as possible. </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5> ADDRESS: Brănești, Ilfov, România EMAIL: litcangabi@gmail.com PHONE: +40 773 800 815 </p></div><form class=\"w-full max-w-lg mt-8 bg-contact p-8 rounded-2xl\" data-v-0935e9a5><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" for=\"grid-first-name\" data-v-0935e9a5> Name </label><input class=\"appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"grid-first-name\" type=\"text\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" data-v-0935e9a5> E-mail </label><input class=\"appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"email\" type=\"email\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" data-v-0935e9a5> Message </label><textarea class=\"no-resize appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none\" id=\"message\" data-v-0935e9a5></textarea></div></div><div class=\"md:flex md:items-center\" data-v-0935e9a5><div class=\"md:w-1/3\" data-v-0935e9a5><button class=\"shadow bg-teal-400 hover:bg-teal-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded\" type=\"button\" data-v-0935e9a5> Send </button></div><div class=\"md:w-2/3\" data-v-0935e9a5></div></div></form></div>", 1);
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" component "), _hoisted_3]);
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" component "), _hoisted_2], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -22908,13 +22913,9 @@ var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-f70c20e6"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
 
-var _hoisted_1 = {
-  "class": "w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32"
-};
-
-var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-6xl text-center",
+    "class": "text-6xl text-center mt-32",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -22924,7 +22925,7 @@ var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_3 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-3xl mt-8",
     style: {
@@ -22936,17 +22937,17 @@ var _hoisted_3 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_4 = {
+var _hoisted_3 = {
   "class": "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 content-center mt-16"
 };
+var _hoisted_4 = {
+  "class": "content"
+};
 var _hoisted_5 = {
-  "class": "content"
-};
-var _hoisted_6 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -22954,9 +22955,9 @@ var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_8 = ["src"];
+var _hoisted_7 = ["src"];
 
-var _hoisted_9 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -22972,14 +22973,14 @@ var _hoisted_9 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_9 = {
+  "class": "content"
+};
 var _hoisted_10 = {
-  "class": "content"
-};
-var _hoisted_11 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -22987,9 +22988,9 @@ var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_13 = ["src"];
+var _hoisted_12 = ["src"];
 
-var _hoisted_14 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_13 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23005,14 +23006,14 @@ var _hoisted_14 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_14 = {
+  "class": "content"
+};
 var _hoisted_15 = {
-  "class": "content"
-};
-var _hoisted_16 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_16 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23020,9 +23021,9 @@ var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_18 = ["src"];
+var _hoisted_17 = ["src"];
 
-var _hoisted_19 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_18 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23038,14 +23039,14 @@ var _hoisted_19 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_19 = {
+  "class": "content"
+};
 var _hoisted_20 = {
-  "class": "content"
-};
-var _hoisted_21 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_21 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23053,9 +23054,9 @@ var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_23 = ["src"];
+var _hoisted_22 = ["src"];
 
-var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23071,14 +23072,14 @@ var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_24 = {
+  "class": "content"
+};
 var _hoisted_25 = {
-  "class": "content"
-};
-var _hoisted_26 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_27 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_26 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23086,9 +23087,9 @@ var _hoisted_27 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_28 = ["src"];
+var _hoisted_27 = ["src"];
 
-var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_28 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23104,14 +23105,14 @@ var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_29 = {
+  "class": "content"
+};
 var _hoisted_30 = {
-  "class": "content"
-};
-var _hoisted_31 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_32 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_31 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23119,9 +23120,9 @@ var _hoisted_32 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_33 = ["src"];
+var _hoisted_32 = ["src"];
 
-var _hoisted_34 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_33 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23137,14 +23138,14 @@ var _hoisted_34 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
+var _hoisted_34 = {
+  "class": "content"
+};
 var _hoisted_35 = {
-  "class": "content"
-};
-var _hoisted_36 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_37 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_36 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23152,9 +23153,9 @@ var _hoisted_37 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_38 = ["src"];
+var _hoisted_37 = ["src"];
 
-var _hoisted_39 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_38 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23170,14 +23171,14 @@ var _hoisted_39 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_40 = {
+var _hoisted_39 = {
   "class": "content"
 };
-var _hoisted_41 = {
+var _hoisted_40 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_42 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_41 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23185,38 +23186,61 @@ var _hoisted_42 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_43 = ["src"];
+var _hoisted_42 = ["src"];
+
+var _hoisted_43 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "content-details fadeIn-bottom"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
+    style: {
+      "color": "white"
+    }
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "content-text"
+  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "content-text"
+  }, "WIX")], -1
+  /* HOISTED */
+  );
+});
 
 var _hoisted_44 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-details fadeIn-bottom"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "text-3xl mt-16",
     style: {
-      "color": "white"
+      "font-family": "'Poppins', sans-serif",
+      "font-weight": "bold"
     }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "WIX")], -1
+  }, " My Cpastone Project ", -1
   /* HOISTED */
   );
 });
 
-var _hoisted_45 = {
-  "class": "flex items-center"
-};
+var _hoisted_45 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "text-md mt-4",
+    style: {
+      "font-family": "'Poppins', sans-serif"
+    }
+  }, " Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects. ", -1
+  /* HOISTED */
+  );
+});
+
 var _hoisted_46 = {
-  "class": "content pt-8",
+  "class": "md:flex items-center"
+};
+var _hoisted_47 = {
+  "class": "",
   style: {
     "margin": "initial !important"
   }
 };
-var _hoisted_47 = {
+var _hoisted_48 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_48 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_49 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23224,9 +23248,9 @@ var _hoisted_48 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_49 = ["src"];
+var _hoisted_50 = ["src"];
 
-var _hoisted_50 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_51 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23242,7 +23266,7 @@ var _hoisted_50 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_51 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_52 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-5xl",
     style: {
@@ -23257,70 +23281,71 @@ var _hoisted_51 = /*#__PURE__*/_withScopeId(function () {
 });
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <img :src=\"ted\" alt=\"Gif\" width=\"550\"/>"), _hoisted_3, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            FIRST ROW  "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_6, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 \">"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <img :src=\"ted\" alt=\"Gif\" width=\"550\"/>"), _hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            FIRST ROW  "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_5, [_hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_8), _hoisted_9])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_11, [_hoisted_12, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_7), _hoisted_8])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_10, [_hoisted_11, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_13), _hoisted_14])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_16, [_hoisted_17, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_12), _hoisted_13])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_15, [_hoisted_16, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_18), _hoisted_19])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_20, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_21, [_hoisted_22, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_17), _hoisted_18])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_20, [_hoisted_21, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_23), _hoisted_24])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_26, [_hoisted_27, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_22), _hoisted_23])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_24, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_25, [_hoisted_26, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_28), _hoisted_29])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_30, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_31, [_hoisted_32, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_27), _hoisted_28])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_29, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_30, [_hoisted_31, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_33), _hoisted_34])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_35, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_36, [_hoisted_37, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_32), _hoisted_33])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_34, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_35, [_hoisted_36, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_38), _hoisted_39])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_40, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_41, [_hoisted_42, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_37), _hoisted_38])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_39, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_40, [_hoisted_41, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_43), _hoisted_44])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_45, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_46, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_47, [_hoisted_48, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_42), _hoisted_43])])]), _hoisted_44, _hoisted_45, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_46, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_47, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_48, [_hoisted_49, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.esn,
     alt: "Gif",
-    width: "550",
-    "class": ""
+    "class": "w-full"
   }, null, 8
   /* PROPS */
-  , _hoisted_49), _hoisted_50])]), _hoisted_51])]);
+  , _hoisted_50), _hoisted_51])]), _hoisted_52]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -23343,27 +23368,23 @@ var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-2b04c2ae"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
 
-var _hoisted_1 = {
-  "class": "w-full px-4 sm:-mt-32 md:mt-0 sm:px-8 md:-pt-32 xl:px-40 py-8"
-};
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<input type=\"checkbox\" id=\"my-modal\" class=\"modal-toggle\" data-v-2b04c2ae><div class=\"modal\" data-v-2b04c2ae><div class=\"modal-box\" data-v-2b04c2ae><h3 class=\"font-bold text-lg\" data-v-2b04c2ae>Congratulations random Interner user!</h3><p class=\"py-4\" data-v-2b04c2ae>You&#39;ve been selected for a chance to get one year of subscription to use Wikipedia for free!</p><div class=\"modal-action\" data-v-2b04c2ae><label for=\"my-modal\" class=\"btn\" data-v-2b04c2ae>CLOSE</label></div></div></div>", 2);
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<input type=\"checkbox\" id=\"my-modal\" class=\"modal-toggle\" data-v-2b04c2ae><div class=\"modal\" data-v-2b04c2ae><div class=\"modal-box\" data-v-2b04c2ae><h3 class=\"font-bold text-lg\" data-v-2b04c2ae>Congratulations random Interner user!</h3><p class=\"py-4\" data-v-2b04c2ae>You&#39;ve been selected for a chance to get one year of subscription to use Wikipedia for free!</p><div class=\"modal-action\" data-v-2b04c2ae><label for=\"my-modal\" class=\"btn\" data-v-2b04c2ae>CLOSE</label></div></div></div>", 2);
-
-var _hoisted_4 = {
+var _hoisted_3 = {
   "class": "flex-none grid justify-items-center md:flex justify-center"
 };
-var _hoisted_5 = {
-  "class": "hover:scale-110 duration-300 transition ease-in"
+var _hoisted_4 = {
+  "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_6 = {
+var _hoisted_5 = {
   "class": "card product-design bg-base-200 duration-300 shadow-xl mx-6 mt-8"
 };
-var _hoisted_7 = {
+var _hoisted_6 = {
   "class": "px-6 pt-6"
 };
-var _hoisted_8 = ["src"];
+var _hoisted_7 = ["src"];
 
-var _hoisted_9 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "items-center text-center m-4"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", {
@@ -23378,18 +23399,18 @@ var _hoisted_9 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_10 = {
-  "class": "hover:scale-110 duration-300 transition ease-in"
+var _hoisted_9 = {
+  "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_11 = {
+var _hoisted_10 = {
   "class": "card web-dev bg-base-200 duration-300 shadow-xl mx-6 mt-8"
 };
-var _hoisted_12 = {
+var _hoisted_11 = {
   "class": "px-6 pt-6"
 };
-var _hoisted_13 = ["src"];
+var _hoisted_12 = ["src"];
 
-var _hoisted_14 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_13 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "items-center text-center m-4"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", {
@@ -23404,44 +23425,46 @@ var _hoisted_14 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_15 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<input type=\"checkbox\" id=\"my-modal2\" class=\"modal-toggle\" data-v-2b04c2ae><div class=\"modal\" data-v-2b04c2ae><div class=\"modal-box\" data-v-2b04c2ae><h3 class=\"font-bold text-lg\" data-v-2b04c2ae>Congratulations random Interner user!</h3><p class=\"py-4\" data-v-2b04c2ae>You&#39;ve been selected for a chance to get one year of subscription to use Wikipedia for free!</p><div class=\"modal-action\" data-v-2b04c2ae><label for=\"my-modal2\" class=\"btn\" data-v-2b04c2ae>CLOSE</label></div></div></div>", 2);
+var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<input type=\"checkbox\" id=\"my-modal2\" class=\"modal-toggle\" data-v-2b04c2ae><div class=\"modal\" data-v-2b04c2ae><div class=\"modal-box\" data-v-2b04c2ae><h3 class=\"font-bold text-lg\" data-v-2b04c2ae>Congratulations random Interner user!</h3><p class=\"py-4\" data-v-2b04c2ae>You&#39;ve been selected for a chance to get one year of subscription to use Wikipedia for free!</p><div class=\"modal-action\" data-v-2b04c2ae><label for=\"my-modal2\" class=\"btn\" data-v-2b04c2ae>CLOSE</label></div></div></div>", 2);
 
-var _hoisted_17 = {
-  "class": "hover:scale-110 duration-300 transition ease-in"
+var _hoisted_16 = {
+  "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_18 = {
+var _hoisted_17 = {
   "class": "card digital-marketing bg-base-200 duration-300 shadow-xl mx-6 mt-8"
 };
-var _hoisted_19 = {
+var _hoisted_18 = {
   "class": "px-6 pt-6"
 };
-var _hoisted_20 = ["src"];
+var _hoisted_19 = ["src"];
 
-var _hoisted_21 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"items-center text-center m-4\" data-v-2b04c2ae><h2 class=\"font-bold text-lg\" data-v-2b04c2ae>Digital Marketing</h2><p class=\"text-sm mt-2\" data-v-2b04c2ae>I identify and evaluates new digital technologies and use web analytics tools to measure site traffic to better optimize marketing campaigns.</p><label for=\"my-modal\" class=\"btn modal-button mt-4\" data-v-2b04c2ae>SEE MORE</label></div><input type=\"checkbox\" id=\"my-modal3\" class=\"modal-toggle\" data-v-2b04c2ae><div class=\"modal\" data-v-2b04c2ae><div class=\"modal-box\" data-v-2b04c2ae><h3 class=\"font-bold text-lg\" data-v-2b04c2ae>Congratulations random Interner user!</h3><p class=\"py-4\" data-v-2b04c2ae>You&#39;ve been selected for a chance to get one year of subscription to use Wikipedia for free!</p><div class=\"modal-action\" data-v-2b04c2ae><label for=\"my-modal3\" class=\"btn\" data-v-2b04c2ae>CLOSE</label></div></div></div>", 3);
+var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"items-center text-center m-4\" data-v-2b04c2ae><h2 class=\"font-bold text-lg\" data-v-2b04c2ae>Digital Marketing</h2><p class=\"text-sm mt-2\" data-v-2b04c2ae>I identify and evaluates new digital technologies and use web analytics tools to measure site traffic to better optimize marketing campaigns.</p><label for=\"my-modal\" class=\"btn modal-button mt-4\" data-v-2b04c2ae>SEE MORE</label></div><input type=\"checkbox\" id=\"my-modal3\" class=\"modal-toggle\" data-v-2b04c2ae><div class=\"modal\" data-v-2b04c2ae><div class=\"modal-box\" data-v-2b04c2ae><h3 class=\"font-bold text-lg\" data-v-2b04c2ae>Congratulations random Interner user!</h3><p class=\"py-4\" data-v-2b04c2ae>You&#39;ve been selected for a chance to get one year of subscription to use Wikipedia for free!</p><div class=\"modal-action\" data-v-2b04c2ae><label for=\"my-modal3\" class=\"btn\" data-v-2b04c2ae>CLOSE</label></div></div></div>", 3);
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("figure", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-4 sm:-mt-32 md:mt-0  sm:px-8 md:-pt-32  xl:px-40 py-8\">"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("figure", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     "class": "mask mask-hexagon",
     src: $data.design,
     alt: "design",
     width: "140"
   }, null, 8
   /* PROPS */
-  , _hoisted_8)]), _hoisted_9])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("figure", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_7)]), _hoisted_8])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("figure", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     "class": "mask mask-circle",
     src: $data.webdev,
     alt: "webdev",
     width: "140"
   }, null, 8
   /* PROPS */
-  , _hoisted_13)]), _hoisted_14])]), _hoisted_15, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_17, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("figure", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_12)]), _hoisted_13])]), _hoisted_14, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_17, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("figure", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     "class": "mask mask-squircle",
     src: $data.mrk,
     alt: "webdev",
     width: "140"
   }, null, 8
   /* PROPS */
-  , _hoisted_20)]), _hoisted_21])])])]);
+  , _hoisted_19)]), _hoisted_20])])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -24154,8 +24177,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
+
+var _withScopeId = function _withScopeId(n) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-317d1a6e"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
+};
+
+var _hoisted_1 = {
+  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40"
+};
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <Head title=\"Welcome\" />"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Navbar"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Banner"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Services"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Portfolio"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["About"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Contact"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Footer"])], 64
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Navbar"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <Head title=\"Welcome\" />"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Banner"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Services"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Portfolio"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["About"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Contact"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Footer"])])], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -24283,7 +24314,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Anton&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.hidden[data-v-e37b7c5c] {\n    position: fixed;\n    top: -10000px;\n    left: -10000px;\n    visibility: hidden;\n}\n@-webkit-keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n@keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n.laravel-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.js-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.css-logo[data-v-e37b7c5c]{\n    width: 64px;\n    height: 64px;\n}\n.html-logo[data-v-e37b7c5c]{\n    width: 64px;\n    height: 64px;\n}\n.sql-logo[data-v-e37b7c5c]{\n    width: 64px;\n    height: 64px;\n}\n#axesY:checked ~ .grid > .skill > .grid > .laravel-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 4s;\n            animation-delay: 4s;\n}\n.laravel-text[data-v-e37b7c5c] {\n    -webkit-animation: laravel-text-e37b7c5c 20s infinite;\n    animation: laravel-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 4s;\n    animation-delay: 4s;\n}\n@-webkit-keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n#axesY:checked ~ .grid > .skill > .grid > .js-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 8s;\n            animation-delay: 8s;\n}\n.js-text[data-v-e37b7c5c] {\n    -webkit-animation: js-text-e37b7c5c 20s infinite;\n    animation: js-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 8s;\n}\n@-webkit-keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n\n/*css*/\n#axesY:checked ~ .grid > .skill > .grid > .css-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 12s;\n            animation-delay: 12s;\n}\n.css-text[data-v-e37b7c5c] {\n    -webkit-animation: css-text-e37b7c5c 20s infinite;\n    animation: css-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 12s;\n}\n@-webkit-keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n\n/*html*/\n#axesY:checked ~ .grid > .skill > .grid > .html-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 16s;\n            animation-delay: 16s;\n}\n.html-text[data-v-e37b7c5c] {\n    -webkit-animation: html-text-e37b7c5c 20s infinite;\n    animation: html-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 16s;\n}\n@-webkit-keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n\n/*sql*/\n#axesY:checked ~ .grid > .skill > .grid > .sql-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 20s;\n            animation-delay: 20s;\n}\n.sql-text[data-v-e37b7c5c] {\n    -webkit-animation: sql-text-e37b7c5c 20s infinite;\n    animation: sql-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 20s;\n            animation-delay: 20s;\n}\n@-webkit-keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n.about[data-v-e37b7c5c] {\n    -webkit-animation: web-dev 20s infinite;\n    animation: about-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    /*animation-delay: 6s;*/\n}\n.about[data-v-e37b7c5c]:hover {\n    background-color: #191D24;\n    -webkit-animation-name: about-e37b7c5c;\n    -webkit-animation-duration: 2000ms;\n    -webkit-animation-timing-function: ease-in;\n    filter: grayscale(0);\n}\n@-webkit-keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n        background-color: #191D24;\n        filter: grayscale(0);\n}\n20% {\n        transform: scale(1.20);\n        background-color: #191D24;\n        filter: grayscale(0);\n}\n30% {\n        transform: scale(1.20);\n        background-color: #191D24;\n        filter: grayscale(0);\n}\n40% {\n        transform: scale(1);\n        background-color: #242933;\n        filter: grayscale(100%);\n}\n}\n@keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n        background-color: #191D24;\n        filter: grayscale(0);\n}\n20% {\n        transform: scale(1.20);\n        background-color: #191D24;\n        filter: grayscale(0);\n}\n30% {\n        transform: scale(1.20);\n        background-color: #191D24;\n        filter: grayscale(0);\n}\n40% {\n        transform: scale(1);\n        background-color: #242933;\n        filter: grayscale(100%);\n}\n}\n\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.hidden[data-v-e37b7c5c] {\n    position: fixed;\n    top: -10000px;\n    left: -10000px;\n    visibility: hidden;\n}\n@-webkit-keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n@keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n.laravel-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.js-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.css-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.html-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.sql-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n#axesY:checked ~ .grid > .skill > .grid > .laravel-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 4s;\n            animation-delay: 4s;\n}\n.laravel-text[data-v-e37b7c5c] {\n    -webkit-animation: laravel-text-e37b7c5c 20s infinite;\n    animation: laravel-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 4s;\n    animation-delay: 4s;\n}\n@-webkit-keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n#axesY:checked ~ .grid > .skill > .grid > .js-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 8s;\n            animation-delay: 8s;\n}\n.js-text[data-v-e37b7c5c] {\n    -webkit-animation: js-text-e37b7c5c 20s infinite;\n    animation: js-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 8s;\n}\n@-webkit-keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n\n/*css*/\n#axesY:checked ~ .grid > .skill > .grid > .css-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 12s;\n            animation-delay: 12s;\n}\n.css-text[data-v-e37b7c5c] {\n    -webkit-animation: css-text-e37b7c5c 20s infinite;\n    animation: css-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 12s;\n}\n@-webkit-keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n\n/*html*/\n#axesY:checked ~ .grid > .skill > .grid > .html-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 16s;\n            animation-delay: 16s;\n}\n.html-text[data-v-e37b7c5c] {\n    -webkit-animation: html-text-e37b7c5c 20s infinite;\n    animation: html-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 16s;\n}\n@-webkit-keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n\n/*sql*/\n#axesY:checked ~ .grid > .skill > .grid > .sql-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 20s;\n            animation-delay: 20s;\n}\n.sql-text[data-v-e37b7c5c] {\n    -webkit-animation: sql-text-e37b7c5c 20s infinite;\n    animation: sql-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 20s;\n            animation-delay: 20s;\n}\n@-webkit-keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n.about[data-v-e37b7c5c] {\n    -webkit-animation: web-dev 20s infinite;\n    animation: about-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    /*animation-delay: 6s;*/\n}\n.about[data-v-e37b7c5c]:hover {\n    /*-webkit-animation-name: about;*/\n    /*-webkit-animation-duration: 2000ms;*/\n    /*-webkit-animation-timing-function: ease-in;*/\n    filter: grayscale(0);\n}\n@-webkit-keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n}\n20% {\n        transform: scale(1.20);\n}\n30% {\n        transform: scale(1.20);\n}\n40% {\n        transform: scale(1);\n}\n}\n@keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n}\n20% {\n        transform: scale(1.20);\n}\n30% {\n        transform: scale(1.20);\n}\n40% {\n        transform: scale(1);\n}\n}\n\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -24355,7 +24386,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.indicator[data-v-4a80dbca] {\n    -webkit-animation: crescendo-4a80dbca 2s alternate infinite ease-in;\n            animation: crescendo-4a80dbca 2s alternate infinite ease-in;\n}\n@-webkit-keyframes crescendo-4a80dbca {\n0% {\n        transform: scale(1);\n}\n100% {\n        transform: scale(1.8);\n}\n}\n@keyframes crescendo-4a80dbca {\n0% {\n        transform: scale(1);\n}\n100% {\n        transform: scale(1.8);\n}\n}\nbody[data-v-4a80dbca], html[data-v-4a80dbca] {\n    margin: 0;\n    font: bold 14px/1.4 'Open Sans', arial, sans-serif;\n    background: #000;\n}\nul[data-v-4a80dbca] {\n    padding: 0;\n    list-style: none;\n    text-align: center;\n}\n.menu-horizontal li[data-v-4a80dbca] {\n    display: table-cell;\n    position: relative;\n}\n.menu-horizontal a[data-v-4a80dbca] {\n    color: #fff;\n    text-transform: uppercase;\n    text-decoration: none;\n    letter-spacing: 0.15em;\n\n    display: inline-block;\n    position: relative;\n}\n.menu-horizontal a[data-v-4a80dbca]:after {\n    background: none repeat scroll 0 0 transparent;\n    bottom: -10px;\n    content: \"\";\n    display: block;\n\n    height: 2px;\n    left: 50%;\n    position: absolute;\n    background: #fff;\n    transition: width 0.3s ease 0s, left 0.3s ease 0s;\n    width: 0;\n}\n.menu-horizontal a[data-v-4a80dbca]:hover:after {\n    width: 100%;\n    left: 0;\n}\n@media screen and (max-height: 300px) {\nul[data-v-4a80dbca] {\n        margin-top: 40px;\n}\n}\n@-webkit-keyframes rotateOnY-4a80dbca {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n@keyframes rotateOnY-4a80dbca {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n#axesY:checked ~ .grid > .skill > .grid > .logo[data-v-4a80dbca] {\n    -webkit-animation: rotateOnY-4a80dbca 20s infinite linear;\n    animation: rotateOnY-4a80dbca 20s infinite linear;\n    -webkit-animation-delay: 4s;\n            animation-delay: 4s;\n}\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.indicator[data-v-4a80dbca] {\n    -webkit-animation: crescendo-4a80dbca 2s alternate infinite ease-in;\n            animation: crescendo-4a80dbca 2s alternate infinite ease-in;\n}\n@-webkit-keyframes crescendo-4a80dbca {\n0% {\n        transform: scale(1);\n}\n100% {\n        transform: scale(1.8);\n}\n}\n@keyframes crescendo-4a80dbca {\n0% {\n        transform: scale(1);\n}\n100% {\n        transform: scale(1.8);\n}\n}\nbody[data-v-4a80dbca], html[data-v-4a80dbca] {\n    margin: 0;\n    font: bold 14px/1.4 'Open Sans', arial, sans-serif;\n    background: #000;\n}\nul[data-v-4a80dbca] {\n    padding: 0;\n    list-style: none;\n    text-align: center;\n}\n.menu-horizontal li[data-v-4a80dbca] {\n    display: table-cell;\n    position: relative;\n}\n.menu-horizontal a[data-v-4a80dbca] {\n    color: #fff;\n    text-transform: uppercase;\n    text-decoration: none;\n    letter-spacing: 0.15em;\n\n    display: inline-block;\n    position: relative;\n}\n.menu-horizontal a[data-v-4a80dbca]:after {\n    background: none repeat scroll 0 0 transparent;\n    bottom: -10px;\n    content: \"\";\n    display: block;\n\n    height: 2px;\n    left: 50%;\n    position: absolute;\n    background: #fff;\n    transition: width 0.3s ease 0s, left 0.3s ease 0s;\n    width: 0;\n}\n.menu-horizontal a[data-v-4a80dbca]:hover:after {\n    width: 100%;\n    left: 0;\n}\n@media screen and (max-height: 300px) {\nul[data-v-4a80dbca] {\n        margin-top: 40px;\n}\n}\n@-webkit-keyframes rotateOnY-4a80dbca {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n@keyframes rotateOnY-4a80dbca {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n\n/*#axesY:checked ~ .grid > .skill > .grid > .logo {*/\n/*    -webkit-animation: rotateOnY 20s infinite linear;*/\n/*    animation: rotateOnY 20s infinite linear;*/\n/*    animation-delay: 4s;*/\n/*}*/\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -24699,6 +24730,21 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./public/images/esn2.png":
+/*!********************************!*\
+  !*** ./public/images/esn2.png ***!
+  \********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/esn2.png?4db2323b0b86dfb0bb4fff2814bc9b1d");
+
+/***/ }),
+
 /***/ "./public/images/github.png":
 /*!**********************************!*\
   !*** ./public/images/github.png ***!
@@ -24786,21 +24832,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/me.jpg?25224530a6b282f828ca9bdff0e9d95b");
-
-/***/ }),
-
-/***/ "./public/images/mockup.png":
-/*!**********************************!*\
-  !*** ./public/images/mockup.png ***!
-  \**********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/mockup.png?15202d034776c024897783afb0b9761c");
 
 /***/ }),
 

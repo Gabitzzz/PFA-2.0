@@ -1,278 +1,283 @@
 <link rel="stylesheet" href="../../../../../Downloads/jquery-flipster-master/src/less/themes/carousel.less">
 <template>
-    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 ">
+    <!--    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 ">-->
 
-        <p
-            class="text-6xl text-center"
-            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-            About Me
-        </p>
-
-
-        <div class="avatar mt-12 md:flex items-center justify-between">
-            <div class="flex rounded-full m-8">
-                <img :src="me" alt="me" class="grayscale about w-full hover:scale-110 duration-300 transition ease-in">
-
-            </div>
-
-            <p class="mx-10">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat
-                voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam
-                sapiente voluptatem.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat
-                voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam
-                sapiente voluptatem.
-
-            </p>
+    <p
+        class="text-6xl text-center mt-16 "
+        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+        About Me
+    </p>
 
 
-        </div>
-        <p
-            class="text-3xl mt-8 "
-            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-            Career
-        </p>
-
-        <div class="flex justify-center px-4 mt-8">
-            <div class="timeline">
-                <div class="entry">
-                    <div class="title">
-                        <h3>2022</h3>
-                        <p>Essex Social Network</p>
-                    </div>
-                    <div class="body">
-                        <p class="text-xl">
-                            Started Essex Social Network, a Social Media Platform for students from University of Essex
-                        </p>
-                    </div>
-                </div>
-                <div class="entry">
-                    <div class="title">
-                        <h3>2021</h3>
-                        <p>Lițcan Nicolae-Gabriel PFA</p>
-                    </div>
-                    <div class="body">
-                        <p class="text-xl">
-                            Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various
-                            fields of activity, including architecture, banking, electricity or e-commerce,</p>
-                    </div>
-                </div>
-                <div class="entry">
-                    <div class="title">
-                        <h3>January-March 2021</h3>
-                        <p>Title, Company</p>
-                    </div>
-                    <div class="body">
-                        <p class="text-xl">
-
-                            Handled school's hardware(printers, routers, computers, tablets, CCTV) and used The
-                            Integrated Information System of Education in Romania and Edus Platform as software.
-                        </p>
-                    </div>
-                </div>
-                <div class="entry">
-                    <div class="title">
-                        <h3>2020</h3>
-                        <p>Title, Company</p>
-                    </div>
-                    <div class="body">
-                        <p class="text-xl">Worked on various Projects, including Formula Student, AMY Club or House
-                            Price Prediction.</p>
-                    </div>
-                </div>
-
-                <div class="entry">
-                    <div class="title">
-                        <h3>2019</h3>
-                        <p>Title, Company</p>
-                    </div>
-                    <div class="body">
-                        <p class="text-xl">Started studying Computer Science at University of Essex and moved out to
-                            Colchester, UK.</p>
-                    </div>
-                </div>
-
-            </div>
-
-            <!--            <pdf src="./path/to/static/relativity.pdf"></pdf>-->
-
+    <div class=" mt-12 avatar md:flex items-center justify-between">
+        <div class="flex  rounded-full m-8">
+            <img :src="me" alt="me" class="grayscale about w-full duration-300 transition ease-in">
 
         </div>
 
+        <p class="mx-10">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat
+            voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam
+            sapiente voluptatem.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat
+            voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam
+            sapiente voluptatem.
 
-        <p
-            class="text-3xl mt-8 "
-            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-            Tech Stalk
         </p>
 
 
-        <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
+    </div>
+    <p
+        class="text-3xl mt-8 "
+        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+        Career
+    </p>
 
-        <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
-
-
-            <!--LARAVEL -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-<!--                <div class="grid grid-col-2 gap-2  ">-->
-                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
-
-                    <div class="laravel-logo">
-                        <img :src="laravel" class="" alt="" width="64" height="64">
-                    </div>
-
+    <!--    RESUME  -->
+    <div class="flex justify-center px-4 mt-8">
+        <div class="timeline">
+            <div class="entry">
+                <div class="title">
+                    <h3>2022</h3>
+                    <p>Essex Social Network</p>
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
-
-                    <p class="laravel-text  align-top  md:ml-8 text-center">
-                        Laravel
+                <div class="body">
+                    <p class="text-xl">
+                        Started Essex Social Network, a Social Media Platform for students from University of Essex
                     </p>
                 </div>
             </div>
-
-            <!--            VUE -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
-
-
-                    <div class="js-logo">
-                        <img :src="vue" class="" alt="" width="64" height="64">
-                    </div>
-
+            <div class="entry">
+                <div class="title">
+                    <h3>2021</h3>
+                    <p>Lițcan Nicolae-Gabriel PFA</p>
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
+                <div class="body">
+                    <p class="text-xl">
+                        Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various
+                        fields of activity, including architecture, banking, electricity or e-commerce,</p>
+                </div>
+            </div>
+            <div class="entry">
+                <div class="title">
+                    <h3>January-March 2021</h3>
+                    <p>Title, Company</p>
+                </div>
+                <div class="body">
+                    <p class="text-xl">
 
-                    <p class="js-text align-top  md:ml-8 text-center">
-                        Vue.JS
+                        Handled school's hardware(printers, routers, computers, tablets, CCTV) and used The
+                        Integrated Information System of Education in Romania and Edus Platform as software.
                     </p>
                 </div>
             </div>
-
-            <!--            TAILWIND-->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-1 justify-center  gap-x-2  ">
-
-                    <div class="css-logo">
-                        <img :src="tailwind" class="" alt="" width="64" height="64">
-                    </div>
-
+            <div class="entry">
+                <div class="title">
+                    <h3>2020</h3>
+                    <p>Title, Company</p>
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
-
-                    <p class="css-text align-top md:ml-8 text-center">
-                        Tailwind.CSS
-                    </p>
-
+                <div class="body">
+                    <p class="text-xl">Worked on various Projects, including <br>
+                        Formula Student, <br>
+                        COVID-19 Analysis and Forecasting Program <br>
+                        AMY Club <br>
+                        House Price Prediction.</p>
                 </div>
             </div>
 
-            <!--            HTML    -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
-
-                    <div class="html-logo">
-                        <img :src="html" class="" alt="" width="64" height="64">
-                    </div>
-
+            <div class="entry">
+                <div class="title">
+                    <h3>2019</h3>
+                    <p>Title, Company</p>
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
-
-                    <p class="html-text   align-top md:ml-8 text-center">
-                        HTML
-                    </p>
+                <div class="body">
+                    <p class="text-xl">Started studying Computer Science at University of Essex and moved out to
+                        Colchester, UK.</p>
                 </div>
             </div>
 
-            <!--            CSS     -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
+        </div>
+
+        <!--            <pdf src="./path/to/static/relativity.pdf"></pdf>-->
 
 
-                    <div class="css-logo">
-                        <img :src="css" class="" alt="" width="64" height="64">
-                    </div>
+    </div>
 
+
+    <p
+        class="text-3xl mt-8 "
+        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+        Tech Stalk
+    </p>
+
+    <p
+        class="text-md mt-4 "
+        style="font-family: 'Poppins', sans-serif;">
+        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
+    </p>
+
+
+    <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
+
+    <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
+
+
+        <!--LARAVEL -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
-                    <p class="css-text  align-top  md:ml-8 text-center">
-                        CSS
-                    </p>
-                </div>
+
             </div>
+            <div class="grid grid-col-2 gap-2  ">
 
-            <!--            JS      -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-<!--                <div class="grid grid-col-2 gap-2  ">-->
-                <div class="grid grid-col-1 justify-center  gap-x-2  ">
-
-                    <div class="js-logo">
-                        <img :src="js" class="" alt="" width="64" height="64">
-                    </div>
-
-                </div>
-                <div class="grid grid-col-2 gap-2  ">
-
-                    <p class="js-text  align-top  md:ml-8 text-center">
-                        JavaScript
-                    </p>
-                </div>
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
             </div>
+        </div>
 
-            <!--             SQL      -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
+        <!--            VUE -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
-                    <div class="sql-logo">
-                        <img :src="sql" class="" alt="" width="64" height="64">
-                    </div>
 
+                <div class="js-logo">
+                    <img :src="vue" class="" alt="" width="64" height="64">
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="sql-text  align-top  md:ml-8 text-center">
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+
+                <p class="js-text align-top  md:ml-8 text-center">
+                    Vue.JS
+                </p>
+            </div>
+        </div>
+
+        <!--            TAILWIND-->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
+                <div class="css-logo">
+                    <img :src="tailwind" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+
+                <p class="css-text align-top md:ml-8 text-center">
+                    Tailwind.CSS
+                </p>
+
+            </div>
+        </div>
+
+        <!--            HTML    -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
+                <div class="html-logo">
+                    <img :src="html" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+
+                <p class="html-text   align-top md:ml-8 text-center">
+                    HTML
+                </p>
+            </div>
+        </div>
+
+        <!--            CSS     -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
+
+                <div class="css-logo">
+                    <img :src="css" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+                <p class="css-text  align-top  md:ml-8 text-center">
+                    CSS
+                </p>
+            </div>
+        </div>
+
+        <!--            JS      -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
+                <div class="js-logo">
+                    <img :src="js" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+
+                <p class="js-text  align-top  md:ml-8 text-center">
+                    JavaScript
+                </p>
+            </div>
+        </div>
+
+        <!--             SQL      -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
+                <div class="sql-logo">
+                    <img :src="sql" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+
+                <p class="sql-text  align-top  md:ml-8 text-center">
 
                     SQL
-                    </p>
-                </div>
+                </p>
             </div>
+        </div>
 
-            <!--            PYTHON      -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
+        <!--            PYTHON      -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
-                    <div class="laravel-logo">
-                        <img :src="python" class="" alt="" width="64" height="64">
-                    </div>
-
+                <div class="laravel-logo">
+                    <img :src="python" class="" alt="" width="64" height="64">
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="laravel-text  align-top  md:ml-8 text-center">
+            </div>
+            <div class="grid grid-col-2 gap-2  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
 
                     Python
-                    </p>
-                </div>
+                </p>
             </div>
+        </div>
 
-            <!--            SKETCH      -->
-            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-1 justify-center  gap-x-2  ">
+        <!--            SKETCH      -->
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
-                    <div class="html-logo">
-                        <img :src="sketch" class="" alt="" width="64" height="64">
-                    </div>
-
+                <div class="html-logo">
+                    <img :src="sketch" class="" alt="" width="64" height="64">
                 </div>
-                <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="html-text  align-top  md:ml-8 text-center">
-                        Sketch
-                    </p>
-                </div>
             </div>
+            <div class="grid grid-col-2 gap-2  ">
 
-
-
+                <p class="html-text  align-top  md:ml-8 text-center">
+                    Sketch
+                </p>
+            </div>
         </div>
 
 
@@ -325,7 +330,6 @@ export default {
 }
 
 
-
 @keyframes rotateOnY {
     5% {
         -webkit-transform: rotateY(90deg);
@@ -348,21 +352,20 @@ export default {
     height: 64px;
 }
 
-.css-logo{
+.css-logo {
     width: 64px;
     height: 64px;
 }
 
-.html-logo{
+.html-logo {
     width: 64px;
     height: 64px;
 }
 
-.sql-logo{
+.sql-logo {
     width: 64px;
     height: 64px;
 }
-
 
 
 #axesY:checked ~ .grid > .skill > .grid > .laravel-logo {
@@ -377,6 +380,7 @@ export default {
     -webkit-animation-delay: 4s;
     animation-delay: 4s;
 }
+
 @keyframes laravel-text {
     5% {
         transform: scale(1.7);
@@ -402,6 +406,7 @@ export default {
     -webkit-animation-delay: 3s;
     animation-delay: 8s;
 }
+
 @keyframes js-text {
     5% {
         transform: scale(1.7);
@@ -428,6 +433,7 @@ export default {
     -webkit-animation-delay: 3s;
     animation-delay: 12s;
 }
+
 @keyframes css-text {
     5% {
         transform: scale(1.7);
@@ -455,6 +461,7 @@ export default {
     -webkit-animation-delay: 3s;
     animation-delay: 16s;
 }
+
 @keyframes html-text {
     5% {
         transform: scale(1.7);
@@ -479,6 +486,7 @@ export default {
     animation: sql-text 20s infinite;
     animation-delay: 20s;
 }
+
 @keyframes sql-text {
     5% {
         transform: scale(1.7);
@@ -501,10 +509,9 @@ export default {
 }
 
 .about:hover {
-    background-color: #191D24;
-    -webkit-animation-name: about;
-    -webkit-animation-duration: 2000ms;
-    -webkit-animation-timing-function: ease-in;
+    /*-webkit-animation-name: about;*/
+    /*-webkit-animation-duration: 2000ms;*/
+    /*-webkit-animation-timing-function: ease-in;*/
     filter: grayscale(0);
 
 }
@@ -512,24 +519,16 @@ export default {
 @keyframes about {
     10% {
         transform: scale(1.20);
-        background-color: #191D24;
-        filter: grayscale(0);
     }
 
     20% {
         transform: scale(1.20);
-        background-color: #191D24;
-        filter: grayscale(0);
     }
     30% {
         transform: scale(1.20);
-        background-color: #191D24;
-        filter: grayscale(0);
     }
     40% {
         transform: scale(1);
-        background-color: #242933;
-        filter: grayscale(100%);
 
 
     }

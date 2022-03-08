@@ -157,10 +157,10 @@ ul {
     }
 }
 
-#axesY:checked ~ .grid > .skill > .grid > .logo {
-    -webkit-animation: rotateOnY 20s infinite linear;
-    animation: rotateOnY 20s infinite linear;
-    animation-delay: 4s;
-}
+/*#axesY:checked ~ .grid > .skill > .grid > .logo {*/
+/*    -webkit-animation: rotateOnY 20s infinite linear;*/
+/*    animation: rotateOnY 20s infinite linear;*/
+/*    animation-delay: 4s;*/
+/*}*/
 
 </style>

@@ -12,20 +12,24 @@ defineProps({
 </script>
 
 <template>
-    <!--    <Head title="Welcome" />-->
     <Navbar></Navbar>
 
-    <Banner></Banner>
+    <!--    <Head title="Welcome" />-->
+    <div class="w-full px-4 py-8  sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40">
 
-    <Services></Services>
 
-    <Portfolio></Portfolio>
+        <Banner></Banner>
 
-    <About></About>
+        <Services></Services>
 
-    <Contact></Contact>
+        <Portfolio></Portfolio>
 
-    <Footer></Footer>
+        <About></About>
+
+        <Contact></Contact>
+
+        <Footer></Footer>
+    </div>
 
 </template>
 <script>
