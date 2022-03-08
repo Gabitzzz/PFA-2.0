@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="../../../../../Downloads/jquery-flipster-master/src/less/themes/carousel.less">
 <template>
     <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 ">
+
         <p
             class="text-6xl text-center"
             style="font-family: 'Poppins', sans-serif; font-weight:bold;">
@@ -8,9 +9,9 @@
         </p>
 
 
-        <div class="avatar mt-12 flex items-center justify-between">
-            <div class="w-full rounded-full    ">
-                <img :src="me" alt="me">
+        <div class="avatar mt-12 md:flex items-center justify-between">
+            <div class="flex rounded-full m-8">
+                <img :src="me" alt="me" class="grayscale about w-full hover:scale-110 duration-300 transition ease-in">
 
             </div>
 
@@ -108,12 +109,13 @@
 
         <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-8">
+        <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
 
 
             <!--LARAVEL -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+<!--                <div class="grid grid-col-2 gap-2  ">-->
+                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="laravel-logo">
                         <img :src="laravel" class="" alt="" width="64" height="64">
@@ -122,15 +124,16 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="laravel-text  align-top ml-8">
+                    <p class="laravel-text  align-top  md:ml-8 text-center">
                         Laravel
                     </p>
                 </div>
             </div>
 
             <!--            VUE -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
 
                     <div class="js-logo">
                         <img :src="vue" class="" alt="" width="64" height="64">
@@ -139,15 +142,15 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="js-text  align-top ml-8">
+                    <p class="js-text align-top  md:ml-8 text-center">
                         Vue.JS
                     </p>
                 </div>
             </div>
 
             <!--            TAILWIND-->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="css-logo">
                         <img :src="tailwind" class="" alt="" width="64" height="64">
@@ -156,7 +159,7 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="css-text  align-top ml-8">
+                    <p class="css-text align-top md:ml-8 text-center">
                         Tailwind.CSS
                     </p>
 
@@ -164,8 +167,8 @@
             </div>
 
             <!--            HTML    -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="html-logo">
                         <img :src="html" class="" alt="" width="64" height="64">
@@ -174,15 +177,16 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="html-text  align-top ml-8">
+                    <p class="html-text   align-top md:ml-8 text-center">
                         HTML
                     </p>
                 </div>
             </div>
 
             <!--            CSS     -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
+
 
                     <div class="css-logo">
                         <img :src="css" class="" alt="" width="64" height="64">
@@ -190,16 +194,16 @@
 
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
-
-                    <p class="css-text  align-top ml-8">
+                    <p class="css-text  align-top  md:ml-8 text-center">
                         CSS
                     </p>
                 </div>
             </div>
 
             <!--            JS      -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+<!--                <div class="grid grid-col-2 gap-2  ">-->
+                <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="js-logo">
                         <img :src="js" class="" alt="" width="64" height="64">
@@ -208,15 +212,15 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="js-text  align-top ml-8">
+                    <p class="js-text  align-top  md:ml-8 text-center">
                         JavaScript
                     </p>
                 </div>
             </div>
 
             <!--             SQL      -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="sql-logo">
                         <img :src="sql" class="" alt="" width="64" height="64">
@@ -225,15 +229,16 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="sql-text  align-top ml-8">
-                        SQL
+                    <p class="sql-text  align-top  md:ml-8 text-center">
+
+                    SQL
                     </p>
                 </div>
             </div>
 
             <!--            PYTHON      -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                    <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="laravel-logo">
                         <img :src="python" class="" alt="" width="64" height="64">
@@ -242,15 +247,16 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="laravel-text  align-top ml-8">
-                        Python
+                    <p class="laravel-text  align-top  md:ml-8 text-center">
+
+                    Python
                     </p>
                 </div>
             </div>
 
             <!--            SKETCH      -->
-            <div class="skill flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <div class="grid grid-col-2 gap-2  ">
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center  gap-x-2  ">
 
                     <div class="html-logo">
                         <img :src="sketch" class="" alt="" width="64" height="64">
@@ -259,11 +265,12 @@
                 </div>
                 <div class="grid grid-col-2 gap-2  ">
 
-                    <p class="html-text  align-top ml-8">
+                    <p class="html-text  align-top  md:ml-8 text-center">
                         Sketch
                     </p>
                 </div>
             </div>
+
 
 
         </div>
@@ -334,6 +341,29 @@ export default {
     width: 64px;
     height: 64px;
 }
+
+
+.js-logo {
+    width: 64px;
+    height: 64px;
+}
+
+.css-logo{
+    width: 64px;
+    height: 64px;
+}
+
+.html-logo{
+    width: 64px;
+    height: 64px;
+}
+
+.sql-logo{
+    width: 64px;
+    height: 64px;
+}
+
+
 
 #axesY:checked ~ .grid > .skill > .grid > .laravel-logo {
     -webkit-animation: rotateOnY 20s infinite linear;
@@ -459,6 +489,48 @@ export default {
     }
     20% {
         transform: scale(1);
+
+    }
+}
+
+.about {
+    -webkit-animation: web-dev 20s infinite;
+    animation: about 20s infinite;
+    -webkit-animation-delay: 3s;
+    /*animation-delay: 6s;*/
+}
+
+.about:hover {
+    background-color: #191D24;
+    -webkit-animation-name: about;
+    -webkit-animation-duration: 2000ms;
+    -webkit-animation-timing-function: ease-in;
+    filter: grayscale(0);
+
+}
+
+@keyframes about {
+    10% {
+        transform: scale(1.20);
+        background-color: #191D24;
+        filter: grayscale(0);
+    }
+
+    20% {
+        transform: scale(1.20);
+        background-color: #191D24;
+        filter: grayscale(0);
+    }
+    30% {
+        transform: scale(1.20);
+        background-color: #191D24;
+        filter: grayscale(0);
+    }
+    40% {
+        transform: scale(1);
+        background-color: #242933;
+        filter: grayscale(100%);
+
 
     }
 }

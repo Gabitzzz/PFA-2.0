@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 ">
+    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 ">
         <p
             class="text-6xl text-center"
             style="font-family: 'Poppins', sans-serif; font-weight:bold;">
@@ -9,8 +9,13 @@
 
         <!--        <img :src="ted" alt="Gif" width="550"/>-->
 
+        <p
+            class="text-3xl mt-8 "
+            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+            Clients
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 content-center mt-16">
 
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 content-center pt-12">
 
             <!--            FIRST ROW  -->
             <div class="content ">

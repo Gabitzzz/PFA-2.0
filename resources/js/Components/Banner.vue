@@ -41,7 +41,7 @@
 
 
 
-                <div class="mockup-code zoom-in-out-box pt-8 scale-110 transition duration-300 shadow-xl mx-6 mt-8 transition ease-in">
+                <div class="invisible md:visible mockup-code zoom-in-out-box pt-8 scale-110 transition duration-300 shadow-xl mx-6 mt-8 transition ease-in">
                     <pre data-prefix="$"><code>npm run watch</code></pre>
                     <pre data-prefix=">" class="text-warning"><code>building...</code></pre>
                     <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
@@ -55,7 +55,7 @@
             </div>
 
 
-            <div class="flex-auto">
+            <div class="flex-auto -mt-32 md:mt-0">
                 <img :src="gif" alt="Gif" width="550"/>
             </div>
 

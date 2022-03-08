@@ -8,7 +8,7 @@
             <div class="flex-1">
 
                 <img :src="logo"
-                     class="w-16 md:w-24 animate-pulse"
+                     class="w-16 md:w-24 "
                      style=" filter:  brightness(0) invert(1);"
                      alt="logo">
             </div>
@@ -144,6 +144,23 @@ ul {
     ul {
         margin-top: 40px;
     }
+}
+
+@keyframes rotateOnY {
+    5% {
+        -webkit-transform: rotateY(90deg);
+        transform: rotateY(90deg);
+    }
+    10% {
+        -webkit-transform: rotateY(0deg);
+        transform: rotateY(0deg);
+    }
+}
+
+#axesY:checked ~ .grid > .skill > .grid > .logo {
+    -webkit-animation: rotateOnY 20s infinite linear;
+    animation: rotateOnY 20s infinite linear;
+    animation-delay: 4s;
 }
 
 </style>
