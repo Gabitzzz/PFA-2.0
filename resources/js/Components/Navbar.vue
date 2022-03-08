@@ -3,7 +3,9 @@
 
     <div class="navbar bg-base-100 mb-40 shadow-xl rounded-box fixed mb-32" style="z-index: 20000">
         <!--        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">-->
-        <div class="w-full px-4  sm:px-8 md:px-16 lg:px-24 xl:px-40">
+<!--        <div class="w-full px-4  sm:px-8 md:px-16 lg:px-24 xl:px-40">-->
+            <div class="w-full px-4 py-8  sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40">
+
 
             <div class="flex-1">
 
