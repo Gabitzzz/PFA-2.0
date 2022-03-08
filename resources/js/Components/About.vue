@@ -119,284 +119,160 @@
 
     <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
 
-    <div class="max-w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
+    <div class="mx-8">
+        <div class="grid max-w-full  grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
+            <!--LARAVEL -->
+            <div
+                class="skill px-4 md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <!--                <div class="grid grid-col-2 gap-2  ">-->
+                <div class="grid grid-col-1 justify-center    ">
 
+                    <div class="laravel-logo">
+                        <img :src="laravel" class="" alt="" width="64" height="64">
+                    </div>
 
-        <!--LARAVEL -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
+                </div>
+                <div class="grid grid-col-3 laravel-text ">
 
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
+                    <p class="  align-top  md:ml-8 text-center">
+                        Laravel
+                    </p>
                 </div>
 
             </div>
-            <div class="grid grid-col-1  ">
 
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
+            <!--                    VUE -->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+                    <div class="js-logo">
+                        <img :src="vue" class="" alt="" width="64" height="64">
+                    </div>
+                </div>
+                <div class="grid grid-col-3 js-text ">
+
+                    <p class="  align-top  md:ml-8 text-center">
+                        Vue
+                    </p>
+                </div>
             </div>
-        </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
 
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
+            <!--            TAILWIND-->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+
+                    <div class="css-logo">
+                        <img :src="tailwind" class="" alt="" width="64" height="64">
+                    </div>
+
+                </div>
+                <div class="grid grid-col-3 css-text ">
+
+                    <p class=" align-top md:ml-8 text-center">
+                        Tailwind.CSS
+                    </p>
+
+                </div>
+            </div>
+
+            <!--            HTML    -->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+                    <div class="html-logo">
+                        <img :src="html" class="" alt="" width="64" height="64">
+                    </div>
                 </div>
 
+                <div class="grid grid-col-3 html-text ">
+                    <p class="mt-2 align-top md:ml-8 text-center">
+                        HTML
+                    </p>
+                </div>
             </div>
-            <div class="grid grid-col-1  ">
 
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
-            </div>
-        </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
-
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
+            <!--            CSS-->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+                    <div class="css-logo">
+                        <img :src="css" class="" alt="" width="64" height="64">
+                    </div>
                 </div>
 
+                <div class="grid grid-col-3 css-text ">
+                    <p class="  align-top  md:ml-8 text-center">
+                        CSS
+                    </p>
+                </div>
             </div>
-            <div class="grid grid-col-1  ">
 
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
-            </div>
-        </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
-
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
+            <!--                        JS      -->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+                    <div class="js-logo">
+                        <img :src="js" class="" alt="" width="64" height="64">
+                    </div>
                 </div>
 
+                <div class="grid grid-col-3 js-text ">
+                    <p class="align-top md:ml-8 text-center">
+                        JavaScript
+                    </p>
+                </div>
             </div>
-            <div class="grid grid-col-1  ">
 
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
+            <!--                         SQL      -->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+
+                    <div class="sql-logo">
+                        <img :src="sql" class="" alt="" width="64" height="64">
+                    </div>
+
+                </div>
+                <!--                        <div class="grid grid-col-2 gap-2  ">-->
+                <div class="grid grid-col-3 sql-text ">
+
+                    <p class="  align-top  md:ml-8 text-center">
+
+                        SQL
+                    </p>
+                </div>
             </div>
-        </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
 
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
+            <!--            PYTHON      -->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
+                    <div class="laravel-logo">
+                        <img :src="python" class="" alt="" width="64" height="64">
+                    </div>
                 </div>
 
-            </div>
-            <div class="grid grid-col-1  ">
-
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
-            </div>
-        </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
-
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
+                <div class="grid grid-col-3 laravel-text ">
+                    <p class="align-top  md:ml-8 text-center">
+                        Python
+                    </p>
                 </div>
-
             </div>
-            <div class="grid grid-col-1  ">
 
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
-            </div>
+                    <!--            SKETCH      -->
+                    <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                        <div class="grid grid-col-1 justify-center    ">
+
+                            <div class="html-logo">
+                                <img :src="sketch" class="" alt="" width="64" height="64">
+                            </div>
+
+                        </div>
+                            <div class="grid grid-col-3 html-text ">
+                            <p class="  align-top  md:ml-8 text-center">
+                                Sketch
+                            </p>
+                        </div>
+                    </div>
+
+
         </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
-
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
-                </div>
-
-            </div>
-            <div class="grid grid-col-1  ">
-
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
-            </div>
-        </div>
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center    ">
-
-                <div class="laravel-logo">
-                    <img :src="laravel" class="" alt="" width="64" height="64">
-                </div>
-
-            </div>
-            <div class="grid grid-col-1  ">
-
-                <p class="laravel-text  align-top  md:ml-8 text-center">
-                    Laravel
-                </p>
-            </div>
-        </div>
-
-<!--        2-->
-
-        <!--            VUE -->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-
-<!--                <div class="js-logo">-->
-<!--                    <img :src="vue" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="js-text align-top  md:ml-8 text-center">-->
-<!--                    Vue.JS-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
-        <!--            TAILWIND-->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-<!--                <div class="css-logo">-->
-<!--                    <img :src="tailwind" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="css-text align-top md:ml-8 text-center">-->
-<!--                    Tailwind.CSS-->
-<!--                </p>-->
-
-<!--            </div>-->
-<!--        </div>-->
-
-        <!--            HTML    -->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-<!--                <div class="html-logo">-->
-<!--                    <img :src="html" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="html-text   align-top md:ml-8 text-center">-->
-<!--                    HTML-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
-        <!--            CSS     -->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-
-<!--                <div class="css-logo">-->
-<!--                    <img :src="css" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-<!--                <p class="css-text  align-top  md:ml-8 text-center">-->
-<!--                    CSS-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
-        <!--            JS      -->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-<!--                <div class="js-logo">-->
-<!--                    <img :src="js" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="js-text  align-top  md:ml-8 text-center">-->
-<!--                    JavaScript-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
-        <!--             SQL      -->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-<!--                <div class="sql-logo">-->
-<!--                    <img :src="sql" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="sql-text  align-top  md:ml-8 text-center">-->
-
-<!--                    SQL-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
-<!--        &lt;!&ndash;            PYTHON      &ndash;&gt;-->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-<!--                <div class="laravel-logo">-->
-<!--                    <img :src="python" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="laravel-text  align-top  md:ml-8 text-center">-->
-
-<!--                    Python-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
-<!--        &lt;!&ndash;            SKETCH      &ndash;&gt;-->
-<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
-<!--            <div class="grid grid-col-1 justify-center    ">-->
-
-<!--                <div class="html-logo">-->
-<!--                    <img :src="sketch" class="" alt="" width="64" height="64">-->
-<!--                </div>-->
-
-<!--            </div>-->
-<!--            <div class="grid grid-col-2 gap-2  ">-->
-
-<!--                <p class="html-text  align-top  md:ml-8 text-center">-->
-<!--                    Sketch-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-
 
     </div>
-
 
 </template>
 
@@ -482,11 +358,36 @@ export default {
 }
 
 
-#axesY:checked ~ .grid > .skill > .grid > .laravel-logo {
+#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .laravel-logo {
     -webkit-animation: rotateOnY 20s infinite linear;
     animation: rotateOnY 20s infinite linear;
     animation-delay: 4s;
 }
+
+#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .js-logo {
+    -webkit-animation: rotateOnY 20s infinite linear;
+    animation: rotateOnY 20s infinite linear;
+    animation-delay: 8s;
+}
+
+#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .html-logo {
+    -webkit-animation: rotateOnY 20s infinite;
+    animation: rotateOnY 20s infinite linear;
+    animation-delay: 12s;
+}
+
+#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .css-logo {
+    -webkit-animation: rotateOnY 20s infinite;
+    animation: rotateOnY 20s infinite linear;
+    animation-delay: 16s;
+}
+
+#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .sql-logo {
+    -webkit-animation: rotateOnY 20s infinite;
+    animation: rotateOnY 20s infinite linear;
+    animation-delay: 20s;
+}
+
 
 .laravel-text {
     -webkit-animation: laravel-text 20s infinite;
@@ -495,108 +396,80 @@ export default {
     animation-delay: 4s;
 }
 
-@media(max-width:760px) {
-    .laravel-text {
-        transform: scale(0.8);
-        -webkit-animation: laravel-text-mobile 5s infinite;
-        animation: laravel-text-mobile 5s infinite;
-        /*-webkit-animation-delay: 4s;*/
-        /*animation-delay: 4s;*/
-    }
-
-    @keyframes laravel-text-mobile {
-        5% {
-            transform: scale(1);
-
-        }
-        15% {
-            transform: scale(1);
-        }
-        20% {
-            transform: scale(0.8);
-        }
-    }
-}
-
-@keyframes laravel-text {
-    5% {
-        transform: scale(1.7);
-
-    }
-    15% {
-        transform: scale(1.7);
-    }
-    20% {
-        transform: scale(1);
-    }
-}
-
-#axesY:checked ~ .grid > .skill > .grid > .js-logo {
-    -webkit-animation: rotateOnY 20s infinite linear;
-    animation: rotateOnY 20s infinite linear;
-    animation-delay: 8s;
-}
-
 .js-text {
     -webkit-animation: js-text 20s infinite;
     animation: js-text 20s infinite;
-    -webkit-animation-delay: 3s;
+    -webkit-animation-delay: 8s;
     animation-delay: 8s;
 }
 
-@keyframes js-text {
-    5% {
-        transform: scale(1.7);
-
-    }
-    15% {
-        transform: scale(1.7);
-    }
-    20% {
-        transform: scale(1);
-    }
-}
-
-/*css*/
-#axesY:checked ~ .grid > .skill > .grid > .css-logo {
-    -webkit-animation: rotateOnY 20s infinite linear;
-    animation: rotateOnY 20s infinite linear;
+.html-text {
+    -webkit-animation: html-text 20s infinite;
+    animation: html-text 20s infinite;
+    -webkit-animation-delay: 12s;
     animation-delay: 12s;
 }
 
 .css-text {
     -webkit-animation: css-text 20s infinite;
     animation: css-text 20s infinite;
-    -webkit-animation-delay: 3s;
-    animation-delay: 12s;
+    -webkit-animation-delay: 16s;
+    animation-delay: 16s;
 }
 
-@keyframes css-text {
+.sql-text {
+    -webkit-animation: css-text 20s infinite;
+    animation: css-text 20s infinite;
+    -webkit-animation-delay: 20s;
+    animation-delay: 20s;
+}
+
+@keyframes laravel-text {
     5% {
         transform: scale(1.7);
-
     }
     15% {
         transform: scale(1.7);
-
     }
     20% {
         transform: scale(1);
     }
 }
 
-/*html*/
-#axesY:checked ~ .grid > .skill > .grid > .html-logo {
-    -webkit-animation: rotateOnY 20s infinite linear;
-    animation: rotateOnY 20s infinite linear;
-    animation-delay: 16s;
+@keyframes laravel-text-mobile {
+    5% {
+        transform: scale(1);
+    }
+    15% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(0.8);
+    }
 }
 
-.html-text {
-    -webkit-animation: html-text 20s infinite;
-    animation: html-text 20s infinite;
-    -webkit-animation-delay: 3s;
-    animation-delay: 16s;
+@keyframes js-text {
+    5% {
+        transform: scale(1.7);
+    }
+    15% {
+        transform: scale(1.7);
+    }
+    20% {
+        transform: scale(1);
+    }
+}
+
+@keyframes js-text-mobile {
+    5% {
+        transform: scale(1);
+    }
+    15% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(0.8);
+    }
 }
 
 @keyframes html-text {
@@ -611,17 +484,40 @@ export default {
     }
 }
 
-/*sql*/
-#axesY:checked ~ .grid > .skill > .grid > .sql-logo {
-    -webkit-animation: rotateOnY 20s infinite linear;
-    animation: rotateOnY 20s infinite linear;
-    animation-delay: 20s;
+@keyframes html-text-mobile {
+    5% {
+        transform: scale(1);
+    }
+    15% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(0.8);
+    }
 }
 
-.sql-text {
-    -webkit-animation: sql-text 20s infinite;
-    animation: sql-text 20s infinite;
-    animation-delay: 20s;
+@keyframes css-text {
+    5% {
+        transform: scale(1.7);
+    }
+    15% {
+        transform: scale(1.7);
+    }
+    20% {
+        transform: scale(1);
+    }
+}
+
+@keyframes css-text-mobile {
+    5% {
+        transform: scale(1);
+    }
+    15% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(0.8);
+    }
 }
 
 @keyframes sql-text {
@@ -630,13 +526,70 @@ export default {
     }
     15% {
         transform: scale(1.7);
-
     }
     20% {
         transform: scale(1);
-
     }
 }
+
+@keyframes sql-text-mobile {
+    5% {
+        transform: scale(1);
+    }
+    15% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(0.8);
+    }
+}
+
+@media (max-width: 760px) {
+    .laravel-text {
+        transform: scale(0.8);
+        -webkit-animation: laravel-text-mobile 20s infinite;
+        animation: laravel-text-mobile 20s infinite;
+        -webkit-animation-delay: 4s;
+        animation-delay: 4s;
+    }
+
+    .js-text {
+        transform: scale(0.8);
+        -webkit-animation: js-text-mobile 20s infinite;
+        animation: js-text-mobile 20s infinite;
+        -webkit-animation-delay: 8s;
+        animation-delay: 8s;
+    }
+
+    .html-text {
+        transform: scale(0.8);
+        -webkit-animation: html-text-mobile 20s infinite;
+        animation: html-text-mobile 20s infinite;
+        -webkit-animation-delay: 12s;
+        animation-delay: 12s;
+    }
+
+    .css-text {
+        transform: scale(0.8);
+        -webkit-animation: css-text-mobile 20s infinite;
+        animation: css-text-mobile 20s infinite;
+        -webkit-animation-delay: 16s;
+        animation-delay: 16s;
+    }
+
+    .sql-text {
+        transform: scale(0.8);
+        -webkit-animation: sql-text-mobile 20s infinite;
+        animation: sql-text-mobile 20s infinite;
+        -webkit-animation-delay: 20s;
+        animation-delay: 20s;
+    }
+
+}
+
+
+/*html*/
+
 
 .about {
     -webkit-animation: web-dev 20s infinite;
@@ -666,8 +619,6 @@ export default {
     }
     40% {
         transform: scale(1);
-
-
     }
 }
 
