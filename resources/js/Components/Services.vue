@@ -19,7 +19,7 @@
 
         <div class="md:hover:scale-110 duration-300 transition ease-in">
             <div
-                class="card product-design bg-base-200  duration-300 shadow-xl mx-6 mt-8">
+                class="card product-design bg-base-200  duration-300 shadow-xl mpx-x-6 mt-8">
 
 
                 <figure class="px-6 pt-6">

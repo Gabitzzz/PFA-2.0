@@ -119,20 +119,132 @@
 
     <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
 
-    <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
+    <div class="max-w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center">
 
 
         <!--LARAVEL -->
         <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
             <!--                <div class="grid grid-col-2 gap-2  ">-->
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+            <div class="grid grid-col-1 justify-center    ">
 
                 <div class="laravel-logo">
                     <img :src="laravel" class="" alt="" width="64" height="64">
                 </div>
 
             </div>
-            <div class="grid grid-col-2 gap-2  ">
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
+
+                <p class="laravel-text  align-top  md:ml-8 text-center">
+                    Laravel
+                </p>
+            </div>
+        </div>
+        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+            <!--                <div class="grid grid-col-2 gap-2  ">-->
+            <div class="grid grid-col-1 justify-center    ">
+
+                <div class="laravel-logo">
+                    <img :src="laravel" class="" alt="" width="64" height="64">
+                </div>
+
+            </div>
+            <div class="grid grid-col-1  ">
 
                 <p class="laravel-text  align-top  md:ml-8 text-center">
                     Laravel
@@ -140,145 +252,147 @@
             </div>
         </div>
 
+<!--        2-->
+
         <!--            VUE -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
 
-                <div class="js-logo">
-                    <img :src="vue" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="js-logo">-->
+<!--                    <img :src="vue" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="js-text align-top  md:ml-8 text-center">
-                    Vue.JS
-                </p>
-            </div>
-        </div>
+<!--                <p class="js-text align-top  md:ml-8 text-center">-->
+<!--                    Vue.JS-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
         <!--            TAILWIND-->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
-                <div class="css-logo">
-                    <img :src="tailwind" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="css-logo">-->
+<!--                    <img :src="tailwind" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="css-text align-top md:ml-8 text-center">
-                    Tailwind.CSS
-                </p>
+<!--                <p class="css-text align-top md:ml-8 text-center">-->
+<!--                    Tailwind.CSS-->
+<!--                </p>-->
 
-            </div>
-        </div>
+<!--            </div>-->
+<!--        </div>-->
 
         <!--            HTML    -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
-                <div class="html-logo">
-                    <img :src="html" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="html-logo">-->
+<!--                    <img :src="html" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="html-text   align-top md:ml-8 text-center">
-                    HTML
-                </p>
-            </div>
-        </div>
+<!--                <p class="html-text   align-top md:ml-8 text-center">-->
+<!--                    HTML-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
         <!--            CSS     -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
 
-                <div class="css-logo">
-                    <img :src="css" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="css-logo">-->
+<!--                    <img :src="css" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
-                <p class="css-text  align-top  md:ml-8 text-center">
-                    CSS
-                </p>
-            </div>
-        </div>
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
+<!--                <p class="css-text  align-top  md:ml-8 text-center">-->
+<!--                    CSS-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
         <!--            JS      -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
-                <div class="js-logo">
-                    <img :src="js" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="js-logo">-->
+<!--                    <img :src="js" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="js-text  align-top  md:ml-8 text-center">
-                    JavaScript
-                </p>
-            </div>
-        </div>
+<!--                <p class="js-text  align-top  md:ml-8 text-center">-->
+<!--                    JavaScript-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
         <!--             SQL      -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
-                <div class="sql-logo">
-                    <img :src="sql" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="sql-logo">-->
+<!--                    <img :src="sql" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="sql-text  align-top  md:ml-8 text-center">
+<!--                <p class="sql-text  align-top  md:ml-8 text-center">-->
 
-                    SQL
-                </p>
-            </div>
-        </div>
+<!--                    SQL-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
-        <!--            PYTHON      -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        &lt;!&ndash;            PYTHON      &ndash;&gt;-->
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
-                <div class="laravel-logo">
-                    <img :src="python" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="laravel-logo">-->
+<!--                    <img :src="python" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="laravel-text  align-top  md:ml-8 text-center">
+<!--                <p class="laravel-text  align-top  md:ml-8 text-center">-->
 
-                    Python
-                </p>
-            </div>
-        </div>
+<!--                    Python-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
-        <!--            SKETCH      -->
-        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-            <div class="grid grid-col-1 justify-center  gap-x-2  ">
+<!--        &lt;!&ndash;            SKETCH      &ndash;&gt;-->
+<!--        <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">-->
+<!--            <div class="grid grid-col-1 justify-center    ">-->
 
-                <div class="html-logo">
-                    <img :src="sketch" class="" alt="" width="64" height="64">
-                </div>
+<!--                <div class="html-logo">-->
+<!--                    <img :src="sketch" class="" alt="" width="64" height="64">-->
+<!--                </div>-->
 
-            </div>
-            <div class="grid grid-col-2 gap-2  ">
+<!--            </div>-->
+<!--            <div class="grid grid-col-2 gap-2  ">-->
 
-                <p class="html-text  align-top  md:ml-8 text-center">
-                    Sketch
-                </p>
-            </div>
-        </div>
+<!--                <p class="html-text  align-top  md:ml-8 text-center">-->
+<!--                    Sketch-->
+<!--                </p>-->
+<!--            </div>-->
+<!--        </div>-->
 
 
     </div>
@@ -379,6 +493,29 @@ export default {
     animation: laravel-text 20s infinite;
     -webkit-animation-delay: 4s;
     animation-delay: 4s;
+}
+
+@media(max-width:760px) {
+    .laravel-text {
+        transform: scale(0.8);
+        -webkit-animation: laravel-text-mobile 5s infinite;
+        animation: laravel-text-mobile 5s infinite;
+        /*-webkit-animation-delay: 4s;*/
+        /*animation-delay: 4s;*/
+    }
+
+    @keyframes laravel-text-mobile {
+        5% {
+            transform: scale(1);
+
+        }
+        15% {
+            transform: scale(1);
+        }
+        20% {
+            transform: scale(0.8);
+        }
+    }
 }
 
 @keyframes laravel-text {
