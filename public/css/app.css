@@ -2511,6 +2511,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.mx-10{
   margin-left: 2.5rem;
   margin-right: 2.5rem;
+}.mx-8{
+  margin-left: 2rem;
+  margin-right: 2rem;
 }.mx-6{
   margin-left: 1.5rem;
   margin-right: 1.5rem;
@@ -2520,9 +2523,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.-mx-3{
   margin-left: -0.75rem;
   margin-right: -0.75rem;
-}.mx-8{
-  margin-left: 2rem;
-  margin-right: 2rem;
 }.ml-3{
   margin-left: 0.75rem;
 }.-ml-px{
@@ -2555,6 +2555,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 0.75rem;
 }.-mr-2{
   margin-right: -0.5rem;
+}.mt-16{
+  margin-top: 4rem;
 }.mt-12{
   margin-top: 3rem;
 }.mb-2{
@@ -2571,8 +2573,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 8rem;
 }.mt-32{
   margin-top: 8rem;
-}.mt-16{
-  margin-top: 4rem;
 }.-mr-0\.5{
   margin-right: -0.125rem;
 }.-mr-0{
@@ -2635,10 +2635,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   max-width: 72rem;
 }.max-w-7xl{
   max-width: 80rem;
-}.max-w-lg{
-  max-width: 32rem;
 }.max-w-full{
   max-width: 100%;
+}.max-w-lg{
+  max-width: 32rem;
 }.flex-1{
   flex: 1 1 0%;
 }.flex-none{
@@ -2707,9 +2707,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   gap: 2.5rem;
 }.gap-y-8{
   row-gap: 2rem;
-}.gap-x-2{
-  -moz-column-gap: 0.5rem;
-       column-gap: 0.5rem;
 }.space-x-8 > :not([hidden]) ~ :not([hidden]){
   --tw-space-x-reverse: 0;
   margin-right: calc(2rem * var(--tw-space-x-reverse));
@@ -2829,15 +2826,15 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.px-8{
   padding-left: 2rem;
   padding-right: 2rem;
-}.py-8{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
 }.px-3{
   padding-left: 0.75rem;
   padding-right: 0.75rem;
 }.py-3{
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}.py-8{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }.pt-8{
   padding-top: 2rem;
 }.pt-6{
@@ -3221,8 +3218,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-left: 2rem;
   }.md\:mt-0{
     margin-top: 0px;
-  }.md\:block{
-    display: block;
   }.md\:flex{
     display: flex;
   }.md\:w-1\/3{

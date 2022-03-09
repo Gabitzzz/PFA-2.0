@@ -385,7 +385,7 @@ export default {
 #axesY:checked ~ .mx-8 > .grid > .skill > .grid > .sql-logo {
     -webkit-animation: rotateOnY 20s infinite;
     animation: rotateOnY 20s infinite linear;
-    animation-delay: 20s;
+    animation-delay: 20logos;
 }
 
 
