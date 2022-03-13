@@ -14,7 +14,7 @@
             style="font-family: 'Poppins', sans-serif; font-weight:bold;">
             Clients
         </p>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 content-center mt-16">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-16">
 
 
             <!--            FIRST ROW  -->
@@ -30,84 +30,84 @@
                 </a>
             </div>
             <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
+                <a href="https://vin-cadou.ro//">
                     <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
+                    <img :src="dws" alt="Gif" width="550" class=""/>
                     <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                        <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
+                        <h5 style="color: white;">Dream Wine Special</h5>
+                        <p class="content-text">Web Design & Development, LOGO, SEO</p>
+                        <p class="content-text">WordPress</p>
                     </div>
                 </a>
             </div>
             <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
+                <a href="https://taraluipatratel.ro//">
                     <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
+                    <img :src="patratel" alt="Gif" width="550" class=""/>
                     <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                        <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
+                        <h5 style="color: white;">Țara lui Pătrățel</h5>
+                        <p class="content-text">Web Design & Development, Graphic Design</p>
+                        <p class="content-text">WordPress</p>
                     </div>
                 </a>
             </div>
             <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
+                <a href="https://arhique.ro//">
                     <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
+                    <img :src="arhique" alt="Gif" width="550" class=""/>
                     <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
+                        <h5 style="color: white;">Arhique</h5>
                         <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
+                        <p class="content-text">Laravel</p>
                     </div>
                 </a>
             </div>
 
-            <!--            SECOND ROW      -->
-            <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
-                    <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
-                    <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                        <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
-                    </div>
-                </a>
-            </div>
-            <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
-                    <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
-                    <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                        <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
-                    </div>
-                </a>
-            </div>
-            <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
-                    <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
-                    <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                        <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
-                    </div>
-                </a>
-            </div>
-            <div class="content ">
-                <a href="https://www.tedxuniversityofessex.com/">
-                    <div class="content-overlay"></div>
-                    <img :src="ted" alt="Gif" width="550" class=""/>
-                    <div class="content-details fadeIn-bottom">
-                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                        <p class="content-text">Web Design & Development</p>
-                        <p class="content-text">WIX</p>
-                    </div>
-                </a>
-            </div>
+<!--                        SECOND ROW      -->
+<!--            <div class="content ">-->
+<!--                <a href="https://www.tedxuniversityofessex.com/">-->
+<!--                    <div class="content-overlay"></div>-->
+<!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
+<!--                    <div class="content-details fadeIn-bottom">-->
+<!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
+<!--                        <p class="content-text">Web Design & Development</p>-->
+<!--                        <p class="content-text">WIX</p>-->
+<!--                    </div>-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="content ">-->
+<!--                <a href="https://www.tedxuniversityofessex.com/">-->
+<!--                    <div class="content-overlay"></div>-->
+<!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
+<!--                    <div class="content-details fadeIn-bottom">-->
+<!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
+<!--                        <p class="content-text">Web Design & Development</p>-->
+<!--                        <p class="content-text">WIX</p>-->
+<!--                    </div>-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="content ">-->
+<!--                <a href="https://www.tedxuniversityofessex.com/">-->
+<!--                    <div class="content-overlay"></div>-->
+<!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
+<!--                    <div class="content-details fadeIn-bottom">-->
+<!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
+<!--                        <p class="content-text">Web Design & Development</p>-->
+<!--                        <p class="content-text">WIX</p>-->
+<!--                    </div>-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="content ">-->
+<!--                <a href="https://www.tedxuniversityofessex.com/">-->
+<!--                    <div class="content-overlay"></div>-->
+<!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
+<!--                    <div class="content-details fadeIn-bottom">-->
+<!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
+<!--                        <p class="content-text">Web Design & Development</p>-->
+<!--                        <p class="content-text">WIX</p>-->
+<!--                    </div>-->
+<!--                </a>-->
+<!--            </div>-->
         </div>
 
     <p
@@ -158,7 +158,10 @@
 <script>
 
 
+import dws from "/images/DWS.webp";
 import ted from "/images/ted.webp";
+import patratel from "/images/patratel.webp";
+import arhique from "/images/arhique.webp";
 import esn from "/images/esn2.png";
 import {Swiper, SwiperSlide} from 'swiper/vue';
 import 'swiper/css';
@@ -169,6 +172,9 @@ export default {
     data() {
         return {
             ted: ted,
+            dws: dws,
+            arhique: arhique,
+            patratel: patratel,
             esn: esn,
         }
     },

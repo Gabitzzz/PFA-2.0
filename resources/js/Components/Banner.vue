@@ -54,7 +54,7 @@
             </div>
 
 
-            <div class="flex-auto -mt-32 md:mt-0">
+            <div class="flex-auto -mt-40 md:mt-0">
                 <img :src="gif" alt="Gif" width="550"/>
             </div>
 

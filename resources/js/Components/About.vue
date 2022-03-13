@@ -1,32 +1,32 @@
 <link rel="stylesheet" href="../../../../../Downloads/jquery-flipster-master/src/less/themes/carousel.less">
 <template>
-    <!--    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 ">-->
-
     <p
         class="text-6xl text-center mt-16 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         About Me
     </p>
 
-
-    <div class=" mt-12 avatar md:flex items-center justify-between">
-        <div class="flex  rounded-full m-8">
+    <div class="mt-12 avatar md:flex items-center justify-between">
+        <div class="  rounded-full m-8">
             <img :src="me" alt="me" class="grayscale about w-full duration-300 transition ease-in">
-
         </div>
 
         <p class="mx-10">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat
-            voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam
-            sapiente voluptatem.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat
-            voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam
-            sapiente voluptatem.
+            I am Lițcan Nicolae-Gabriel, I study Computer Science & Electronic Engineering at
+            University of Essex in United Kingdom.<br>
+
+            <br>
+
+            I started this business out of my passion for technology and everything related to it. I try as hard as I can
+            possible to implement the latest and most innovative technologies in my projects and deliver content
+            as high quality as possible.
 
         </p>
 
 
+
     </div>
+
     <p
         class="text-3xl mt-8 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
@@ -116,7 +116,6 @@
         Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
     </p>
 
-
     <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
 
     <div class="mx-8">
@@ -124,16 +123,13 @@
             <!--LARAVEL -->
             <div
                 class="skill px-4 md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                <!--                <div class="grid grid-col-2 gap-2  ">-->
                 <div class="grid grid-col-1 justify-center    ">
-
                     <div class="laravel-logo">
                         <img :src="laravel" class="" alt="" width="64" height="64">
                     </div>
-
                 </div>
-                <div class="grid grid-col-3 laravel-text ">
 
+                <div class="grid grid-col-3 laravel-text ">
                     <p class="  align-top  md:ml-8 text-center">
                         Laravel
                     </p>
@@ -385,7 +381,7 @@ export default {
 #axesY:checked ~ .mx-8 > .grid > .skill > .grid > .sql-logo {
     -webkit-animation: rotateOnY 20s infinite;
     animation: rotateOnY 20s infinite linear;
-    animation-delay: 20logos;
+    animation-delay: 20s;
 }
 
 

@@ -21581,10 +21581,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _images_ted_webp__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../images/ted.webp */ "./public/images/ted.webp");
-/* harmony import */ var _images_esn2_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../images/esn2.png */ "./public/images/esn2.png");
-/* harmony import */ var swiper_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! swiper/vue */ "./node_modules/swiper/vue/swiper-vue.js");
-/* harmony import */ var swiper_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! swiper/css */ "./node_modules/swiper/swiper.min.css");
+/* harmony import */ var _images_DWS_webp__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../images/DWS.webp */ "./public/images/DWS.webp");
+/* harmony import */ var _images_ted_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../images/ted.webp */ "./public/images/ted.webp");
+/* harmony import */ var _images_patratel_webp__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../images/patratel.webp */ "./public/images/patratel.webp");
+/* harmony import */ var _images_arhique_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../images/arhique.webp */ "./public/images/arhique.webp");
+/* harmony import */ var _images_esn2_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../../images/esn2.png */ "./public/images/esn2.png");
+/* harmony import */ var swiper_vue__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! swiper/vue */ "./node_modules/swiper/vue/swiper-vue.js");
+/* harmony import */ var swiper_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! swiper/css */ "./node_modules/swiper/swiper.min.css");
+
+
+
 
 
 
@@ -21593,8 +21599,11 @@ __webpack_require__.r(__webpack_exports__);
   name: "Portfolio",
   data: function data() {
     return {
-      ted: _images_ted_webp__WEBPACK_IMPORTED_MODULE_0__["default"],
-      esn: _images_esn2_png__WEBPACK_IMPORTED_MODULE_1__["default"]
+      ted: _images_ted_webp__WEBPACK_IMPORTED_MODULE_1__["default"],
+      dws: _images_DWS_webp__WEBPACK_IMPORTED_MODULE_0__["default"],
+      arhique: _images_arhique_webp__WEBPACK_IMPORTED_MODULE_3__["default"],
+      patratel: _images_patratel_webp__WEBPACK_IMPORTED_MODULE_2__["default"],
+      esn: _images_esn2_png__WEBPACK_IMPORTED_MODULE_4__["default"]
     };
   }
 });
@@ -22193,14 +22202,14 @@ var _hoisted_2 = {
   "class": "mt-12 avatar md:flex items-center justify-between"
 };
 var _hoisted_3 = {
-  "class": "flex rounded-full m-8"
+  "class": "rounded-full m-8"
 };
 var _hoisted_4 = ["src"];
 
 var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "mx-10"
-  }, " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam sapiente voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim nemo optio porro quae repellat voluptas! Deleniti dicta distinctio eum fugiat incidunt itaque iure, libero nostrum quaerat quam sapiente voluptatem. ", -1
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" I am Lițcan Nicolae-Gabriel, I study Computer Science & Electronic Engineering at University of Essex in United Kingdom."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" I started this business out of my passion for technology and everything related to it. I try as hard as I can possible to implement the latest and most innovative technologies in my projects and deliver content as high quality as possible. ")], -1
   /* HOISTED */
   );
 });
@@ -22415,13 +22424,13 @@ var _hoisted_57 = /*#__PURE__*/_withScopeId(function () {
 });
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 \">"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.me,
     alt: "me",
     "class": "grayscale about w-full duration-300 transition ease-in"
   }, null, 8
   /* PROPS */
-  , _hoisted_4)]), _hoisted_5]), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    RESUME  "), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("LARAVEL "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"grid grid-col-2 gap-2  \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_4)]), _hoisted_5]), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    RESUME  "), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("LARAVEL "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.laravel,
     "class": "",
     alt: "",
@@ -22624,7 +22633,7 @@ var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
 });
 
 var _hoisted_12 = {
-  "class": "flex-auto -mt-32 md:mt-0"
+  "class": "flex-auto -mt-40 md:mt-0"
 };
 var _hoisted_13 = ["src"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -22941,7 +22950,7 @@ var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
 });
 
 var _hoisted_3 = {
-  "class": "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 content-center mt-16"
+  "class": "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-16"
 };
 var _hoisted_4 = {
   "class": "content"
@@ -22980,7 +22989,7 @@ var _hoisted_9 = {
   "class": "content"
 };
 var _hoisted_10 = {
-  href: "https://www.tedxuniversityofessex.com/"
+  href: "https://vin-cadou.ro//"
 };
 
 var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
@@ -23000,11 +23009,11 @@ var _hoisted_13 = /*#__PURE__*/_withScopeId(function () {
     style: {
       "color": "white"
     }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  }, "Dream Wine Special"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  }, "Web Design & Development, LOGO, SEO"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "content-text"
-  }, "WIX")], -1
+  }, "WordPress")], -1
   /* HOISTED */
   );
 });
@@ -23013,7 +23022,7 @@ var _hoisted_14 = {
   "class": "content"
 };
 var _hoisted_15 = {
-  href: "https://www.tedxuniversityofessex.com/"
+  href: "https://taraluipatratel.ro//"
 };
 
 var _hoisted_16 = /*#__PURE__*/_withScopeId(function () {
@@ -23033,11 +23042,11 @@ var _hoisted_18 = /*#__PURE__*/_withScopeId(function () {
     style: {
       "color": "white"
     }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  }, "Țara lui Pătrățel"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  }, "Web Design & Development, Graphic Design"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "content-text"
-  }, "WIX")], -1
+  }, "WordPress")], -1
   /* HOISTED */
   );
 });
@@ -23046,7 +23055,7 @@ var _hoisted_19 = {
   "class": "content"
 };
 var _hoisted_20 = {
-  href: "https://www.tedxuniversityofessex.com/"
+  href: "https://arhique.ro//"
 };
 
 var _hoisted_21 = /*#__PURE__*/_withScopeId(function () {
@@ -23066,148 +23075,16 @@ var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
     style: {
       "color": "white"
     }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  }, "Arhique"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "content-text"
   }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "content-text"
-  }, "WIX")], -1
+  }, "Laravel")], -1
   /* HOISTED */
   );
 });
 
-var _hoisted_24 = {
-  "class": "content"
-};
-var _hoisted_25 = {
-  href: "https://www.tedxuniversityofessex.com/"
-};
-
-var _hoisted_26 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-overlay"
-  }, null, -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_27 = ["src"];
-
-var _hoisted_28 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-details fadeIn-bottom"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
-    style: {
-      "color": "white"
-    }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "WIX")], -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_29 = {
-  "class": "content"
-};
-var _hoisted_30 = {
-  href: "https://www.tedxuniversityofessex.com/"
-};
-
-var _hoisted_31 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-overlay"
-  }, null, -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_32 = ["src"];
-
-var _hoisted_33 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-details fadeIn-bottom"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
-    style: {
-      "color": "white"
-    }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "WIX")], -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_34 = {
-  "class": "content"
-};
-var _hoisted_35 = {
-  href: "https://www.tedxuniversityofessex.com/"
-};
-
-var _hoisted_36 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-overlay"
-  }, null, -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_37 = ["src"];
-
-var _hoisted_38 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-details fadeIn-bottom"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
-    style: {
-      "color": "white"
-    }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "WIX")], -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_39 = {
-  "class": "content"
-};
-var _hoisted_40 = {
-  href: "https://www.tedxuniversityofessex.com/"
-};
-
-var _hoisted_41 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-overlay"
-  }, null, -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_42 = ["src"];
-
-var _hoisted_43 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "content-details fadeIn-bottom"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
-    style: {
-      "color": "white"
-    }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("TED"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("sup", null, "x"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("UniversityOfEssex")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "Web Design & Development"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "content-text"
-  }, "WIX")], -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_44 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-3xl mt-16",
     style: {
@@ -23219,7 +23096,7 @@ var _hoisted_44 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_45 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_25 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-md mt-4",
     style: {
@@ -23230,20 +23107,20 @@ var _hoisted_45 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_46 = {
+var _hoisted_26 = {
   "class": "md:flex items-center"
 };
-var _hoisted_47 = {
+var _hoisted_27 = {
   "class": "",
   style: {
     "margin": "initial !important"
   }
 };
-var _hoisted_48 = {
+var _hoisted_28 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_49 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23251,9 +23128,9 @@ var _hoisted_49 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_50 = ["src"];
+var _hoisted_30 = ["src"];
 
-var _hoisted_51 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_31 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23269,7 +23146,7 @@ var _hoisted_51 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_52 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_32 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-5xl",
     style: {
@@ -23292,61 +23169,33 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
   }, null, 8
   /* PROPS */
   , _hoisted_7), _hoisted_8])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_10, [_hoisted_11, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
+    src: $data.dws,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
   , _hoisted_12), _hoisted_13])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_15, [_hoisted_16, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
+    src: $data.patratel,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
   , _hoisted_17), _hoisted_18])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_20, [_hoisted_21, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
+    src: $data.arhique,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_22), _hoisted_23])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_24, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_25, [_hoisted_26, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
-    alt: "Gif",
-    width: "550",
-    "class": ""
-  }, null, 8
-  /* PROPS */
-  , _hoisted_27), _hoisted_28])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_29, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_30, [_hoisted_31, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
-    alt: "Gif",
-    width: "550",
-    "class": ""
-  }, null, 8
-  /* PROPS */
-  , _hoisted_32), _hoisted_33])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_34, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_35, [_hoisted_36, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
-    alt: "Gif",
-    width: "550",
-    "class": ""
-  }, null, 8
-  /* PROPS */
-  , _hoisted_37), _hoisted_38])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_39, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_40, [_hoisted_41, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-    src: $data.ted,
-    alt: "Gif",
-    width: "550",
-    "class": ""
-  }, null, 8
-  /* PROPS */
-  , _hoisted_42), _hoisted_43])])]), _hoisted_44, _hoisted_45, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_46, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_47, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_48, [_hoisted_49, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_22), _hoisted_23])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>")]), _hoisted_24, _hoisted_25, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_26, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_27, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_28, [_hoisted_29, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.esn,
     alt: "Gif",
     "class": "w-full"
   }, null, 8
   /* PROPS */
-  , _hoisted_50), _hoisted_51])]), _hoisted_52]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
+  , _hoisted_30), _hoisted_31])]), _hoisted_32]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -23380,7 +23229,7 @@ var _hoisted_4 = {
   "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
 var _hoisted_5 = {
-  "class": "card product-design bg-base-200 duration-300 shadow-xl mpx-x-6 mt-8"
+  "class": "card product-design bg-base-200 duration-300 shadow-xl mx-6 mt-8"
 };
 var _hoisted_6 = {
   "class": "px-6 pt-6"
@@ -24317,7 +24166,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Anton&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.hidden[data-v-e37b7c5c] {\n    position: fixed;\n    top: -10000px;\n    left: -10000px;\n    visibility: hidden;\n}\n@-webkit-keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n@keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n.laravel-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.js-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.css-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.html-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.sql-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .laravel-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 4s;\n            animation-delay: 4s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .js-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 8s;\n            animation-delay: 8s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .html-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 12s;\n            animation-delay: 12s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .css-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 16s;\n            animation-delay: 16s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .sql-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 20logos;\n            animation-delay: 20logos;\n}\n.laravel-text[data-v-e37b7c5c] {\n    -webkit-animation: laravel-text-e37b7c5c 20s infinite;\n    animation: laravel-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 4s;\n    animation-delay: 4s;\n}\n.js-text[data-v-e37b7c5c] {\n    -webkit-animation: js-text-e37b7c5c 20s infinite;\n    animation: js-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 8s;\n    animation-delay: 8s;\n}\n.html-text[data-v-e37b7c5c] {\n    -webkit-animation: html-text-e37b7c5c 20s infinite;\n    animation: html-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 12s;\n    animation-delay: 12s;\n}\n.css-text[data-v-e37b7c5c] {\n    -webkit-animation: css-text-e37b7c5c 20s infinite;\n    animation: css-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 16s;\n    animation-delay: 16s;\n}\n.sql-text[data-v-e37b7c5c] {\n    -webkit-animation: css-text-e37b7c5c 20s infinite;\n    animation: css-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 20s;\n    animation-delay: 20s;\n}\n@-webkit-keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes laravel-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes laravel-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes js-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes js-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes html-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes html-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes css-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes css-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes sql-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes sql-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@media (max-width: 760px) {\n.laravel-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: laravel-text-mobile-e37b7c5c 20s infinite;\n        animation: laravel-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 4s;\n        animation-delay: 4s;\n}\n.js-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: js-text-mobile-e37b7c5c 20s infinite;\n        animation: js-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 8s;\n        animation-delay: 8s;\n}\n.html-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: html-text-mobile-e37b7c5c 20s infinite;\n        animation: html-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 12s;\n        animation-delay: 12s;\n}\n.css-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: css-text-mobile-e37b7c5c 20s infinite;\n        animation: css-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 16s;\n        animation-delay: 16s;\n}\n.sql-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: sql-text-mobile-e37b7c5c 20s infinite;\n        animation: sql-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 20s;\n        animation-delay: 20s;\n}\n}\n\n\n/*html*/\n.about[data-v-e37b7c5c] {\n    -webkit-animation: web-dev 20s infinite;\n    animation: about-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    /*animation-delay: 6s;*/\n}\n.about[data-v-e37b7c5c]:hover {\n    /*-webkit-animation-name: about;*/\n    /*-webkit-animation-duration: 2000ms;*/\n    /*-webkit-animation-timing-function: ease-in;*/\n    filter: grayscale(0);\n}\n@-webkit-keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n}\n20% {\n        transform: scale(1.20);\n}\n30% {\n        transform: scale(1.20);\n}\n40% {\n        transform: scale(1);\n}\n}\n@keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n}\n20% {\n        transform: scale(1.20);\n}\n30% {\n        transform: scale(1.20);\n}\n40% {\n        transform: scale(1);\n}\n}\n\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.hidden[data-v-e37b7c5c] {\n    position: fixed;\n    top: -10000px;\n    left: -10000px;\n    visibility: hidden;\n}\n@-webkit-keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n@keyframes rotateOnY-e37b7c5c {\n5% {\n        transform: rotateY(90deg);\n}\n10% {\n        transform: rotateY(0deg);\n}\n}\n.laravel-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.js-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.css-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.html-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n.sql-logo[data-v-e37b7c5c] {\n    width: 64px;\n    height: 64px;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .laravel-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 4s;\n            animation-delay: 4s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .js-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite linear;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 8s;\n            animation-delay: 8s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .html-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 12s;\n            animation-delay: 12s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .css-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 16s;\n            animation-delay: 16s;\n}\n#axesY:checked ~ .mx-8 > .grid > .skill > .grid > .sql-logo[data-v-e37b7c5c] {\n    -webkit-animation: rotateOnY-e37b7c5c 20s infinite;\n    animation: rotateOnY-e37b7c5c 20s infinite linear;\n    -webkit-animation-delay: 20s;\n            animation-delay: 20s;\n}\n.laravel-text[data-v-e37b7c5c] {\n    -webkit-animation: laravel-text-e37b7c5c 20s infinite;\n    animation: laravel-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 4s;\n    animation-delay: 4s;\n}\n.js-text[data-v-e37b7c5c] {\n    -webkit-animation: js-text-e37b7c5c 20s infinite;\n    animation: js-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 8s;\n    animation-delay: 8s;\n}\n.html-text[data-v-e37b7c5c] {\n    -webkit-animation: html-text-e37b7c5c 20s infinite;\n    animation: html-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 12s;\n    animation-delay: 12s;\n}\n.css-text[data-v-e37b7c5c] {\n    -webkit-animation: css-text-e37b7c5c 20s infinite;\n    animation: css-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 16s;\n    animation-delay: 16s;\n}\n.sql-text[data-v-e37b7c5c] {\n    -webkit-animation: css-text-e37b7c5c 20s infinite;\n    animation: css-text-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 20s;\n    animation-delay: 20s;\n}\n@-webkit-keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes laravel-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes laravel-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes laravel-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes js-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes js-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes js-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes html-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes html-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes html-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes css-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes css-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes css-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@-webkit-keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@keyframes sql-text-e37b7c5c {\n5% {\n        transform: scale(1.7);\n}\n15% {\n        transform: scale(1.7);\n}\n20% {\n        transform: scale(1);\n}\n}\n@-webkit-keyframes sql-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@keyframes sql-text-mobile-e37b7c5c {\n5% {\n        transform: scale(1);\n}\n15% {\n        transform: scale(1);\n}\n20% {\n        transform: scale(0.8);\n}\n}\n@media (max-width: 760px) {\n.laravel-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: laravel-text-mobile-e37b7c5c 20s infinite;\n        animation: laravel-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 4s;\n        animation-delay: 4s;\n}\n.js-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: js-text-mobile-e37b7c5c 20s infinite;\n        animation: js-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 8s;\n        animation-delay: 8s;\n}\n.html-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: html-text-mobile-e37b7c5c 20s infinite;\n        animation: html-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 12s;\n        animation-delay: 12s;\n}\n.css-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: css-text-mobile-e37b7c5c 20s infinite;\n        animation: css-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 16s;\n        animation-delay: 16s;\n}\n.sql-text[data-v-e37b7c5c] {\n        transform: scale(0.8);\n        -webkit-animation: sql-text-mobile-e37b7c5c 20s infinite;\n        animation: sql-text-mobile-e37b7c5c 20s infinite;\n        -webkit-animation-delay: 20s;\n        animation-delay: 20s;\n}\n}\n\n\n/*html*/\n.about[data-v-e37b7c5c] {\n    -webkit-animation: web-dev 20s infinite;\n    animation: about-e37b7c5c 20s infinite;\n    -webkit-animation-delay: 3s;\n    /*animation-delay: 6s;*/\n}\n.about[data-v-e37b7c5c]:hover {\n    /*-webkit-animation-name: about;*/\n    /*-webkit-animation-duration: 2000ms;*/\n    /*-webkit-animation-timing-function: ease-in;*/\n    filter: grayscale(0);\n}\n@-webkit-keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n}\n20% {\n        transform: scale(1.20);\n}\n30% {\n        transform: scale(1.20);\n}\n40% {\n        transform: scale(1);\n}\n}\n@keyframes about-e37b7c5c {\n10% {\n        transform: scale(1.20);\n}\n20% {\n        transform: scale(1.20);\n}\n30% {\n        transform: scale(1.20);\n}\n40% {\n        transform: scale(1);\n}\n}\n\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -24437,7 +24286,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.product-design[data-v-2b04c2ae] {\n    -webkit-animation: product-design-2b04c2ae 20s infinite;\n    animation: product-design-2b04c2ae 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 3s;\n}\n.product-design[data-v-2b04c2ae]:hover {\n    background-color: #191D24;\n}\n@-webkit-keyframes product-design-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes product-design-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n.web-dev[data-v-2b04c2ae] {\n    -webkit-animation: web-dev-2b04c2ae 20s infinite;\n    animation: web-dev-2b04c2ae 20s infinite;\n    -webkit-animation-delay: 3s;\n    /*animation-delay: 6s;*/\n}\n.web-dev[data-v-2b04c2ae]:hover {\n    background-color: #191D24;\n    -webkit-animation-name: web-dev-reverse-2b04c2ae;\n    -webkit-animation-duration: 2000ms;\n    -webkit-animation-timing-function: ease-in;\n}\n@-webkit-keyframes web-dev-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes web-dev-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@-webkit-keyframes web-dev-reverse-2b04c2ae {\n10% {\n        transform: scale(1);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes web-dev-reverse-2b04c2ae {\n10% {\n        transform: scale(1);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n.digital-marketing[data-v-2b04c2ae] {\n    -webkit-animation: digital-marketing-2b04c2ae 20s infinite;\n    animation: digital-marketing-2b04c2ae 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 3s;\n}\n.digital-marketing[data-v-2b04c2ae]:hover {\n    background-color: #191D24;\n}\n@-webkit-keyframes digital-marketing-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes digital-marketing-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.product-design[data-v-2b04c2ae] {\n    -webkit-animation: product-design-2b04c2ae 20s infinite;\n    animation: product-design-2b04c2ae 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 3s;\n}\n.product-design[data-v-2b04c2ae]:hover {\n    background-color: #191D24;\n}\n@-webkit-keyframes product-design-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes product-design-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n.web-dev[data-v-2b04c2ae] {\n    -webkit-animation: web-dev-2b04c2ae 20s infinite;\n    animation: web-dev-2b04c2ae 20s infinite;\n    -webkit-animation-delay: 6s;\n    animation-delay: 6s;\n}\n\n/*.web-dev:hover {*/\n/*    background-color: #191D24;*/\n/*    -webkit-animation-name: web-dev-reverse;*/\n/*    -webkit-animation-duration: 2000ms;*/\n/*    -webkit-animation-timing-function: ease-in;*/\n/*}*/\n@-webkit-keyframes web-dev-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes web-dev-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@-webkit-keyframes web-dev-reverse-2b04c2ae {\n10% {\n        transform: scale(1);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes web-dev-reverse-2b04c2ae {\n10% {\n        transform: scale(1);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n.digital-marketing[data-v-2b04c2ae] {\n    -webkit-animation: digital-marketing-2b04c2ae 20s infinite;\n    animation: digital-marketing-2b04c2ae 20s infinite;\n    -webkit-animation-delay: 3s;\n    animation-delay: 3s;\n}\n.digital-marketing[data-v-2b04c2ae]:hover {\n    background-color: #191D24;\n}\n@-webkit-keyframes digital-marketing-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n@keyframes digital-marketing-2b04c2ae {\n10% {\n        transform: scale(1.15);\n        background-color: #191D24;\n}\n20% {\n        transform: scale(1);\n        background-color: #242933;\n}\n}\n\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -24688,6 +24537,21 @@ module.exports = deepmerge_1;
 
 /***/ }),
 
+/***/ "./public/images/DWS.webp":
+/*!********************************!*\
+  !*** ./public/images/DWS.webp ***!
+  \********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/DWS.webp?dd1b038a45f91005d2780f73da80587c");
+
+/***/ }),
+
 /***/ "./public/images/Programming.gif":
 /*!***************************************!*\
   !*** ./public/images/Programming.gif ***!
@@ -24700,6 +24564,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/Programming.gif?a2e445981a8b28ddccf645242e0a7f6a");
+
+/***/ }),
+
+/***/ "./public/images/arhique.webp":
+/*!************************************!*\
+  !*** ./public/images/arhique.webp ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/arhique.webp?c19d135bfd1fba6be454aaba51e90408");
 
 /***/ }),
 
@@ -24865,6 +24744,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/mrk.png?2f392f4b03854b1950dbb554ec50df35");
+
+/***/ }),
+
+/***/ "./public/images/patratel.webp":
+/*!*************************************!*\
+  !*** ./public/images/patratel.webp ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/images/patratel.webp?371cdeec0fe6f60dd64634d176362c10");
 
 /***/ }),
 

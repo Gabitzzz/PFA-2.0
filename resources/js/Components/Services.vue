@@ -15,13 +15,9 @@
 
 
     <div class="flex-none grid justify-items-center md:flex justify-center ">
-
-
         <div class="md:hover:scale-110 duration-300 transition ease-in">
             <div
-                class="card product-design bg-base-200  duration-300 shadow-xl mpx-x-6 mt-8">
-
-
+                class="card product-design bg-base-200  duration-300 shadow-xl mx-6 mt-8">
                 <figure class="px-6 pt-6">
                     <img
                         class="mask mask-hexagon"
@@ -34,9 +30,7 @@
                     <label for="my-modal" class="btn modal-button mt-4">SEE MORE</label>
                 </div>
             </div>
-
         </div>
-
 
         <div class="md:hover:scale-110 duration-300 transition ease-in">
             <div
@@ -145,16 +139,16 @@ export default {
 .web-dev {
     -webkit-animation: web-dev 20s infinite;
     animation: web-dev 20s infinite;
-    -webkit-animation-delay: 3s;
-    /*animation-delay: 6s;*/
+    -webkit-animation-delay: 6s;
+    animation-delay: 6s;
 }
 
-.web-dev:hover {
-    background-color: #191D24;
-    -webkit-animation-name: web-dev-reverse;
-    -webkit-animation-duration: 2000ms;
-    -webkit-animation-timing-function: ease-in;
-}
+/*.web-dev:hover {*/
+/*    background-color: #191D24;*/
+/*    -webkit-animation-name: web-dev-reverse;*/
+/*    -webkit-animation-duration: 2000ms;*/
+/*    -webkit-animation-timing-function: ease-in;*/
+/*}*/
 
 @keyframes web-dev {
     10% {
