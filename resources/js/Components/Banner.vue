@@ -1,23 +1,12 @@
 <template>
-
-
         <div class="flex-none sm:flex align-center items-center">
-
-
-
             <div class="flex-auto">
-
-
-
                 <p
                     class="text-3xl mb-2 flex justify-between"
                     style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-
                     Hello,
                     <span class="wave">👋🏽  </span>
-
                 </p>
-
                 <div id="text" class="text-6xl lg:text-8xl">
                     <!-- content generated with JS -->
                 </div>
@@ -32,10 +21,16 @@
                 </h1>
 
                 <div class="flex mt-6">
-                    <button class="btn btn-outline rounded-full">CONTACT ME</button>
-                    <img :src="github" class="w-12 ml-2 border rounded-full border-current hover:bg-current" alt="">
-                    <img :src="github" class="w-12 ml-2 border rounded-full border-current hover:bg-current" alt="">
-                    <img :src="github" class="w-12 ml-2 border rounded-full border-current hover:bg-current" alt="">
+                    <a class="btn btn-outline rounded-full" href="#contact">CONTACT ME</a>
+                    <a href="https://www.linkedin.com/in/litcan-gabriel/">
+                        <img :src="linkedin" class="w-12 ml-2 border rounded-full border-current hover:bg-current" alt="">
+                    </a>
+                    <a href="https://github.com/Gabitzzz">
+                        <img :src="github" class="w-12 ml-2  border rounded-full border-current hover:bg-current" alt="">
+                    </a>
+                    <a href="https://wa.me/+447873936443">
+                        <img :src="whatsapp" class="w-12 ml-2  border rounded-full border-current hover:bg-current" alt="">
+                    </a>
                 </div>
 
 
@@ -71,6 +66,8 @@
 <script>
 import gif from "/images/Programming.gif";
 import github from "/images/github.png";
+import linkedin from "/images/linkedin.png";
+import whatsapp from "/images/whatsapp.png";
 
 
 export default {
@@ -79,6 +76,8 @@ export default {
         return{
             gif: gif,
             github: github,
+            linkedin: linkedin,
+            whatsapp: whatsapp,
         }
     },
 

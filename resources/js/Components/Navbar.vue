@@ -3,8 +3,8 @@
 
     <div class="navbar bg-base-100 mb-40 shadow-xl rounded-box fixed mb-32" style="z-index: 20000">
         <!--        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">-->
-<!--        <div class="w-full px-4  sm:px-8 md:px-16 lg:px-24 xl:px-40">-->
-            <div class="w-full px-4   sm:px-8 md:px-16 lg:px-24 xl:px-40">
+        <!--        <div class="w-full px-4  sm:px-8 md:px-16 lg:px-24 xl:px-40">-->
+        <div class="w-full px-4   sm:px-8 md:px-16 lg:px-24 xl:px-40">
 
 
             <div class="flex-1">
@@ -18,10 +18,10 @@
             <div class="navbar-center hidden lg:flex">
                 <ul class=" menu-horizontal "
                     style="font-family: 'Poppins', sans-serif; font-weight: normal;">
-                    <li><a class="px-8 rounded-full underline-opening">HOME</a></li>
-                    <li><a class="px-8 rounded-full underline-opening">PORTFOLIO</a></li>
-                    <li><a class="px-8 rounded-full underline-opening">ABOUT ME</a></li>
-                    <li><a class="px-8 rounded-full underline-opening">CONTACT</a></li>
+                    <li><a class="px-8 rounded-full underline-opening" href="#banner">HOME</a></li>
+                    <li><a class="px-8 rounded-full underline-opening" href="#portfolio">PORTFOLIO</a></li>
+                    <li><a class="px-8 rounded-full underline-opening" href="#about">ABOUT ME</a></li>
+                    <li><a class="px-8 rounded-full underline-opening" href="#contact">CONTACT</a></li>
                 </ul>
             </div>
             <div class="flex-none">
@@ -40,22 +40,20 @@
                         </div>
                     </label>
 
+                    <!--                    PHONE   MENU    -->
                     <div tabindex="0" class="mt-3 card card-compact dropdown-content w-52 bg-base-100 shadow">
                         <div class="card-body ">
-
                             <ul class="menu menu-vertical lg:menu-horizontal bg-base-100 rounded-box">
-                                <li><a class="hover:bg-gray-50 hover:text-gray-900">HsOME</a></li>
-                                <li><a class="hover:bg-gray-50 hover:text-gray-900">PORTFOLIO</a></li>
-                                <li><a class="hover:bg-gray-50 hover:text-gray-900">ABOUT ME</a></li>
-                                <li><a class="hover:bg-gray-50 hover:text-gray-900">CONTAsCT</a></li>
+                                <li><a class="hover:bg-gray-50 hover:text-gray-900" href="#banner">HOME</a></li>
+                                <li><a class="hover:bg-gray-50 hover:text-gray-900" href="#portfolio">PORTFOLIO</a></li>
+                                <li><a class="hover:bg-gray-50 hover:text-gray-900" href="#about">ABOUT ME</a></li>
+                                <li><a class="hover:bg-gray-50 hover:text-gray-900" href="#contact">CONTACT</a></li>
                             </ul>
-
                         </div>
                     </div>
 
 
                 </div>
-
 
 
             </div>
@@ -76,6 +74,12 @@ export default {
     data() {
         return {
             logo: logo,
+        }
+    },
+    methods: {
+        topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
         }
     }
 }

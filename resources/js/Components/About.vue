@@ -1,14 +1,14 @@
 <link rel="stylesheet" href="../../../../../Downloads/jquery-flipster-master/src/less/themes/carousel.less">
 <template>
     <p
-        class="text-6xl text-center mt-16 "
+        class="text-6xl text-center  "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         About Me
     </p>
 
-    <div class="mt-12 avatar md:flex items-center justify-between">
-        <div class="  rounded-full m-8">
-            <img :src="me" alt="me" class="grayscale about w-full duration-300 transition ease-in">
+    <div class="mt-12 md:flex items-center">
+        <div class="rounded-full m-8">
+            <img :src="me" alt="me" class="rounded-full transition ease-in">
         </div>
 
         <p class="mx-10">

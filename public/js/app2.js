@@ -39,7 +39,7 @@ var createLetterContainers = function createLetterContainers(array) {
 
 
 var outputLayers = new Promise(function (resolve, reject) {
-  document.getElementById('text').innerHTML = createLetterContainers(createLetterLayers(createLetterArray(text))).join('');
+  document.getElementById('text').inner = createLetterContainers(createLetterLayers(createLetterArray(text))).join('');
   resolve();
 }); // then adjust width and height of each letter
 

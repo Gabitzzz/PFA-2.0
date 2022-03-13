@@ -20,9 +20,9 @@
                 </p>
                 <p class="w-full max-w-lg mt-8 text-lg ">
 
-                    ADDRESS: Brănești, Ilfov, România
-                    EMAIL: litcangabi@gmail.com
-                    PHONE: +40 773 800 815
+                    ADDRESS: Brănești, Ilfov, România <br>
+                    EMAIL: litcangabi@gmail.com <br>
+                    PHONE: +40 773 800 815 <br>
                 </p>
             </div>
 
@@ -62,13 +62,11 @@
                     </div>
                 </div>
                 <div class="md:flex md:items-center">
-                    <div class="md:w-1/3">
-                        <button
-                            class="shadow bg-teal-400 hover:bg-teal-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded"
+                        <a
+                            class="btn btn-outline rounded-full px-16"
                             type="button">
                             Send
-                        </button>
-                    </div>
+                        </a>
                     <div class="md:w-2/3"></div>
                 </div>
             </form>

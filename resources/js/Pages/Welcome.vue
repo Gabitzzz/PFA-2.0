@@ -14,22 +14,28 @@ defineProps({
 <template>
     <Navbar></Navbar>
 
-    <!--    <Head title="Welcome" />-->
     <div class="w-full px-4 py-8  sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40">
-
-
-        <Banner></Banner>
+        <section id="banner">
+            <Banner></Banner>
+        </section>
 
         <Services></Services>
 
-        <Portfolio></Portfolio>
+        <section id="portfolio" class="pt-32">
+            <Portfolio></Portfolio>
+        </section>
 
-        <About></About>
+        <section id="about" class="pt-16">
+            <About></About>
+        </section>
 
-        <Contact></Contact>
-
-        <Footer></Footer>
+        <section id="contact">
+            <Contact></Contact>
+        </section>
     </div>
+
+    <Footer></Footer>
+
 
 </template>
 <script>
