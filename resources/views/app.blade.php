@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title inertia>{{ config('app.name', 'Lițcan Gabriel') }}</title>
+        <title inertia>{{ config('app.name', 'Laravel') }}</title>
 
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
@@ -16,20 +16,11 @@
         <!-- Scripts -->
         @routes
         <script src="{{ mix('js/app.js') }}" defer></script>
-        <script src="{{ mix('js/app2.js') }}" defer></script>
+        <script src="{{ mix('js/banner.js') }}" defer></script>
 
     </head>
     <body class="font-sans antialiased">
         @inertia
-
-        <script>
-            $(window).resize(function() {
-                all();
-            });
-
-        </script>
-
-
 
         @env ('local')
         @endenv
