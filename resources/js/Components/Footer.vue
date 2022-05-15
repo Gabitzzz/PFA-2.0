@@ -1,5 +1,5 @@
 <template>
-    <nav id="footer" class="bg-footer px-8 md:px-24 pt-2">
+    <nav id="footer" class="bg-footer px-8 md:px-24 lg:px-40 2xl:px-80 pt-2">
         <!-- start container -->
         <div class="container items-center grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 content-center ">
 

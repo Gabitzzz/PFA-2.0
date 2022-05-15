@@ -22863,7 +22863,7 @@ var _withScopeId = function _withScopeId(n) {
 
 var _hoisted_1 = {
   id: "footer",
-  "class": "bg-footer px-8 md:px-24 pt-2"
+  "class": "bg-footer px-8 md:px-24 lg:px-40 2xl:px-80 pt-2"
 };
 var _hoisted_2 = {
   "class": "container items-center grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 content-center"
@@ -24333,7 +24333,7 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40"
+  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-40 2xl:px-80 pt-24 md:pt-40"
 };
 var _hoisted_2 = {
   id: "banner"

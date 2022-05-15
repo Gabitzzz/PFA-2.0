@@ -14,7 +14,7 @@ defineProps({
 <template>
     <Navbar></Navbar>
 
-    <div class="w-full px-4 py-8  sm:px-8 md:px-16 lg:px-24 xl:px-40 pt-24 md:pt-40">
+    <div class="w-full px-4 py-8  sm:px-8 md:px-16 lg:px-40 2xl:px-80 pt-24 md:pt-40">
         <section id="banner">
             <Banner></Banner>
         </section>
