@@ -28,7 +28,7 @@
                     <a href="https://github.com/Gabitzzz">
                         <img :src="github" class="w-12 ml-2  border rounded-full border-current hover:bg-current" alt="">
                     </a>
-                    <a href="https://wa.me/+447873936443">
+                    <a href="https://wa.me/+40773800815">
                         <img :src="whatsapp" class="w-12 ml-2  border rounded-full border-current hover:bg-current" alt="">
                     </a>
                 </div>

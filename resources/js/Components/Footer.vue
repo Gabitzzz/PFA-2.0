@@ -36,7 +36,7 @@
                         Ilfov, România</a></li>
                     <li><a class=" rounded-full underline-opening" href="mailto:litcangabi@gmail.com">litcangabi@gmail.com</a>
                     </li>
-                    <li><a class=" rounded-full underline-opening" href="tel:+40773800815">0773 800 815</a></li>
+                    <li><a class=" rounded-full underline-opening" href="tel:+40773800815">+40 773 800 815</a></li>
                 </ul>
             </div>
         </div>

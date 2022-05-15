@@ -22261,7 +22261,7 @@ var _withScopeId = function _withScopeId(n) {
 
 var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-6xl text-center",
+    "class": "text-4xl sm:text-6xl text-center",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -22272,7 +22272,7 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
 });
 
 var _hoisted_2 = {
-  "class": "mt-12 md:flex items-center"
+  "class": "mt-6 sm:mt-12 md:flex items-center"
 };
 var _hoisted_3 = {
   "class": "rounded-full m-8"
@@ -22695,7 +22695,7 @@ var _hoisted_10 = {
 };
 var _hoisted_11 = ["src"];
 var _hoisted_12 = {
-  href: "https://wa.me/+447873936443"
+  href: "https://wa.me/+40773800815"
 };
 var _hoisted_13 = ["src"];
 
@@ -22823,7 +22823,7 @@ var _withScopeId = function _withScopeId(n) {
 
 var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl sm:text-6xl mb-2 flex md:justify-center mt-16",
+    "class": "text-4xl sm:text-6xl mb-2 flex justify-center mt-16",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -22833,7 +22833,7 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"grid grid-cols-1 md:grid-cols-2 items-center\" data-v-0935e9a5><div class=\"mx-4 px-2 md:px-8\" data-v-0935e9a5><p class=\"w-full max-w-lg mt-4 text-2xl font-bold\" data-v-0935e9a5> Let&#39;s Get in Touch </p><p class=\"w-full max-w-lg mt-4 text-lg\" data-v-0935e9a5> Either you have an inquiry about a potential project, a question about programming or whatever pops into your mind, drop me a message and I will get back to you as soon as possible. </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5><a href=\"https://goo.gl/maps/MDxLQff43DTB3WJ98\" data-v-0935e9a5> ADDRESS: Brănești, Ilfov, România </a> <br data-v-0935e9a5><a href=\"mailto:litcangabi@gmail.com\" data-v-0935e9a5> EMAIL: litcangabi@gmail.com </a> <br data-v-0935e9a5><a href=\"tel:+40773800815\" data-v-0935e9a5> PHONE: +40 773 800 815 </a> <br data-v-0935e9a5></p></div><form class=\"w-full max-w-lg mt-8 bg-contact p-8 rounded-2xl\" data-v-0935e9a5><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" for=\"grid-first-name\" data-v-0935e9a5> Name </label><input class=\"appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"grid-first-name\" type=\"text\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" data-v-0935e9a5> Email </label><input class=\"appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"email\" type=\"email\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2\" data-v-0935e9a5> Message </label><textarea class=\"no-resize appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none\" id=\"message\" data-v-0935e9a5></textarea></div></div><div class=\"md:flex md:items-center\" data-v-0935e9a5><a class=\"btn btn-outline rounded-full px-16\" type=\"button\" data-v-0935e9a5> Send </a><div class=\"md:w-2/3\" data-v-0935e9a5></div></div></form></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"grid grid-cols-1 md:grid-cols-2 items-center\" data-v-0935e9a5><div class=\"mx-2 px-2 md:px-8\" data-v-0935e9a5><p class=\"w-full max-w-lg mt-4 text-2xl font-bold\" data-v-0935e9a5> Let&#39;s Get in Touch </p><p class=\"w-full max-w-lg mt-4 text-lg\" data-v-0935e9a5> Either you have an inquiry about a potential project, a question about programming or whatever pops into your mind, drop me a message and I will get back to you as soon as possible. </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5><a href=\"https://goo.gl/maps/MDxLQff43DTB3WJ98\" data-v-0935e9a5> ADDRESS: Brănești, Ilfov, România </a> <br data-v-0935e9a5><a href=\"mailto:litcangabi@gmail.com\" data-v-0935e9a5> EMAIL: litcangabi@gmail.com </a> <br data-v-0935e9a5><a href=\"tel:+40773800815\" data-v-0935e9a5> PHONE: +40 773 800 815 </a> <br data-v-0935e9a5></p></div><form class=\"w-full max-w-lg mt-8 bg-contact p-8 rounded-2xl\" data-v-0935e9a5><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" for=\"grid-first-name\" data-v-0935e9a5> Name </label><input class=\"bg-gray-800 appearance-none block w-full text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"grid-first-name\" type=\"text\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" data-v-0935e9a5> Email </label><input class=\"bg-gray-800 appearance-none block w-full text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"email\" type=\"email\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" data-v-0935e9a5> Message </label><textarea class=\"no-resize appearance-none block w-full bg-gray-800 text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none\" id=\"message\" data-v-0935e9a5></textarea></div></div><div class=\"md:flex md:items-center\" data-v-0935e9a5><a class=\"btn btn-outline rounded-full px-16\" type=\"button\" data-v-0935e9a5> Send </a><div class=\"md:w-2/3\" data-v-0935e9a5></div></div></form></div>", 1);
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" component "), _hoisted_2], 64
@@ -22881,7 +22881,7 @@ var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"pt-6\" data-v-3c0d6e26><!-- Column 2 Content --><ul class=\"\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:normal;\" data-v-3c0d6e26><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#banner\" data-v-3c0d6e26>HOME</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#portfolio\" data-v-3c0d6e26>PORTFOLIO</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#about\" data-v-3c0d6e26>ABOUT ME</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#contact\" data-v-3c0d6e26>CONTACT</a></li></ul></div><div class=\"pt-6\" data-v-3c0d6e26><!-- Column 2 Content --><ul class=\"\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:normal;\" data-v-3c0d6e26><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"https://goo.gl/maps/MDxLQff43DTB3WJ98\" data-v-3c0d6e26> Brănești, Ilfov, România</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"mailto:litcangabi@gmail.com\" data-v-3c0d6e26>litcangabi@gmail.com</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"tel:+40773800815\" data-v-3c0d6e26>0773 800 815</a></li></ul></div>", 2);
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"pt-6\" data-v-3c0d6e26><!-- Column 2 Content --><ul class=\"\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:normal;\" data-v-3c0d6e26><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#banner\" data-v-3c0d6e26>HOME</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#portfolio\" data-v-3c0d6e26>PORTFOLIO</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#about\" data-v-3c0d6e26>ABOUT ME</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"#contact\" data-v-3c0d6e26>CONTACT</a></li></ul></div><div class=\"pt-6\" data-v-3c0d6e26><!-- Column 2 Content --><ul class=\"\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:normal;\" data-v-3c0d6e26><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"https://goo.gl/maps/MDxLQff43DTB3WJ98\" data-v-3c0d6e26> Brănești, Ilfov, România</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"mailto:litcangabi@gmail.com\" data-v-3c0d6e26>litcangabi@gmail.com</a></li><li data-v-3c0d6e26><a class=\"rounded-full underline-opening\" href=\"tel:+40773800815\" data-v-3c0d6e26>+40 773 800 815</a></li></ul></div>", 2);
 
 var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
@@ -23039,7 +23039,7 @@ var _withScopeId = function _withScopeId(n) {
 
 var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-6xl text-center",
+    "class": "text-4xl sm:text-6xl text-center",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -23242,13 +23242,13 @@ var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
 
 var _hoisted_30 = ["src"];
 
-var _hoisted_31 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div data-v-f70c20e6><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-5xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Essex Social Network <br data-v-f70c20e6></p></a><p class=\"mt-4\" data-v-f70c20e6> Essex Social Network is an exclusive Social Media Platform destined to be used by people from within University of Essex. Built to enhance student’s experience, it combines the traditional elements of a Social Media App with the University of Essex’s Online Platforms, helping students with their academic and social life. </p><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"text-2xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> essex.social </p></a></div>", 1);
+var _hoisted_31 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div data-v-f70c20e6><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-2xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Essex Social Network <br data-v-f70c20e6></p></a><p class=\"mt-4\" data-v-f70c20e6> Essex Social Network is an exclusive Social Media Platform destined to be used by people from within University of Essex. Built to enhance student’s experience, it combines the traditional elements of a Social Media App with the University of Essex’s Online Platforms, helping students with their academic and social life. </p><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> essex.social </p></a></div>", 1);
 
 var _hoisted_32 = {
   "class": "md:flex items-center mt-16"
 };
 
-var _hoisted_33 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"md:w-1/2\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-4xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Other Projects <br data-v-f70c20e6></p><p class=\"mt-4\" data-v-f70c20e6><!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within--><!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a--><!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic--><!--                and social life.--> Check out other projects, inlucding <br data-v-f70c20e6></p><ul data-v-f70c20e6><li data-v-f70c20e6> • House Price Prediction </li><li data-v-f70c20e6> • 2D Sliding-Puzzle Solver </li><li data-v-f70c20e6> • Analysis and Forecasting Program </li><li data-v-f70c20e6> • Diabetes Prediction </li></ul><a href=\"https://github.com/Gabitzzz\" data-v-f70c20e6><p class=\"text-2xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> github.com/Gabitzzz </p></a></div>", 1);
+var _hoisted_33 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"md:w-1/2\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-4xl lg:text-4xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Other Projects <br data-v-f70c20e6></p><p class=\"mt-4\" data-v-f70c20e6><!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within--><!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a--><!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic--><!--                and social life.--> Check out other projects, inlucding <br data-v-f70c20e6></p><ul data-v-f70c20e6><li data-v-f70c20e6> • House Price Prediction </li><li data-v-f70c20e6> • 2D Sliding-Puzzle Solver </li><li data-v-f70c20e6> • Analysis and Forecasting Program </li><li data-v-f70c20e6> • Diabetes Prediction </li></ul><a href=\"https://github.com/Gabitzzz\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> github.com/Gabitzzz </p></a></div>", 1);
 
 var _hoisted_34 = {
   "class": "md:w-1/2",

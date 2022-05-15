@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="../../../../../Downloads/jquery-flipster-master/src/less/themes/carousel.less">
 <template>
     <p
-        class="text-6xl text-center  "
+        class="text-4xl sm:text-6xl text-center  "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         About Me
     </p>
 
-    <div class="mt-12 md:flex items-center">
+    <div class="mt-6 sm:mt-12 md:flex items-center">
         <div class="rounded-full m-8">
             <img :src="me" alt="me" class="rounded-full transition ease-in">
         </div>
@@ -21,7 +21,6 @@
             can
             possible to implement the latest and most innovative technologies in my projects and deliver content
             as high quality as possible.
-
         </p>
 
 

@@ -1,7 +1,7 @@
 <template>
     <!--    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 ">-->
     <p
-        class="text-6xl text-center"
+        class="text-4xl sm:text-6xl text-center"
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         Portfolio
     </p>
@@ -137,7 +137,7 @@
         <div>
             <a href="https://essex.social/">
                 <p
-                    class="mt-4 sm:mt-0 text-2xl lg:text-5xl"
+                    class="mt-4 sm:mt-0 text-2xl lg:text-2xl"
                     style="font-family: 'Poppins', sans-serif; font-weight:bold;">
                     Essex Social Network
                     <br>
@@ -153,7 +153,7 @@
 
             <a href="https://essex.social/">
                 <p
-                    class="text-2xl mt-4"
+                    class="text-xl mt-4"
                     style="font-family: 'Poppins', sans-serif; font-weight:bold;">
                     essex.social
                 </p>
@@ -168,7 +168,7 @@
 
         <div class="md:w-1/2">
             <p
-                class="mt-4 sm:mt-0 text-2xl lg:text-4xl"
+                class="mt-4 sm:mt-0 text-4xl lg:text-4xl"
                 style="font-family: 'Poppins', sans-serif; font-weight:bold;">
                 Other Projects
                 <br>
@@ -201,7 +201,7 @@
 
             <a href="https://github.com/Gabitzzz">
                 <p
-                    class="text-2xl mt-4"
+                    class="text-xl mt-4"
                     style="font-family: 'Poppins', sans-serif; font-weight:bold;">
                     github.com/Gabitzzz
                 </p>
