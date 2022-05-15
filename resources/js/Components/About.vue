@@ -11,18 +11,18 @@
             <img :src="me" alt="me" class="rounded-full transition ease-in">
         </div>
 
-        <p class="mx-10">
+        <p class="">
             I am Lițcan Nicolae-Gabriel, I study Computer Science & Electronic Engineering at
             University of Essex in United Kingdom.<br>
 
             <br>
 
-            I started this business out of my passion for technology and everything related to it. I try as hard as I can
+            I started this business out of my passion for technology and everything related to it. I try as hard as I
+            can
             possible to implement the latest and most innovative technologies in my projects and deliver content
             as high quality as possible.
 
         </p>
-
 
 
     </div>
@@ -38,22 +38,35 @@
         <div class="timeline">
             <div class="entry">
                 <div class="title">
+                    <h3>March 2022</h3>
+                    <p>University of Essex</p>
+                </div>
+                <div class="body">
+                    <p class="text-lg">
+                        Worked as an IT Student Assistant for University of Essex.
+                    </p>
+                </div>
+            </div>
+
+            <div class="entry">
+                <div class="title">
                     <h3>2022</h3>
                     <p>Essex Social Network</p>
                 </div>
                 <div class="body">
-                    <p class="text-xl">
+                    <p class="text-lg">
                         Started Essex Social Network, a Social Media Platform for students from University of Essex
                     </p>
                 </div>
             </div>
+
             <div class="entry">
                 <div class="title">
-                    <h3>2021</h3>
+                    <h3>January 2021</h3>
                     <p>Lițcan Nicolae-Gabriel PFA</p>
                 </div>
                 <div class="body">
-                    <p class="text-xl">
+                    <p class="text-lg">
                         Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various
                         fields of activity, including architecture, banking, electricity or e-commerce,</p>
                 </div>
@@ -61,23 +74,23 @@
             <div class="entry">
                 <div class="title">
                     <h3>January-March 2021</h3>
-                    <p>Title, Company</p>
+                    <p>Brănești Middle School</p>
                 </div>
                 <div class="body">
-                    <p class="text-xl">
-
-                        Handled school's hardware(printers, routers, computers, tablets, CCTV) and used The
-                        Integrated Information System of Education in Romania and Edus Platform as software.
+                    <p class="text-lg">
+                        Worked as an IT Manager for my middle school. Handled the school's hardware(printers, routers,
+                        computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and
+                        Edus Platform as software.
                     </p>
                 </div>
             </div>
             <div class="entry">
                 <div class="title">
                     <h3>2020</h3>
-                    <p>Title, Company</p>
+                    <p>University of Essex</p>
                 </div>
                 <div class="body">
-                    <p class="text-xl">Worked on various Projects, including <br>
+                    <p class="text-lg">Worked on various Projects, including <br>
                         Formula Student, <br>
                         COVID-19 Analysis and Forecasting Program <br>
                         AMY Club <br>
@@ -87,11 +100,11 @@
 
             <div class="entry">
                 <div class="title">
-                    <h3>2019</h3>
-                    <p>Title, Company</p>
+                    <h3> October 2019</h3>
+                    <p>University of Essex</p>
                 </div>
                 <div class="body">
-                    <p class="text-xl">Started studying Computer Science at University of Essex and moved out to
+                    <p class="text-lg">Started studying Computer Science at University of Essex and moved out to
                         Colchester, UK.</p>
                 </div>
             </div>
@@ -249,21 +262,21 @@
                 </div>
             </div>
 
-                    <!--            SKETCH      -->
-                    <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
-                        <div class="grid grid-col-1 justify-center    ">
+            <!--            SKETCH      -->
+            <div class="skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in">
+                <div class="grid grid-col-1 justify-center    ">
 
-                            <div class="html-logo">
-                                <img :src="sketch" class="" alt="" width="64" height="64">
-                            </div>
-
-                        </div>
-                            <div class="grid grid-col-3 html-text ">
-                            <p class="  align-top  md:ml-8 text-center">
-                                Sketch
-                            </p>
-                        </div>
+                    <div class="html-logo">
+                        <img :src="sketch" class="" alt="" width="64" height="64">
                     </div>
+
+                </div>
+                <div class="grid grid-col-3 html-text ">
+                    <p class="  align-top  md:ml-8 text-center">
+                        Sketch
+                    </p>
+                </div>
+            </div>
 
 
         </div>

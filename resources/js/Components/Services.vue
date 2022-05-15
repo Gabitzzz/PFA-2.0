@@ -4,12 +4,16 @@
     <input type="checkbox" id="my-modal" class="modal-toggle">
     <div class="modal">
         <div class="modal-box">
-            <figure class="px-6 pt-6">
-                <img
-                    class="mask mask-hexagon"
-                    :src="design" alt="design" width="140">
-            </figure>
-            <h3 class="font-bold text-lg">Product Design</h3>
+            <div class="flex justify-center">
+               <div>
+                   <figure class="px-6 pt-6">
+                       <img
+                           class="mask mask-hexagon"
+                           :src="design" alt="design" width="140">
+                   </figure>
+                   <h3 class="flex justify-center font-bold text-lg mt-2">Product Design</h3>
+               </div>
+            </div>
             <p class="py-4">I work with certain design tools to create high-fidelity designs and
                 prototypes. I design accessible and usable products which aid business growth.</p>
             <div class="modal-action">
@@ -59,12 +63,16 @@
         <div class="modal">
 
             <div class="modal-box flex-none grid justify-items">
-                <figure class="px-6 pt-6">
-                    <img
-                        class="mask mask-circle"
-                        :src="webdev" alt="webdev" width="140">
-                </figure>
-                <h3 class="font-bold text-lg">Web Development</h3>
+               <div class="flex justify-center">
+                   <div>
+                       <figure class="px-6 pt-6">
+                           <img
+                               class="mask mask-circle"
+                               :src="webdev" alt="webdev" width="140">
+                       </figure>
+                       <h3 class="font-bold text-lg mt-2 flex justify-center">Web Development</h3>
+                   </div>
+               </div>
                 <p class="py-4">I use various web technologies to develop attractive websites which
                     converts
                     visitors to customers. I develop creative and responsive website layouts.</p>
@@ -96,12 +104,16 @@
         <input type="checkbox" id="my-modal3" class="modal-toggle">
         <div class="modal">
             <div class="modal-box">
-                <figure class="px-6 pt-6">
-                    <img
-                        class="mask mask-squircle"
-                        :src="mrk" alt="webdev" width="140">
-                </figure>
-                <h3 class="font-bold text-lg">Digital Marketing</h3>
+               <div class="flex justify-center">
+                   <div>
+                       <figure class="px-6 pt-6">
+                           <img
+                               class="mask mask-squircle"
+                               :src="mrk" alt="webdev" width="140">
+                       </figure>
+                       <h3 class="font-bold text-lg flex justify-center mt-2">Digital Marketing</h3>
+                   </div>
+               </div>
                 <p class="py-4">I identify and evaluates new digital technologies and use web analytics
                     tools to measure site traffic to better optimize marketing campaigns.</p>
                 <div class="modal-action">

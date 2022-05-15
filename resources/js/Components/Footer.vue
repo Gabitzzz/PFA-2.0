@@ -6,7 +6,7 @@
             <div class="  flex-wrap overflow-hidden sm:-mx-1 md:-mx-px lg:-mx-2 xl:-mx-2">
                 <img :src="logo"
                      alt=""
-                     class="w-32 md:w-48 "
+                     class="w-24 md:w-36 "
                      style=" filter:  brightness(0) invert(1);"
                 >
 
@@ -31,15 +31,18 @@
                 <!-- Column 2 Content -->
                 <ul class="  "
                     style="font-family: 'Poppins', sans-serif; font-weight: normal;">
-                    <li><a class=" rounded-full underline-opening" href="#about">Brănești, Ilfov, România</a></li>
-                    <li><a class=" rounded-full underline-opening" href="#banner">litcangabi@gmail.com</a></li>
-                    <li><a class=" rounded-full underline-opening" href="#portfolio">0773 800 815</a></li>
+                    <li><a class=" rounded-full underline-opening" href="https://goo.gl/maps/MDxLQff43DTB3WJ98">
+                        Brănești,
+                        Ilfov, România</a></li>
+                    <li><a class=" rounded-full underline-opening" href="mailto:litcangabi@gmail.com">litcangabi@gmail.com</a>
+                    </li>
+                    <li><a class=" rounded-full underline-opening" href="tel:+40773800815">0773 800 815</a></li>
                 </ul>
             </div>
         </div>
 
         <div class="pt-4 md:flex md:items-center md:justify-center ">
-            <div class="footer-copyright text-center text-white-50 py-3" style="color:white;">© Lițcan
+            <div class="footer-copyright text-white-50 py-3" style="color:white;">© 2021-2022 Lițcan
                 Nicolae-Gabriel PFA.
                 All rights reserved
             </div>

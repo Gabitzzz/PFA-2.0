@@ -2469,6 +2469,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin: 2rem;
 }.m-4{
   margin: 1rem;
+}.m-16{
+  margin: 4rem;
+}.m-48{
+  margin: 12rem;
 }.mx-auto{
   margin-left: auto;
   margin-right: auto;
@@ -2595,6 +2599,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 4rem;
 }.w-52{
   width: 13rem;
+}.w-1\/2{
+  width: 50%;
+}.w-24{
+  width: 6rem;
 }.max-w-xl{
   max-width: 36rem;
 }.max-w-6xl{
@@ -2637,8 +2645,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   cursor: default;
 }.resize-none{
   resize: none;
-}.resize{
-  resize: both;
 }.list-inside{
   list-style-position: inside;
 }.list-disc{
@@ -2757,6 +2763,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding: 0.5rem;
 }.p-8{
   padding: 2rem;
+}.p-24{
+  padding: 6rem;
 }.px-4{
   padding-left: 1rem;
   padding-right: 1rem;
@@ -3140,6 +3148,8 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-left: 1.5rem;
   }.sm\:-mt-32{
     margin-top: -8rem;
+  }.sm\:mt-0{
+    margin-top: 0px;
   }.sm\:block{
     display: block;
   }.sm\:flex{
@@ -3176,6 +3186,9 @@ Ensure the default browser behavior of the `hidden` attribute.
     text-align: left;
   }.sm\:text-right{
     text-align: right;
+  }.sm\:text-6xl{
+    font-size: 3.75rem;
+    line-height: 1;
   }
 }@media (min-width: 768px){.md\:visible{
     visibility: visible;
@@ -3194,6 +3207,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: 12rem;
   }.md\:w-24{
     width: 6rem;
+  }.md\:w-1\/2{
+    width: 50%;
+  }.md\:w-36{
+    width: 9rem;
   }.md\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }.md\:items-center{
@@ -3210,6 +3227,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   }.md\:px-16{
     padding-left: 4rem;
     padding-right: 4rem;
+  }.md\:px-6{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }.md\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
   }.md\:pt-40{
     padding-top: 10rem;
   }.md\:hover\:scale-110:hover{
@@ -3271,6 +3294,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   }.lg\:text-5xl{
     font-size: 3rem;
     line-height: 1;
+  }.lg\:text-4xl{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
   }
 }@media (min-width: 1280px){.xl\:-mx-2{
     margin-left: -0.5rem;

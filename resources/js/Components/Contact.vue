@@ -1,6 +1,6 @@
 <template>
         <p
-            class="text-6xl mb-2 flex justify-center mt-16 "
+            class="text-4xl sm:text-6xl mb-2 flex md:justify-center mt-16 "
             style="font-family: 'Poppins', sans-serif; font-weight:bold;">
 
             Contact me
@@ -9,20 +9,27 @@
 
         <!-- component -->
         <div class="grid grid-cols-1 md:grid-cols-2 items-center">
-            <div class="mx-4 px-8">
-                <p class="w-full max-w-lg mt-8 text-4xl font-bold">
+            <div class="mx-4 px-2 md:px-8">
+                <p class="w-full max-w-lg mt-4 text-2xl font-bold">
                     Let's Get in Touch
                 </p>
 
-                <p class="w-full max-w-lg mt-8 text-lg ">
+                <p class="w-full max-w-lg mt-4 text-lg ">
                     Either you have an inquiry about a potential project, a question about programming or whatever pops
                     into your mind, drop me a message and I will get back to you as soon as possible.
                 </p>
-                <p class="w-full max-w-lg mt-8 text-lg ">
 
-                    ADDRESS: Brănești, Ilfov, România <br>
-                    EMAIL: litcangabi@gmail.com <br>
-                    PHONE: +40 773 800 815 <br>
+
+                <p class="w-full max-w-lg mt-8 text-lg ">
+                    <a href="https://goo.gl/maps/MDxLQff43DTB3WJ98">
+                        ADDRESS: Brănești, Ilfov, România
+                    </a> <br>
+                    <a href="mailto:litcangabi@gmail.com">
+                        EMAIL: litcangabi@gmail.com
+                    </a> <br>
+                    <a href="tel:+40773800815">
+                        PHONE: +40 773 800 815
+                    </a> <br>
                 </p>
             </div>
 
@@ -44,7 +51,7 @@
                 <div class="flex flex-wrap -mx-3 mb-6">
                     <div class="w-full px-3">
                         <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2">
-                            E-mail
+                            Email
                         </label>
                         <input
                             class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"

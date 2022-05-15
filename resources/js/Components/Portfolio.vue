@@ -10,11 +10,11 @@
     <!--        <img :src="ted" alt="Gif" width="550"/>-->
 
     <p
-        class="text-3xl mt-8 "
+        class="text-4xl mt-8 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         Clients
     </p>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-16">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-8">
 
 
         <!--            FIRST ROW  -->
@@ -111,9 +111,9 @@
     </div>
 
     <p
-        class="text-3xl mt-16 "
+        class="text-4xl mt-16 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-        My Capstone Project
+        Capstone Project
     </p>
 
     <p
@@ -128,38 +128,92 @@
 
     <div class="md:flex items-center  ">
         <div class="  " style="margin: initial !important;">
-            <a href="https://www.tedxuniversityofessex.com/">
+            <a href="https://essex.social">
                 <div class="content-overlay"></div>
-                <img :src="esn" alt="Gif" class="w-full "/>
-                <div class="content-details fadeIn-bottom">
-                    <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>
-                    <p class="content-text">Web Design & Development</p>
-                    <p class="content-text">WIX</p>
-                </div>
+                <img :src="esn" alt="Gif" class="w-full px-6"/>
             </a>
         </div>
+
         <div>
-            <p
-                class="text-2xl lg:text-5xl"
-                style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-                Essex Social Network
-                <br>
-            </p>
+            <a href="https://essex.social/">
+                <p
+                    class="mt-4 sm:mt-0 text-2xl lg:text-5xl"
+                    style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+                    Essex Social Network
+                    <br>
+                </p>
+            </a>
 
             <p class="mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aspernatur consequuntur deserunt,
-                doloribus dolorum et, exercitationem hic minus obcaecati optio placeat quae, quisquam quod quos
-                recusandae saepe sunt temporibus veritatis?
+                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within
+                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a
+                Social Media App with the University of Essex’s Online Platforms, helping students with their academic
+                and social life.
             </p>
 
             <a href="https://essex.social/">
                 <p
-                    class="text-2xl text-center mt-2"
+                    class="text-2xl mt-4"
                     style="font-family: 'Poppins', sans-serif; font-weight:bold;">
                     essex.social
                 </p>
             </a>
 
+        </div>
+
+    </div>
+
+    <div class="md:flex items-center mt-16 ">
+
+
+        <div class="md:w-1/2">
+            <p
+                class="mt-4 sm:mt-0 text-2xl lg:text-4xl"
+                style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+                Other Projects
+                <br>
+            </p>
+
+            <p class="mt-4">
+                <!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within-->
+                <!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a-->
+                <!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic-->
+                <!--                and social life.-->
+
+                Check out other projects, inlucding <br>
+
+            </p>
+
+            <ul>
+                <li>
+                    • House Price Prediction
+                </li>
+                <li>
+                    • 2D Sliding-Puzzle Solver
+                </li>
+                <li>
+                    • Analysis and Forecasting Program
+                </li>
+                <li>
+                    • Diabetes Prediction
+                </li>
+            </ul>
+
+            <a href="https://github.com/Gabitzzz">
+                <p
+                    class="text-2xl mt-4"
+                    style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+                    github.com/Gabitzzz
+                </p>
+            </a>
+
+        </div>
+
+        <div class="md:w-1/2 " style="margin: initial !important;">
+            <a href="https://github.com/Gabitzzz">
+                <div class="content-overlay"></div>
+                <img :src="git_profile" alt="Gif" class="w-full px-6"/>
+            </a>
         </div>
 
     </div>
@@ -175,7 +229,8 @@ import dws from "/images/DWS.webp";
 import ted from "/images/ted.webp";
 import patratel from "/images/patratel.webp";
 import arhique from "/images/arhique.webp";
-import esn from "/images/esn2.png";
+import esn from "/images/esn.png";
+import git_profile from "/images/github_profile.png";
 import {Swiper, SwiperSlide} from 'swiper/vue';
 import 'swiper/css';
 
@@ -189,6 +244,7 @@ export default {
             arhique: arhique,
             patratel: patratel,
             esn: esn,
+            git_profile: git_profile,
         }
     },
 
