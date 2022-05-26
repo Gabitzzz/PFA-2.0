@@ -33,8 +33,8 @@
     <div class="flex justify-center px-4 mt-8">
         <div class="timeline">
             <div class="entry">
-                <div class="title">
-                    <h3>March 2022</h3>
+                <div class="title ">
+                    <h3 class="">March 2022</h3>
                     <p>University of Essex</p>
                 </div>
                 <div class="body">
