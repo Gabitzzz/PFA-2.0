@@ -41,7 +41,7 @@
             </a>
         </div>
         <div class="content ">
-            <a href="https://taraluipatratel.ro//">
+            <a href="https://locdejoacapatratel.ro//">
                 <div class="content-overlay"></div>
                 <img :src="patratel" alt="Gif" width="550" class=""/>
                 <div class="content-details fadeIn-bottom">

@@ -12,6 +12,7 @@
 
         <!-- Styles -->
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link rel="icon" type="image/png" href="<?php echo e(asset('images/logo2.png')); ?>">
 
         <!-- Scripts -->
         <script src="{{ asset('js/app.js') }}" defer></script>

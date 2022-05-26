@@ -3,7 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" href="/public/images/logo2.png">
+{{--        <link rel="icon" href="{{ URL::asset('/public/images/logo2.png') }}" type="image/x-icon"/>--}}
+        <link rel="icon" href="http://pfa_2.0.test/images/logo2.png">
         <title>Lițcan Gabriel</title>
 
         <!-- Fonts -->

@@ -12,18 +12,15 @@
         </div>
 
         <p class="">
-            I am Lițcan Nicolae-Gabriel, I study Computer Science & Electronic Engineering at
+            My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at
             University of Essex in United Kingdom.<br>
 
             <br>
 
             I started this business out of my passion for technology and everything related to it. I try as hard as I
-            can
-            possible to implement the latest and most innovative technologies in my projects and deliver content
+            can to implement the latest and most innovative technologies in my projects and deliver content
             as high quality as possible.
         </p>
-
-
     </div>
 
     <p
@@ -107,14 +104,8 @@
                         Colchester, UK.</p>
                 </div>
             </div>
-
         </div>
-
-        <!--            <pdf src="./path/to/static/relativity.pdf"></pdf>-->
-
-
     </div>
-
 
     <p
         class="text-3xl mt-8 "
