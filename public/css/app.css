@@ -2739,6 +2739,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.bg-base-100{
   --tw-bg-opacity: 1;
   background-color: hsl(var(--b1) / var(--tw-bg-opacity));
+}.bg-base-300{
+  --tw-bg-opacity: 1;
+  background-color: hsl(var(--b3, var(--b2)) / var(--tw-bg-opacity));
 }.bg-base-200{
   --tw-bg-opacity: 1;
   background-color: hsl(var(--b2, var(--b1)) / var(--tw-bg-opacity));
@@ -2920,6 +2923,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.text-success{
   --tw-text-opacity: 1;
   color: hsl(var(--su) / var(--tw-text-opacity));
+}.text-black{
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }.underline{
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
