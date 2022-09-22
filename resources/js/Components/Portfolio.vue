@@ -1,16 +1,12 @@
 <template>
     <!--    <div class="w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 ">-->
-    <p
-        class="text-4xl sm:text-6xl text-center"
-        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-        Portfolio
-    </p>
+
 
 
     <!--        <img :src="ted" alt="Gif" width="550"/>-->
 
     <p
-        class="text-4xl mt-8 "
+        class="text-4xl mt-8 lg:mx-32 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         Clients
     </p>
@@ -111,13 +107,13 @@
     </div>
 
     <p
-        class="text-4xl mt-16 "
+        class="text-4xl mt-32 lg:mx-32 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
         Capstone Project
     </p>
 
     <p
-        class="text-md mt-4 "
+        class="text-lg mt-4 lg:mx-32"
         style="font-family: 'Poppins', sans-serif;">
         <!--        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.-->
         Capstone Project at University of Essex is an Assignment that serves as a culminating academic and intellectual
@@ -144,7 +140,7 @@
                 </p>
             </a>
 
-            <p class="mt-4">
+            <p class="mt-4 text-lg">
                 Essex Social Network is an exclusive Social Media Platform destined to be used by people from within
                 University of Essex. Built to enhance student’s experience, it combines the traditional elements of a
                 Social Media App with the University of Essex’s Online Platforms, helping students with their academic
@@ -163,7 +159,7 @@
 
     </div>
 
-    <div class="md:flex items-center mt-16 ">
+    <div class="md:flex items-center mt-32 lg:mx-24">
 
 
         <div class="md:w-1/2">
@@ -209,7 +205,7 @@
 
         </div>
 
-        <div class="md:w-1/2 " style="margin: initial !important;">
+        <div class="md:w-2/3 " style="margin: initial !important;">
             <a href="https://github.com/Gabitzzz">
                 <div class="content-overlay"></div>
                 <img :src="git_profile" alt="Gif" class="w-full px-6"/>

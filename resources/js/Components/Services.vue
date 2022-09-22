@@ -23,10 +23,10 @@
     </div>
 
 
-    <div class="flex-none grid justify-items-center md:flex justify-center ">
+    <div class="flex-none grid justify-items-center md:flex justify-center lg:mx-16">
         <div class="md:hover:scale-110 duration-300 transition ease-in">
             <div
-                class="card product-design bg-base-200  duration-300 shadow-xl mx-6 mt-8">
+                class="card product-design bg-base-200  duration-300 shadow-xl mx-6 py-4 mt-8">
                 <figure class="px-6 pt-6">
                     <img
                         class="mask mask-hexagon"
@@ -43,7 +43,7 @@
 
         <div class="md:hover:scale-110 duration-300 transition ease-in">
             <div
-                class="card web-dev bg-base-200  duration-300 shadow-xl mx-6 mt-8">
+                class="card web-dev bg-base-200  duration-300 shadow-xl mx-6 py-4 mt-8">
                 <figure class="px-6 pt-6">
                     <img
                         class="mask mask-circle"
@@ -84,7 +84,7 @@
 
         <div class="md:hover:scale-110 duration-300 transition ease-in">
             <div
-                class="card digital-marketing bg-base-200  duration-300 shadow-xl mx-6 mt-8">
+                class="card digital-marketing bg-base-200  duration-300 shadow-xl py-4 mx-6 mt-8">
                 <figure class="px-6 pt-6">
                     <img
                         class="mask mask-squircle"

@@ -1,37 +1,54 @@
 <link rel="stylesheet" href="../../../../../Downloads/jquery-flipster-master/src/less/themes/carousel.less">
 <template>
-    <p
-        class="text-4xl sm:text-6xl text-center  "
-        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-        About Me
-    </p>
 
-    <div class="mt-6 sm:mt-12 md:flex items-center">
+
+    <div class="mt-6 sm:mt-12 md:flex justify-center items-center lg:mx-16">
         <div class="rounded-full m-8">
-            <img :src="me" alt="me" class="rounded-full transition ease-in">
+            <img :src="me" alt="me" class="w-full lg:w-2/3 rounded-full transition ease-in">
         </div>
 
-        <p class="">
-            My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at
-            University of Essex in United Kingdom.<br>
+       <div>
+           <p
+               class="text-4xl sm:text-4xl pb-6 text-center md:text-left"
+               style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+               About Me
+           </p>
+           <p class="">
+               My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at
+               University of Essex in United Kingdom.<br>
 
-            <br>
+               <br>
 
-            I started this business out of my passion for technology and everything related to it. I try as hard as I
-            can to implement the latest and most innovative technologies in my projects and deliver content
-            as high quality as possible.
-        </p>
+               I started this business out of my passion for technology and everything related to it. I try as hard as I
+               can to implement the latest and most innovative technologies in my projects and deliver content
+               as high quality as possible.
+           </p>
+       </div>
     </div>
 
-    <p
-        class="text-3xl mt-8 "
-        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-        Career
-    </p>
+    <div class="lg:mx-40 mt-16">
+        <p
+            class="text-4xl mt-8 "
+            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+            Career
+        </p>
+    </div>
 
     <!--    RESUME  -->
     <div class="flex justify-center px-4 mt-8">
         <div class="timeline">
+            <div class="entry">
+                <div class="title ">
+                    <h3 class="">July 2022</h3>
+                    <p>Lițcan Technologies</p>
+                </div>
+                <div class="body">
+                    <p class="text-lg">
+                        Founded Lițcan Technologies, Software Company that aims to create a better future through Innovative Products.
+                    </p>
+                </div>
+            </div>
+
             <div class="entry">
                 <div class="title ">
                     <h3 class="">March 2022</h3>
@@ -63,8 +80,8 @@
                 </div>
                 <div class="body">
                     <p class="text-lg">
-                        Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various
-                        fields of activity, including architecture, banking, electricity or e-commerce,</p>
+                        Founded Lițcan Nicolae-Gabriel PFA and started doing freelance work for companies from various
+                        fields of activity, including architecture, banking, education or ecommerce.</p>
                 </div>
             </div>
             <div class="entry">
@@ -107,17 +124,19 @@
         </div>
     </div>
 
-    <p
-        class="text-3xl mt-8 "
-        style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-        Tech Stalk
-    </p>
+   <div class="lg:mx-40 mt-16">
+       <p
+           class="text-3xl mt-8 "
+           style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+           Tech Stack
+       </p>
 
-    <p
-        class="text-md mt-4 "
-        style="font-family: 'Poppins', sans-serif;">
-        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
-    </p>
+       <p
+           class="text-md my-4 "
+           style="font-family: 'Poppins', sans-serif;">
+           Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
+       </p>
+   </div>
 
     <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
 

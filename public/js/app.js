@@ -22259,66 +22259,62 @@ var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-e37b7c5c"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
 
-var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl sm:text-6xl text-center",
-    style: {
-      "font-family": "'Poppins', sans-serif",
-      "font-weight": "bold"
-    }
-  }, " About Me ", -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_2 = {
-  "class": "mt-6 sm:mt-12 md:flex items-center"
+var _hoisted_1 = {
+  "class": "mt-6 sm:mt-12 md:flex justify-center items-center lg:mx-16"
 };
-var _hoisted_3 = {
+var _hoisted_2 = {
   "class": "rounded-full m-8"
 };
-var _hoisted_4 = ["src"];
+var _hoisted_3 = ["src"];
 
-var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": ""
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at University of Essex in United Kingdom."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" I started this business out of my passion for technology and everything related to it. I try as hard as I can to implement the latest and most innovative technologies in my projects and deliver content as high quality as possible. ")], -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-3xl mt-8",
+var _hoisted_4 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "text-4xl sm:text-4xl pb-6 text-center md:text-left",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
     }
-  }, " Career ", -1
+  }, " About Me "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": ""
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at University of Essex in United Kingdom."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" I started this business out of my passion for technology and everything related to it. I try as hard as I can to implement the latest and most innovative technologies in my projects and deliver content as high quality as possible. ")])], -1
   /* HOISTED */
   );
 });
 
-var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex justify-center px-4 mt-8\" data-v-e37b7c5c><div class=\"timeline\" data-v-e37b7c5c><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>March 2022</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Student Assistant for University of Essex. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2022</h3><p data-v-e37b7c5c>Essex Social Network</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Started Essex Social Network, a Social Media Platform for students from University of Essex </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January 2021</h3><p data-v-e37b7c5c>Lițcan Nicolae-Gabriel PFA</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Nicolae-Gabriel PFA and started doing freelance for companies from various fields of activity, including architecture, banking, electricity or e-commerce,</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January-March 2021</h3><p data-v-e37b7c5c>Brănești Middle School</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Manager for my middle school. Handled the school&#39;s hardware(printers, routers, computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and Edus Platform as software. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2020</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Worked on various Projects, including <br data-v-e37b7c5c> Formula Student, <br data-v-e37b7c5c> COVID-19 Analysis and Forecasting Program <br data-v-e37b7c5c> AMY Club <br data-v-e37b7c5c> House Price Prediction.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c> October 2019</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Started studying Computer Science at University of Essex and moved out to Colchester, UK.</p></div></div></div></div><p class=\"text-3xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Tech Stalk </p><p class=\"text-md mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;\" data-v-e37b7c5c> Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects. </p><input type=\"radio\" name=\"rotateAxis\" class=\"hidden\" id=\"axesY\" checked data-v-e37b7c5c>", 4);
+var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "lg:mx-40 mt-16"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "text-4xl mt-8",
+    style: {
+      "font-family": "'Poppins', sans-serif",
+      "font-weight": "bold"
+    }
+  }, " Career ")], -1
+  /* HOISTED */
+  );
+});
 
-var _hoisted_11 = {
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex justify-center px-4 mt-8\" data-v-e37b7c5c><div class=\"timeline\" data-v-e37b7c5c><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>July 2022</h3><p data-v-e37b7c5c>Lițcan Technologies</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Technologies, Software Company that aims to create a better future through Innovative Products. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>March 2022</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Student Assistant for University of Essex. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2022</h3><p data-v-e37b7c5c>Essex Social Network</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Started Essex Social Network, a Social Media Platform for students from University of Essex </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January 2021</h3><p data-v-e37b7c5c>Lițcan Nicolae-Gabriel PFA</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Nicolae-Gabriel PFA and started doing freelance work for companies from various fields of activity, including architecture, banking, education or ecommerce.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January-March 2021</h3><p data-v-e37b7c5c>Brănești Middle School</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Manager for my middle school. Handled the school&#39;s hardware(printers, routers, computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and Edus Platform as software. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2020</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Worked on various Projects, including <br data-v-e37b7c5c> Formula Student, <br data-v-e37b7c5c> COVID-19 Analysis and Forecasting Program <br data-v-e37b7c5c> AMY Club <br data-v-e37b7c5c> House Price Prediction.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c> October 2019</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Started studying Computer Science at University of Essex and moved out to Colchester, UK.</p></div></div></div></div><div class=\"lg:mx-40 mt-16\" data-v-e37b7c5c><p class=\"text-3xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Tech Stack </p><p class=\"text-md my-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;\" data-v-e37b7c5c> Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects. </p></div><input type=\"radio\" name=\"rotateAxis\" class=\"hidden\" id=\"axesY\" checked data-v-e37b7c5c>", 3);
+
+var _hoisted_9 = {
   "class": "mx-8"
 };
-var _hoisted_12 = {
+var _hoisted_10 = {
   "class": "grid max-w-full grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-y-8 content-center"
 };
-var _hoisted_13 = {
+var _hoisted_11 = {
   "class": "skill px-4 md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_14 = {
+var _hoisted_12 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_15 = {
+var _hoisted_13 = {
   "class": "laravel-logo"
 };
-var _hoisted_16 = ["src"];
+var _hoisted_14 = ["src"];
 
-var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_15 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 laravel-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22328,18 +22324,18 @@ var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_18 = {
+var _hoisted_16 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_19 = {
+var _hoisted_17 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_20 = {
+var _hoisted_18 = {
   "class": "js-logo"
 };
-var _hoisted_21 = ["src"];
+var _hoisted_19 = ["src"];
 
-var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_20 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 js-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22349,18 +22345,18 @@ var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_23 = {
+var _hoisted_21 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_24 = {
+var _hoisted_22 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_25 = {
+var _hoisted_23 = {
   "class": "css-logo"
 };
-var _hoisted_26 = ["src"];
+var _hoisted_24 = ["src"];
 
-var _hoisted_27 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_25 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 css-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22370,18 +22366,18 @@ var _hoisted_27 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_28 = {
+var _hoisted_26 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_29 = {
+var _hoisted_27 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_30 = {
+var _hoisted_28 = {
   "class": "html-logo"
 };
-var _hoisted_31 = ["src"];
+var _hoisted_29 = ["src"];
 
-var _hoisted_32 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_30 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 html-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22391,18 +22387,18 @@ var _hoisted_32 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_33 = {
+var _hoisted_31 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_34 = {
+var _hoisted_32 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_35 = {
+var _hoisted_33 = {
   "class": "css-logo"
 };
-var _hoisted_36 = ["src"];
+var _hoisted_34 = ["src"];
 
-var _hoisted_37 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_35 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 css-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22412,18 +22408,18 @@ var _hoisted_37 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_38 = {
+var _hoisted_36 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_39 = {
+var _hoisted_37 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_40 = {
+var _hoisted_38 = {
   "class": "js-logo"
 };
-var _hoisted_41 = ["src"];
+var _hoisted_39 = ["src"];
 
-var _hoisted_42 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_40 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 js-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22433,18 +22429,18 @@ var _hoisted_42 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_43 = {
+var _hoisted_41 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_44 = {
+var _hoisted_42 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_45 = {
+var _hoisted_43 = {
   "class": "sql-logo"
 };
-var _hoisted_46 = ["src"];
+var _hoisted_44 = ["src"];
 
-var _hoisted_47 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_45 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 sql-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22454,18 +22450,18 @@ var _hoisted_47 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_48 = {
+var _hoisted_46 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_49 = {
+var _hoisted_47 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_50 = {
+var _hoisted_48 = {
   "class": "laravel-logo"
 };
-var _hoisted_51 = ["src"];
+var _hoisted_49 = ["src"];
 
-var _hoisted_52 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_50 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 laravel-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22475,18 +22471,18 @@ var _hoisted_52 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_53 = {
+var _hoisted_51 = {
   "class": "skill md:flex items-center justify-center mt-8 hover:scale-110 duration-300 transition ease-in"
 };
-var _hoisted_54 = {
+var _hoisted_52 = {
   "class": "grid grid-col-1 justify-center"
 };
-var _hoisted_55 = {
+var _hoisted_53 = {
   "class": "html-logo"
 };
-var _hoisted_56 = ["src"];
+var _hoisted_54 = ["src"];
 
-var _hoisted_57 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_55 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "grid grid-col-3 html-text"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
@@ -22497,13 +22493,13 @@ var _hoisted_57 = /*#__PURE__*/_withScopeId(function () {
 });
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.me,
     alt: "me",
-    "class": "rounded-full transition ease-in"
+    "class": "w-full lg:w-2/3 rounded-full transition ease-in"
   }, null, 8
   /* PROPS */
-  , _hoisted_4)]), _hoisted_5]), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    RESUME  "), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("LARAVEL "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_3)]), _hoisted_4]), _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    RESUME  "), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("LARAVEL "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.laravel,
     "class": "",
     alt: "",
@@ -22511,7 +22507,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_16)])]), _hoisted_17]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    VUE "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_20, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_14)])]), _hoisted_15]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    VUE "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_17, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.vue,
     "class": "",
     alt: "",
@@ -22519,7 +22515,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_21)])]), _hoisted_22]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            TAILWIND"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_23, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_24, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_19)])]), _hoisted_20]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            TAILWIND"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_21, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_22, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_23, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.tailwind,
     "class": "",
     alt: "",
@@ -22527,7 +22523,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_26)])]), _hoisted_27]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            HTML    "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_28, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_29, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_30, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_24)])]), _hoisted_25]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            HTML    "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_26, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_27, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_28, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.html,
     "class": "",
     alt: "",
@@ -22535,7 +22531,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_31)])]), _hoisted_32]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            CSS"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_33, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_34, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_35, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_29)])]), _hoisted_30]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            CSS"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_31, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_32, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_33, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.css,
     "class": "",
     alt: "",
@@ -22543,7 +22539,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_36)])]), _hoisted_37]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        JS      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_38, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_39, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_40, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_34)])]), _hoisted_35]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        JS      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_36, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_37, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_38, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.js,
     "class": "",
     alt: "",
@@ -22551,7 +22547,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_41)])]), _hoisted_42]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                         SQL      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_43, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_44, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_45, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_39)])]), _hoisted_40]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                         SQL      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_41, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_42, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_43, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.sql,
     "class": "",
     alt: "",
@@ -22559,7 +22555,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_46)])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <div class=\"grid grid-col-2 gap-2  \">"), _hoisted_47]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            PYTHON      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_48, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_49, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_50, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_44)])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <div class=\"grid grid-col-2 gap-2  \">"), _hoisted_45]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            PYTHON      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_46, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_47, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_48, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.python,
     "class": "",
     alt: "",
@@ -22567,7 +22563,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_51)])]), _hoisted_52]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            SKETCH      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_53, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_54, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_55, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_49)])]), _hoisted_50]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            SKETCH      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_51, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_52, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_53, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.sketch,
     "class": "",
     alt: "",
@@ -22575,7 +22571,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     height: "64"
   }, null, 8
   /* PROPS */
-  , _hoisted_56)])]), _hoisted_57])])])], 64
+  , _hoisted_54)])]), _hoisted_55])])])], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -22821,23 +22817,11 @@ var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-0935e9a5"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
 
-var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl sm:text-6xl mb-2 flex justify-center mt-16",
-    style: {
-      "font-family": "'Poppins', sans-serif",
-      "font-weight": "bold"
-    }
-  }, " Contact me ", -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"grid grid-cols-1 md:grid-cols-2 items-center\" data-v-0935e9a5><div class=\"mx-2 px-2 md:px-8\" data-v-0935e9a5><p class=\"w-full max-w-lg mt-4 text-2xl font-bold\" data-v-0935e9a5> Let&#39;s Get in Touch </p><p class=\"w-full max-w-lg mt-4 text-lg\" data-v-0935e9a5> Either you have an inquiry about a potential project, a question about programming or whatever pops into your mind, drop me a message and I will get back to you as soon as possible. </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5><a href=\"https://goo.gl/maps/MDxLQff43DTB3WJ98\" data-v-0935e9a5> ADDRESS: Brănești, Ilfov, România </a> <br data-v-0935e9a5><a href=\"mailto:litcangabi@gmail.com\" data-v-0935e9a5> EMAIL: litcangabi@gmail.com </a> <br data-v-0935e9a5><a href=\"tel:+40773800815\" data-v-0935e9a5> PHONE: +40 773 800 815 </a> <br data-v-0935e9a5></p></div><form class=\"w-full max-w-lg mt-8 bg-contact p-8 rounded-2xl\" data-v-0935e9a5><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" for=\"grid-first-name\" data-v-0935e9a5> Name </label><input class=\"bg-gray-800 appearance-none block w-full text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"grid-first-name\" type=\"text\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" data-v-0935e9a5> Email </label><input class=\"bg-gray-800 appearance-none block w-full text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"email\" type=\"email\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" data-v-0935e9a5> Message </label><textarea class=\"no-resize appearance-none block w-full bg-gray-800 text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none\" id=\"message\" data-v-0935e9a5></textarea></div></div><div class=\"md:flex md:items-center\" data-v-0935e9a5><a class=\"btn btn-outline rounded-full px-16\" type=\"button\" data-v-0935e9a5> Send </a><div class=\"md:w-2/3\" data-v-0935e9a5></div></div></form></div>", 1);
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"grid grid-cols-1 md:grid-cols-2 items-center mt-16\" data-v-0935e9a5><div class=\"mx-2 px-2 md:px-8\" data-v-0935e9a5><p class=\"w-full max-w-lg mt-4 mb-16 text-4xl font-bold\" data-v-0935e9a5> Let&#39;s Get in Touch </p><p class=\"w-full max-w-lg mt-4 text-lg\" data-v-0935e9a5> Either you have an inquiry about a potential project, a question about programming or whatever pops into your mind, drop me a message and I will get back to you as soon as possible. </p><p class=\"w-full max-w-lg mt-8 text-lg\" data-v-0935e9a5><a href=\"https://goo.gl/maps/MDxLQff43DTB3WJ98\" data-v-0935e9a5> ADDRESS: Brănești, Ilfov, România </a> <br data-v-0935e9a5><a href=\"mailto:litcangabi@gmail.com\" data-v-0935e9a5> EMAIL: litcangabi@gmail.com </a> <br data-v-0935e9a5><a href=\"tel:+40773800815\" data-v-0935e9a5> PHONE: +40 773 800 815 </a> <br data-v-0935e9a5></p></div><form class=\"w-full max-w-lg mt-8 bg-contact p-8 rounded-2xl\" data-v-0935e9a5><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" for=\"grid-first-name\" data-v-0935e9a5> Name </label><input class=\"bg-gray-800 appearance-none block w-full text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"grid-first-name\" type=\"text\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" data-v-0935e9a5> Email </label><input class=\"bg-gray-800 appearance-none block w-full text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500\" id=\"email\" type=\"email\" data-v-0935e9a5></div></div><div class=\"flex flex-wrap -mx-3 mb-6\" data-v-0935e9a5><div class=\"w-full px-3\" data-v-0935e9a5><label class=\"block uppercase tracking-wide text-xs font-bold mb-2\" data-v-0935e9a5> Message </label><textarea class=\"no-resize appearance-none block w-full bg-gray-800 text-gray-700 border border-gray-800 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500 h-48 resize-none\" id=\"message\" data-v-0935e9a5></textarea></div></div><div class=\"md:flex md:items-center\" data-v-0935e9a5><a class=\"btn btn-outline rounded-full px-16\" type=\"button\" data-v-0935e9a5> Send </a><div class=\"md:w-2/3\" data-v-0935e9a5></div></div></form></div>", 1);
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" component "), _hoisted_2], 64
-  /* STABLE_FRAGMENT */
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <p"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            class=\"text-4xl  sm:text-6xl mb-2 flex justify-center mt-16 \""), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            style=\"font-family: 'Poppins', sans-serif; font-weight:bold;\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            Contact me"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        </p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" component "), _hoisted_1], 2112
+  /* STABLE_FRAGMENT, DEV_ROOT_FRAGMENT */
   );
 }
 
@@ -23039,19 +23023,7 @@ var _withScopeId = function _withScopeId(n) {
 
 var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl sm:text-6xl text-center",
-    style: {
-      "font-family": "'Poppins', sans-serif",
-      "font-weight": "bold"
-    }
-  }, " Portfolio ", -1
-  /* HOISTED */
-  );
-});
-
-var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl mt-8",
+    "class": "text-4xl mt-8 lg:mx-32",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -23061,17 +23033,17 @@ var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_3 = {
+var _hoisted_2 = {
   "class": "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-8"
 };
-var _hoisted_4 = {
+var _hoisted_3 = {
   "class": "content"
 };
-var _hoisted_5 = {
+var _hoisted_4 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23079,9 +23051,9 @@ var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_7 = ["src"];
+var _hoisted_6 = ["src"];
 
-var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23097,14 +23069,14 @@ var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_9 = {
+var _hoisted_8 = {
   "class": "content"
 };
-var _hoisted_10 = {
+var _hoisted_9 = {
   href: "https://vin-cadou.ro//"
 };
 
-var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_10 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23112,9 +23084,9 @@ var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_12 = ["src"];
+var _hoisted_11 = ["src"];
 
-var _hoisted_13 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23130,14 +23102,14 @@ var _hoisted_13 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_14 = {
+var _hoisted_13 = {
   "class": "content"
 };
-var _hoisted_15 = {
+var _hoisted_14 = {
   href: "https://locdejoacapatratel.ro//"
 };
 
-var _hoisted_16 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_15 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23145,9 +23117,9 @@ var _hoisted_16 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_17 = ["src"];
+var _hoisted_16 = ["src"];
 
-var _hoisted_18 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23163,14 +23135,14 @@ var _hoisted_18 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_19 = {
+var _hoisted_18 = {
   "class": "content"
 };
-var _hoisted_20 = {
+var _hoisted_19 = {
   href: "https://arhique.ro//"
 };
 
-var _hoisted_21 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_20 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23178,9 +23150,9 @@ var _hoisted_21 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_22 = ["src"];
+var _hoisted_21 = ["src"];
 
-var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23196,9 +23168,9 @@ var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl mt-16",
+    "class": "text-4xl mt-32 lg:mx-32",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
@@ -23208,9 +23180,9 @@ var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_25 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-md mt-4",
+    "class": "text-lg mt-4 lg:mx-32",
     style: {
       "font-family": "'Poppins', sans-serif"
     }
@@ -23219,20 +23191,20 @@ var _hoisted_25 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_26 = {
+var _hoisted_25 = {
   "class": "md:flex items-center"
 };
-var _hoisted_27 = {
+var _hoisted_26 = {
   "class": "",
   style: {
     "margin": "initial !important"
   }
 };
-var _hoisted_28 = {
+var _hoisted_27 = {
   href: "https://essex.social"
 };
 
-var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_28 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23240,27 +23212,27 @@ var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_30 = ["src"];
+var _hoisted_29 = ["src"];
 
-var _hoisted_31 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div data-v-f70c20e6><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-2xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Essex Social Network <br data-v-f70c20e6></p></a><p class=\"mt-4\" data-v-f70c20e6> Essex Social Network is an exclusive Social Media Platform destined to be used by people from within University of Essex. Built to enhance student’s experience, it combines the traditional elements of a Social Media App with the University of Essex’s Online Platforms, helping students with their academic and social life. </p><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> essex.social </p></a></div>", 1);
+var _hoisted_30 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div data-v-f70c20e6><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-2xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Essex Social Network <br data-v-f70c20e6></p></a><p class=\"mt-4 text-lg\" data-v-f70c20e6> Essex Social Network is an exclusive Social Media Platform destined to be used by people from within University of Essex. Built to enhance student’s experience, it combines the traditional elements of a Social Media App with the University of Essex’s Online Platforms, helping students with their academic and social life. </p><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> essex.social </p></a></div>", 1);
 
-var _hoisted_32 = {
-  "class": "md:flex items-center mt-16"
+var _hoisted_31 = {
+  "class": "md:flex items-center mt-32 lg:mx-24"
 };
 
-var _hoisted_33 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"md:w-1/2\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-4xl lg:text-4xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Other Projects <br data-v-f70c20e6></p><p class=\"mt-4\" data-v-f70c20e6><!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within--><!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a--><!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic--><!--                and social life.--> Check out other projects, inlucding <br data-v-f70c20e6></p><ul data-v-f70c20e6><li data-v-f70c20e6> • House Price Prediction </li><li data-v-f70c20e6> • 2D Sliding-Puzzle Solver </li><li data-v-f70c20e6> • Analysis and Forecasting Program </li><li data-v-f70c20e6> • Diabetes Prediction </li></ul><a href=\"https://github.com/Gabitzzz\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> github.com/Gabitzzz </p></a></div>", 1);
+var _hoisted_32 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"md:w-1/2\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-4xl lg:text-4xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Other Projects <br data-v-f70c20e6></p><p class=\"mt-4\" data-v-f70c20e6><!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within--><!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a--><!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic--><!--                and social life.--> Check out other projects, inlucding <br data-v-f70c20e6></p><ul data-v-f70c20e6><li data-v-f70c20e6> • House Price Prediction </li><li data-v-f70c20e6> • 2D Sliding-Puzzle Solver </li><li data-v-f70c20e6> • Analysis and Forecasting Program </li><li data-v-f70c20e6> • Diabetes Prediction </li></ul><a href=\"https://github.com/Gabitzzz\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> github.com/Gabitzzz </p></a></div>", 1);
 
-var _hoisted_34 = {
-  "class": "md:w-1/2",
+var _hoisted_33 = {
+  "class": "md:w-2/3",
   style: {
     "margin": "initial !important"
   }
 };
-var _hoisted_35 = {
+var _hoisted_34 = {
   href: "https://github.com/Gabitzzz"
 };
 
-var _hoisted_36 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_35 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23268,49 +23240,49 @@ var _hoisted_36 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_37 = ["src"];
+var _hoisted_36 = ["src"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 \">"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <img :src=\"ted\" alt=\"Gif\" width=\"550\"/>"), _hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            FIRST ROW  "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_5, [_hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <img :src=\"ted\" alt=\"Gif\" width=\"550\"/>"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            FIRST ROW  "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_4, [_hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_7), _hoisted_8])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_10, [_hoisted_11, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_6), _hoisted_7])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_9, [_hoisted_10, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.dws,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_12), _hoisted_13])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_15, [_hoisted_16, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_11), _hoisted_12])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_14, [_hoisted_15, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.patratel,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_17), _hoisted_18])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_20, [_hoisted_21, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_16), _hoisted_17])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_19, [_hoisted_20, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.arhique,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_22), _hoisted_23])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>")]), _hoisted_24, _hoisted_25, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_26, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_27, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_28, [_hoisted_29, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_21), _hoisted_22])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>")]), _hoisted_23, _hoisted_24, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_26, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_27, [_hoisted_28, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.esn,
     alt: "Gif",
     "class": "w-full px-6"
   }, null, 8
   /* PROPS */
-  , _hoisted_30)])]), _hoisted_31]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_32, [_hoisted_33, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_34, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_35, [_hoisted_36, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_29)])]), _hoisted_30]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_31, [_hoisted_32, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_33, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_34, [_hoisted_35, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.git_profile,
     alt: "Gif",
     "class": "w-full px-6"
   }, null, 8
   /* PROPS */
-  , _hoisted_37)])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
+  , _hoisted_36)])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -23387,13 +23359,13 @@ var _hoisted_9 = /*#__PURE__*/_withScopeId(function () {
 });
 
 var _hoisted_10 = {
-  "class": "flex-none grid justify-items-center md:flex justify-center"
+  "class": "flex-none grid justify-items-center md:flex justify-center lg:mx-16"
 };
 var _hoisted_11 = {
   "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
 var _hoisted_12 = {
-  "class": "card product-design bg-base-200 duration-300 shadow-xl mx-6 mt-8"
+  "class": "card product-design bg-base-200 duration-300 shadow-xl mx-6 py-4 mt-8"
 };
 var _hoisted_13 = {
   "class": "px-6 pt-6"
@@ -23419,7 +23391,7 @@ var _hoisted_16 = {
   "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
 var _hoisted_17 = {
-  "class": "card web-dev bg-base-200 duration-300 shadow-xl mx-6 mt-8"
+  "class": "card web-dev bg-base-200 duration-300 shadow-xl mx-6 py-4 mt-8"
 };
 var _hoisted_18 = {
   "class": "px-6 pt-6"
@@ -23496,7 +23468,7 @@ var _hoisted_30 = {
   "class": "md:hover:scale-110 duration-300 transition ease-in"
 };
 var _hoisted_31 = {
-  "class": "card digital-marketing bg-base-200 duration-300 shadow-xl mx-6 mt-8"
+  "class": "card digital-marketing bg-base-200 duration-300 shadow-xl py-4 mx-6 mt-8"
 };
 var _hoisted_32 = {
   "class": "px-6 pt-6"
@@ -24339,18 +24311,22 @@ var _hoisted_2 = {
   id: "banner"
 };
 var _hoisted_3 = {
+  "class": "pt-16"
+};
+var _hoisted_4 = {
   id: "portfolio",
   "class": "pt-32"
 };
-var _hoisted_4 = {
+var _hoisted_5 = {
   id: "about",
   "class": "pt-16"
 };
-var _hoisted_5 = {
-  id: "contact"
+var _hoisted_6 = {
+  id: "contact",
+  "class": "py-32"
 };
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Navbar"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Banner"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Services"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Portfolio"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["About"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Contact"])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Footer"])], 64
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Navbar"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Banner"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Services"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Portfolio"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["About"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Contact"])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Footer"])], 64
   /* STABLE_FRAGMENT */
   );
 }

@@ -1,16 +1,16 @@
 <template>
-        <p
-            class="text-4xl  sm:text-6xl mb-2 flex justify-center mt-16 "
-            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+<!--        <p-->
+<!--            class="text-4xl  sm:text-6xl mb-2 flex justify-center mt-16 "-->
+<!--            style="font-family: 'Poppins', sans-serif; font-weight:bold;">-->
 
-            Contact me
-        </p>
+<!--            Contact me-->
+<!--        </p>-->
 
 
         <!-- component -->
-        <div class="grid grid-cols-1 md:grid-cols-2 items-center">
+        <div class="grid grid-cols-1 md:grid-cols-2 items-center mt-16">
             <div class="mx-2 px-2 md:px-8">
-                <p class="w-full max-w-lg mt-4 text-2xl font-bold">
+                <p class="w-full max-w-lg mt-4 mb-16 text-4xl font-bold">
                     Let's Get in Touch
                 </p>
 

@@ -19,7 +19,9 @@ defineProps({
             <Banner></Banner>
         </section>
 
-        <Services></Services>
+        <div class="pt-16">
+            <Services></Services>
+        </div>
 
         <section id="portfolio" class="pt-32">
             <Portfolio></Portfolio>
@@ -29,7 +31,7 @@ defineProps({
             <About></About>
         </section>
 
-        <section id="contact">
+        <section id="contact" class="py-32">
             <Contact></Contact>
         </section>
     </div>
