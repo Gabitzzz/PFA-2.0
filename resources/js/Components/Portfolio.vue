@@ -8,8 +8,16 @@
     <p
         class="text-4xl mt-8 lg:mx-32 "
         style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-        Clients
+        Web Dev Clients
     </p>
+
+    <p
+        class="text-lg mt-4 lg:mx-32"
+        style="font-family: 'Poppins', sans-serif;">
+
+        Check out my latest Web Development Clients.
+    </p>
+
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-8">
 
 
@@ -59,51 +67,6 @@
             </a>
         </div>
 
-        <!--                        SECOND ROW      -->
-        <!--            <div class="content ">-->
-        <!--                <a href="https://www.tedxuniversityofessex.com/">-->
-        <!--                    <div class="content-overlay"></div>-->
-        <!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
-        <!--                    <div class="content-details fadeIn-bottom">-->
-        <!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
-        <!--                        <p class="content-text">Web Design & Development</p>-->
-        <!--                        <p class="content-text">WIX</p>-->
-        <!--                    </div>-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="content ">-->
-        <!--                <a href="https://www.tedxuniversityofessex.com/">-->
-        <!--                    <div class="content-overlay"></div>-->
-        <!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
-        <!--                    <div class="content-details fadeIn-bottom">-->
-        <!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
-        <!--                        <p class="content-text">Web Design & Development</p>-->
-        <!--                        <p class="content-text">WIX</p>-->
-        <!--                    </div>-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="content ">-->
-        <!--                <a href="https://www.tedxuniversityofessex.com/">-->
-        <!--                    <div class="content-overlay"></div>-->
-        <!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
-        <!--                    <div class="content-details fadeIn-bottom">-->
-        <!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
-        <!--                        <p class="content-text">Web Design & Development</p>-->
-        <!--                        <p class="content-text">WIX</p>-->
-        <!--                    </div>-->
-        <!--                </a>-->
-        <!--            </div>-->
-        <!--            <div class="content ">-->
-        <!--                <a href="https://www.tedxuniversityofessex.com/">-->
-        <!--                    <div class="content-overlay"></div>-->
-        <!--                    <img :src="ted" alt="Gif" width="550" class=""/>-->
-        <!--                    <div class="content-details fadeIn-bottom">-->
-        <!--                        <h5 style="color: white;">TED<sup>x</sup>UniversityOfEssex</h5>-->
-        <!--                        <p class="content-text">Web Design & Development</p>-->
-        <!--                        <p class="content-text">WIX</p>-->
-        <!--                    </div>-->
-        <!--                </a>-->
-        <!--            </div>-->
     </div>
 
     <p
@@ -117,8 +80,7 @@
         style="font-family: 'Poppins', sans-serif;">
         <!--        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.-->
         Capstone Project at University of Essex is an Assignment that serves as a culminating academic and intellectual
-        experience for undergraduate students in their final year.. They can choose a project from University's database
-        or come up with their own project. Capstone Project is 25% of the Undergraduate Degree.
+        experience for undergraduate students in their final year. Capstone Project is 25% of the Undergraduate Degree.
     </p>
 
 

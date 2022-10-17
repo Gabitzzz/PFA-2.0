@@ -2,28 +2,29 @@
 <template>
 
 
-    <div class="mt-6 sm:mt-12 md:flex justify-center items-center lg:mx-16">
+    <div class="mt-6 sm:mt-12 md:flex justify-between items-center">
         <div class="rounded-full m-8">
             <img :src="me" alt="me" class="w-full lg:w-2/3 rounded-full transition ease-in">
         </div>
 
-       <div>
-           <p
-               class="text-4xl sm:text-4xl pb-6 text-center md:text-left"
-               style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-               About Me
-           </p>
-           <p class="">
-               My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at
-               University of Essex in United Kingdom.<br>
+        <div>
+            <p
+                class="text-4xl pb-6 text-center md:text-left"
+                style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+                About Me
+            </p>
+            <p class="text-lg">
+                My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic
+                Engineering at
+                University of Essex in United Kingdom.<br>
 
-               <br>
+                <br>
 
-               I started this business out of my passion for technology and everything related to it. I try as hard as I
-               can to implement the latest and most innovative technologies in my projects and deliver content
-               as high quality as possible.
-           </p>
-       </div>
+                I try as hard as I
+                can to implement the latest and most innovative technologies in my projects and deliver content
+                as high quality as possible.
+            </p>
+        </div>
     </div>
 
     <div class="lg:mx-40 mt-16">
@@ -44,7 +45,8 @@
                 </div>
                 <div class="body">
                     <p class="text-lg">
-                        Founded Lițcan Technologies, Software Company that aims to create a better future through Innovative Products.
+                        Founded Lițcan Technologies, Software Company that aims to create a better future through
+                        Innovative Products.
                     </p>
                 </div>
             </div>
@@ -124,19 +126,19 @@
         </div>
     </div>
 
-   <div class="lg:mx-40 mt-16">
-       <p
-           class="text-3xl mt-8 "
-           style="font-family: 'Poppins', sans-serif; font-weight:bold;">
-           Tech Stack
-       </p>
+    <div class="lg:mx-40 mt-16">
+        <p
+            class="text-4xl mt-8 "
+            style="font-family: 'Poppins', sans-serif; font-weight:bold;">
+            Tech Stack
+        </p>
 
-       <p
-           class="text-md my-4 "
-           style="font-family: 'Poppins', sans-serif;">
-           Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
-       </p>
-   </div>
+        <p
+            class="text-lg my-4 "
+            style="font-family: 'Poppins', sans-serif;">
+            Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects.
+        </p>
+    </div>
 
     <input type="radio" name="rotateAxis" class="hidden" id="axesY" checked>
 

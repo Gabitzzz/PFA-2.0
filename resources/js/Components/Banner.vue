@@ -50,7 +50,7 @@
 
 
             <div class="flex-auto -mt-40 md:mt-0">
-                <img :src="gif" alt="Gif" width="550"/>
+                <img :src="gif" alt="Gif" class="w-full"/>
             </div>
 
         </div>

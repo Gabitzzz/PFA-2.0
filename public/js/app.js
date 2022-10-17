@@ -22260,7 +22260,7 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "mt-6 sm:mt-12 md:flex justify-center items-center lg:mx-16"
+  "class": "mt-6 sm:mt-12 md:flex justify-between items-center"
 };
 var _hoisted_2 = {
   "class": "rounded-full m-8"
@@ -22269,14 +22269,14 @@ var _hoisted_3 = ["src"];
 
 var _hoisted_4 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": "text-4xl sm:text-4xl pb-6 text-center md:text-left",
+    "class": "text-4xl pb-6 text-center md:text-left",
     style: {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
     }
   }, " About Me "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
-    "class": ""
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at University of Essex in United Kingdom."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" I started this business out of my passion for technology and everything related to it. I try as hard as I can to implement the latest and most innovative technologies in my projects and deliver content as high quality as possible. ")])], -1
+    "class": "text-lg"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" My name is Lițcan Nicolae-Gabriel, I am from Romania and I study Computer Science & Electronic Engineering at University of Essex in United Kingdom."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" I try as hard as I can to implement the latest and most innovative technologies in my projects and deliver content as high quality as possible. ")])], -1
   /* HOISTED */
   );
 });
@@ -22295,7 +22295,7 @@ var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex justify-center px-4 mt-8\" data-v-e37b7c5c><div class=\"timeline\" data-v-e37b7c5c><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>July 2022</h3><p data-v-e37b7c5c>Lițcan Technologies</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Technologies, Software Company that aims to create a better future through Innovative Products. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>March 2022</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Student Assistant for University of Essex. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2022</h3><p data-v-e37b7c5c>Essex Social Network</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Started Essex Social Network, a Social Media Platform for students from University of Essex </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January 2021</h3><p data-v-e37b7c5c>Lițcan Nicolae-Gabriel PFA</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Nicolae-Gabriel PFA and started doing freelance work for companies from various fields of activity, including architecture, banking, education or ecommerce.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January-March 2021</h3><p data-v-e37b7c5c>Brănești Middle School</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Manager for my middle school. Handled the school&#39;s hardware(printers, routers, computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and Edus Platform as software. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2020</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Worked on various Projects, including <br data-v-e37b7c5c> Formula Student, <br data-v-e37b7c5c> COVID-19 Analysis and Forecasting Program <br data-v-e37b7c5c> AMY Club <br data-v-e37b7c5c> House Price Prediction.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c> October 2019</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Started studying Computer Science at University of Essex and moved out to Colchester, UK.</p></div></div></div></div><div class=\"lg:mx-40 mt-16\" data-v-e37b7c5c><p class=\"text-3xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Tech Stack </p><p class=\"text-md my-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;\" data-v-e37b7c5c> Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects. </p></div><input type=\"radio\" name=\"rotateAxis\" class=\"hidden\" id=\"axesY\" checked data-v-e37b7c5c>", 3);
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex justify-center px-4 mt-8\" data-v-e37b7c5c><div class=\"timeline\" data-v-e37b7c5c><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>July 2022</h3><p data-v-e37b7c5c>Lițcan Technologies</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Technologies, Software Company that aims to create a better future through Innovative Products. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 class=\"\" data-v-e37b7c5c>March 2022</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Student Assistant for University of Essex. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2022</h3><p data-v-e37b7c5c>Essex Social Network</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Started Essex Social Network, a Social Media Platform for students from University of Essex </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January 2021</h3><p data-v-e37b7c5c>Lițcan Nicolae-Gabriel PFA</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Founded Lițcan Nicolae-Gabriel PFA and started doing freelance work for companies from various fields of activity, including architecture, banking, education or ecommerce.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>January-March 2021</h3><p data-v-e37b7c5c>Brănești Middle School</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c> Worked as an IT Manager for my middle school. Handled the school&#39;s hardware(printers, routers, computers, tablets, CCTV) and used The Integrated Information System of Education in Romania and Edus Platform as software. </p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c>2020</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Worked on various Projects, including <br data-v-e37b7c5c> Formula Student, <br data-v-e37b7c5c> COVID-19 Analysis and Forecasting Program <br data-v-e37b7c5c> AMY Club <br data-v-e37b7c5c> House Price Prediction.</p></div></div><div class=\"entry\" data-v-e37b7c5c><div class=\"title\" data-v-e37b7c5c><h3 data-v-e37b7c5c> October 2019</h3><p data-v-e37b7c5c>University of Essex</p></div><div class=\"body\" data-v-e37b7c5c><p class=\"text-lg\" data-v-e37b7c5c>Started studying Computer Science at University of Essex and moved out to Colchester, UK.</p></div></div></div></div><div class=\"lg:mx-40 mt-16\" data-v-e37b7c5c><p class=\"text-4xl mt-8\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-e37b7c5c> Tech Stack </p><p class=\"text-lg my-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;\" data-v-e37b7c5c> Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects. </p></div><input type=\"radio\" name=\"rotateAxis\" class=\"hidden\" id=\"axesY\" checked data-v-e37b7c5c>", 3);
 
 var _hoisted_9 = {
   "class": "mx-8"
@@ -22737,7 +22737,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
   , _hoisted_13)])]), _hoisted_14, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <div class=\"floating\""), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                     style=\"height: 50px; width: 50px; background: rgb(200,200,200);\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </div>")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.gif,
     alt: "Gif",
-    width: "550"
+    "class": "w-full"
   }, null, 8
   /* PROPS */
   , _hoisted_16)])]);
@@ -23028,22 +23028,33 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
       "font-family": "'Poppins', sans-serif",
       "font-weight": "bold"
     }
-  }, " Clients ", -1
+  }, " Web Dev Clients ", -1
   /* HOISTED */
   );
 });
 
-var _hoisted_2 = {
+var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+    "class": "text-lg mt-4 lg:mx-32",
+    style: {
+      "font-family": "'Poppins', sans-serif"
+    }
+  }, " Check out my latest Web Development Clients. ", -1
+  /* HOISTED */
+  );
+});
+
+var _hoisted_3 = {
   "class": "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 content-center mt-8"
 };
-var _hoisted_3 = {
+var _hoisted_4 = {
   "class": "content"
 };
-var _hoisted_4 = {
+var _hoisted_5 = {
   href: "https://www.tedxuniversityofessex.com/"
 };
 
-var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23051,9 +23062,9 @@ var _hoisted_5 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_6 = ["src"];
+var _hoisted_7 = ["src"];
 
-var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23069,14 +23080,14 @@ var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_8 = {
+var _hoisted_9 = {
   "class": "content"
 };
-var _hoisted_9 = {
+var _hoisted_10 = {
   href: "https://vin-cadou.ro//"
 };
 
-var _hoisted_10 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_11 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23084,9 +23095,9 @@ var _hoisted_10 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_11 = ["src"];
+var _hoisted_12 = ["src"];
 
-var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_13 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23102,14 +23113,14 @@ var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_13 = {
+var _hoisted_14 = {
   "class": "content"
 };
-var _hoisted_14 = {
+var _hoisted_15 = {
   href: "https://locdejoacapatratel.ro//"
 };
 
-var _hoisted_15 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_16 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23117,9 +23128,9 @@ var _hoisted_15 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_16 = ["src"];
+var _hoisted_17 = ["src"];
 
-var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_18 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23135,14 +23146,14 @@ var _hoisted_17 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_18 = {
+var _hoisted_19 = {
   "class": "content"
 };
-var _hoisted_19 = {
+var _hoisted_20 = {
   href: "https://arhique.ro//"
 };
 
-var _hoisted_20 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_21 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23150,9 +23161,9 @@ var _hoisted_20 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_21 = ["src"];
+var _hoisted_22 = ["src"];
 
-var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-details fadeIn-bottom"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h5", {
@@ -23168,7 +23179,7 @@ var _hoisted_22 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-4xl mt-32 lg:mx-32",
     style: {
@@ -23180,31 +23191,31 @@ var _hoisted_23 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_24 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_25 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
     "class": "text-lg mt-4 lg:mx-32",
     style: {
       "font-family": "'Poppins', sans-serif"
     }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Capstone Project at University of Essex is an Assignment that serves as a culminating academic and intellectual experience for undergraduate students in their final year.. They can choose a project from University's database or come up with their own project. Capstone Project is 25% of the Undergraduate Degree. ")], -1
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        Here is my favourite Tech Stack, languages and frameworks that I use every day in most of my projects."), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Capstone Project at University of Essex is an Assignment that serves as a culminating academic and intellectual experience for undergraduate students in their final year. Capstone Project is 25% of the Undergraduate Degree. ")], -1
   /* HOISTED */
   );
 });
 
-var _hoisted_25 = {
+var _hoisted_26 = {
   "class": "md:flex items-center"
 };
-var _hoisted_26 = {
+var _hoisted_27 = {
   "class": "",
   style: {
     "margin": "initial !important"
   }
 };
-var _hoisted_27 = {
+var _hoisted_28 = {
   href: "https://essex.social"
 };
 
-var _hoisted_28 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_29 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23212,27 +23223,27 @@ var _hoisted_28 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_29 = ["src"];
+var _hoisted_30 = ["src"];
 
-var _hoisted_30 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div data-v-f70c20e6><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-2xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Essex Social Network <br data-v-f70c20e6></p></a><p class=\"mt-4 text-lg\" data-v-f70c20e6> Essex Social Network is an exclusive Social Media Platform destined to be used by people from within University of Essex. Built to enhance student’s experience, it combines the traditional elements of a Social Media App with the University of Essex’s Online Platforms, helping students with their academic and social life. </p><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> essex.social </p></a></div>", 1);
+var _hoisted_31 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div data-v-f70c20e6><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-2xl lg:text-2xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Essex Social Network <br data-v-f70c20e6></p></a><p class=\"mt-4 text-lg\" data-v-f70c20e6> Essex Social Network is an exclusive Social Media Platform destined to be used by people from within University of Essex. Built to enhance student’s experience, it combines the traditional elements of a Social Media App with the University of Essex’s Online Platforms, helping students with their academic and social life. </p><a href=\"https://essex.social/\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> essex.social </p></a></div>", 1);
 
-var _hoisted_31 = {
+var _hoisted_32 = {
   "class": "md:flex items-center mt-32 lg:mx-24"
 };
 
-var _hoisted_32 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"md:w-1/2\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-4xl lg:text-4xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Other Projects <br data-v-f70c20e6></p><p class=\"mt-4\" data-v-f70c20e6><!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within--><!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a--><!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic--><!--                and social life.--> Check out other projects, inlucding <br data-v-f70c20e6></p><ul data-v-f70c20e6><li data-v-f70c20e6> • House Price Prediction </li><li data-v-f70c20e6> • 2D Sliding-Puzzle Solver </li><li data-v-f70c20e6> • Analysis and Forecasting Program </li><li data-v-f70c20e6> • Diabetes Prediction </li></ul><a href=\"https://github.com/Gabitzzz\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> github.com/Gabitzzz </p></a></div>", 1);
+var _hoisted_33 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"md:w-1/2\" data-v-f70c20e6><p class=\"mt-4 sm:mt-0 text-4xl lg:text-4xl\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> Other Projects <br data-v-f70c20e6></p><p class=\"mt-4\" data-v-f70c20e6><!--                Essex Social Network is an exclusive Social Media Platform destined to be used by people from within--><!--                University of Essex. Built to enhance student’s experience, it combines the traditional elements of a--><!--                Social Media App with the University of Essex’s Online Platforms, helping students with their academic--><!--                and social life.--> Check out other projects, inlucding <br data-v-f70c20e6></p><ul data-v-f70c20e6><li data-v-f70c20e6> • House Price Prediction </li><li data-v-f70c20e6> • 2D Sliding-Puzzle Solver </li><li data-v-f70c20e6> • Analysis and Forecasting Program </li><li data-v-f70c20e6> • Diabetes Prediction </li></ul><a href=\"https://github.com/Gabitzzz\" data-v-f70c20e6><p class=\"text-xl mt-4\" style=\"font-family:&#39;Poppins&#39;, sans-serif;font-weight:bold;\" data-v-f70c20e6> github.com/Gabitzzz </p></a></div>", 1);
 
-var _hoisted_33 = {
+var _hoisted_34 = {
   "class": "md:w-2/3",
   style: {
     "margin": "initial !important"
   }
 };
-var _hoisted_34 = {
+var _hoisted_35 = {
   href: "https://github.com/Gabitzzz"
 };
 
-var _hoisted_35 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_36 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "content-overlay"
   }, null, -1
@@ -23240,49 +23251,49 @@ var _hoisted_35 = /*#__PURE__*/_withScopeId(function () {
   );
 });
 
-var _hoisted_36 = ["src"];
+var _hoisted_37 = ["src"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <img :src=\"ted\" alt=\"Gif\" width=\"550\"/>"), _hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            FIRST ROW  "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_4, [_hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    <div class=\"w-full px-8 md:px-16 lg:px-24 xl:px-40 pb-24 mt-32 \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("        <img :src=\"ted\" alt=\"Gif\" width=\"550\"/>"), _hoisted_1, _hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            FIRST ROW  "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_5, [_hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.ted,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_6), _hoisted_7])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_9, [_hoisted_10, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_7), _hoisted_8])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_10, [_hoisted_11, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.dws,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_11), _hoisted_12])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_14, [_hoisted_15, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_12), _hoisted_13])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_14, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_15, [_hoisted_16, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.patratel,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_16), _hoisted_17])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_19, [_hoisted_20, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_17), _hoisted_18])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_20, [_hoisted_21, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.arhique,
     alt: "Gif",
     width: "550",
     "class": ""
   }, null, 8
   /* PROPS */
-  , _hoisted_21), _hoisted_22])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        SECOND ROW      "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            <div class=\"content \">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                <a href=\"https://www.tedxuniversityofessex.com/\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-overlay\"></div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <img :src=\"ted\" alt=\"Gif\" width=\"550\" class=\"\"/>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    <div class=\"content-details fadeIn-bottom\">"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <h5 style=\"color: white;\">TED<sup>x</sup>UniversityOfEssex</h5>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">Web Design & Development</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                        <p class=\"content-text\">WIX</p>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                    </div>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("                </a>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("            </div>")]), _hoisted_23, _hoisted_24, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_26, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_27, [_hoisted_28, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_22), _hoisted_23])])]), _hoisted_24, _hoisted_25, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_26, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_27, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_28, [_hoisted_29, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.esn,
     alt: "Gif",
     "class": "w-full px-6"
   }, null, 8
   /* PROPS */
-  , _hoisted_29)])]), _hoisted_30]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_31, [_hoisted_32, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_33, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_34, [_hoisted_35, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  , _hoisted_30)])]), _hoisted_31]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_32, [_hoisted_33, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_34, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", _hoisted_35, [_hoisted_36, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
     src: $data.git_profile,
     alt: "Gif",
     "class": "w-full px-6"
   }, null, 8
   /* PROPS */
-  , _hoisted_36)])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
+  , _hoisted_37)])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("    </div>")], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -23359,7 +23370,7 @@ var _hoisted_9 = /*#__PURE__*/_withScopeId(function () {
 });
 
 var _hoisted_10 = {
-  "class": "flex-none grid justify-items-center md:flex justify-center lg:mx-16"
+  "class": "flex-none grid justify-items-center md:flex justify-center"
 };
 var _hoisted_11 = {
   "class": "md:hover:scale-110 duration-300 transition ease-in"
@@ -24305,28 +24316,32 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-40 2xl:px-80 pt-24 md:pt-40"
+  "class": "2xl:px-48"
 };
 var _hoisted_2 = {
-  id: "banner"
+  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-40 2xl:px-80"
 };
 var _hoisted_3 = {
-  "class": "pt-16"
+  id: "banner",
+  "class": "pt-24 md:pt-40"
 };
 var _hoisted_4 = {
+  "class": "pt-16"
+};
+var _hoisted_5 = {
   id: "portfolio",
   "class": "pt-32"
 };
-var _hoisted_5 = {
+var _hoisted_6 = {
   id: "about",
   "class": "pt-16"
 };
-var _hoisted_6 = {
+var _hoisted_7 = {
   id: "contact",
   "class": "py-32"
 };
 function render(_ctx, _cache, $props, $setup, $data, $options) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Navbar"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Banner"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Services"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Portfolio"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["About"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Contact"])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Footer"])], 64
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Navbar"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Banner"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Services"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Portfolio"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["About"])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Contact"])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)($setup["Footer"])], 64
   /* STABLE_FRAGMENT */
   );
 }
