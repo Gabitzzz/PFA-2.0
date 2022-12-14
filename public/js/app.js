@@ -24319,7 +24319,7 @@ var _hoisted_1 = {
   "class": "2xl:px-48"
 };
 var _hoisted_2 = {
-  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-40 2xl:px-80"
+  "class": "w-full px-4 py-8 sm:px-8 md:px-16 lg:px-40 2xl:px-48"
 };
 var _hoisted_3 = {
   id: "banner",

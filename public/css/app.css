@@ -2487,12 +2487,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.-mx-3{
   margin-left: -0.75rem;
   margin-right: -0.75rem;
-}.my-8{
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}.mx-24{
-  margin-left: 6rem;
-  margin-right: 6rem;
 }.ml-3{
   margin-left: 0.75rem;
 }.-ml-px{
@@ -3189,9 +3183,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     text-align: left;
   }.sm\:text-right{
     text-align: right;
-  }.sm\:text-4xl{
-    font-size: 2.25rem;
-    line-height: 2.5rem;
   }.sm\:text-6xl{
     font-size: 3.75rem;
     line-height: 1;
@@ -3274,9 +3265,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     border-top-right-radius: inherit;
     border-bottom-right-radius: inherit;
     border-bottom-left-radius: unset;
-  }.lg\:mx-16{
-    margin-left: 4rem;
-    margin-right: 4rem;
   }.lg\:mx-40{
     margin-left: 10rem;
     margin-right: 10rem;
@@ -3325,21 +3313,18 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-left: 10rem;
     padding-right: 10rem;
   }
-}@media (min-width: 1536px){.\32xl\:mx-32{
-    margin-left: 8rem;
-    margin-right: 8rem;
-  }.\32xl\:px-80{
+}@media (min-width: 1536px){.\32xl\:px-80{
     padding-left: 20rem;
     padding-right: 20rem;
-  }.\32xl\:px-96{
-    padding-left: 24rem;
-    padding-right: 24rem;
   }.\32xl\:px-48{
     padding-left: 12rem;
     padding-right: 12rem;
-  }.\32xl\:px-32{
-    padding-left: 8rem;
-    padding-right: 8rem;
+  }.\32xl\:px-64{
+    padding-left: 16rem;
+    padding-right: 16rem;
+  }.\32xl\:px-56{
+    padding-left: 14rem;
+    padding-right: 14rem;
   }
 }
 
